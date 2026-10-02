@@ -1,0 +1,306 @@
+﻿id_venda;data_venda;cliente;email;cidade;uf;produto;categoria;quantidade;preco_unitario;desconto_pct
+1001;05/01/2026;Ana Paula Ribeiro;ana.ribeiro@email.com;Florianópolis;SC;Notebook Inspiron 15;Informática;1;3899,90;10
+1002;05/01/2026;  carlos eduardo lima ;carlos.lima@email.com;São José;SC;Mouse sem fio;Informática;2;89,90;0
+1003;07/01/2026;Beatriz Santos;bia.santos@email.com;Joinville;sc;Cadeira Gamer;Móveis;1;1299,00;5
+1004;08/01/2026;JOÃO PEDRO ALMEIDA;joao.almeida@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;2;899,00;
+1005;10/01/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Mesa de Escritório;MÓVEIS;1;749,90;0
+1006;12/01/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Teclado Mecânico;Informática;1;349,90;0
+1007;14/01/2026;lucas gabriel ferreira;lucas.ferreira@email.com;Florianópolis;SC;Fone Bluetooth;Eletrônicos;3;199,90;15
+1008;15/01/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;pr;Smartphone Galaxy A55;Eletrônicos;1;2199,00;5
+1009;18/01/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Webcam Full HD;Informática;1;259,90;
+1010;20/01/2026;Camila Rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Estante de Livros;Móveis;2;429,00;0
+1010;20/01/2026;Camila Rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Estante de Livros;Móveis;2;429,00;0
+1011;22/01/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Smart TV 50 polegadas;Eletrônicos;1;2799,00;10
+1012;25/01/2026;Ana Paula Ribeiro;ana.ribeiro@email.com;Florianópolis;SC;Mouse sem fio;Informática;1;89,90;0
+1013;28/01/2026;Larissa Gomes;larissa.gomes@email.com;Chapecó;SC;Luminária de Mesa;Móveis;4;119,90;0
+1014;02/02/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Notebook Inspiron 15;informática;1;3899,90;8
+1015;03/02/2026;Beatriz Santos;bia.santos@email.com;Joinville;SC;Fone Bluetooth;Eletrônicos;1;199,90;0
+1016;05/02/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;RS;Cadeira Gamer;Móveis;2;1299,00;12
+1017;07/02/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Monitor 24 polegadas;Informática;1;899,00;0
+1018;10/02/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Tablet Galaxy Tab;Eletrônicos;1;1899,00;5
+1019;12/02/2026;  Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Teclado Mecânico;Informática;2;349,90;10
+1020;14/02/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Fone Bluetooth;ELETRÔNICOS;2;199,90;0
+1021;17/02/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Mesa de Escritório;Móveis;1;749,90;
+1022;19/02/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1023;21/02/2026;Patrícia Mendes;patricia.mendes@email.com;Ponta Grossa;PR;Webcam Full HD;Informática;3;259,90;5
+1024;24/02/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Luminária de Mesa;Móveis;2;119,90;0
+1025;26/02/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;15
+1026;01/03/2026;Vinícius Araújo Castro;vinicius.castro@email.com;Criciúma;SC;Notebook Inspiron 15;Informática;1;3899,90;0
+1027;04/03/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;rs;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1028;06/03/2026;Aline Batista;aline.batista@email.com;Cascavel;PR;Estante de Livros;Móveis;1;429,00;5
+1029;09/03/2026;JOÃO PEDRO ALMEIDA;joao.almeida@email.com;Curitiba;PR;Mouse sem fio;Informática;5;89,90;20
+1030;12/03/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;RS;Fone Bluetooth;Eletrônicos;1;199,90;0
+1031;13/03/2026;GABRIELA ALVES PEREIRA;gabriela.pereira@email.com;Pelotas;RS;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1032;13/03/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;1;899,00;15
+1033;13/03/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Teclado Mecânico;Informática;3;349,90;20
+1034;14/03/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Estante de Livros;Móveis;1;429,00;
+1035;15/03/2026;Beatriz Santos;bia.santos@email.com;Joinville;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1036;15/03/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Luminária de Mesa;Móveis;1;119,90;15
+1037;16/03/2026;gustavo ramos leite;gustavo.leite@email.com;Cascavel;PR;Estante de Livros;Móveis;2;429,00;15
+1038;16/03/2026;  Aline Batista ;aline.batista@email.com;Cascavel;PR;Estante de Livros;Móveis;5;429,00;0
+1039;16/03/2026;MATEUS OLIVEIRA SANTOS;mateus.santos@email.com;Chapecó;SC;Cadeira Gamer;Móveis;1;1299,00;10
+1040;17/03/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Mesa de Escritório;Móveis;2;749,90;15
+1041;17/03/2026;FERNANDA COSTA OLIVEIRA;fernanda.oliveira@email.com;Porto Alegre;RS;Cadeira Gamer;Móveis;1;1299,00;5
+1042;18/03/2026;rodrigo azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Fone Bluetooth;Eletrônicos;1;199,90;15
+1043;18/03/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Mouse sem fio;Informática;1;89,90;20
+1044;19/03/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Tablet Galaxy Tab;Eletrônicos;1;1899,00;5
+1045;20/03/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Fone Bluetooth;Eletrônicos;4;199,90;
+1046;20/03/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Cadeira Gamer;MÓVEIS;2;1299,00;20
+1047;21/03/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Smart TV 50 polegadas;Eletrônicos;1;2799,00;0
+1048;21/03/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Mesa de Escritório;Móveis;1;749,90;10
+1049;21/03/2026;rodrigo azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Cadeira Gamer;Móveis;1;1299,00;
+1050;21/03/2026;Camila Rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Teclado Mecânico;Informática;3;349,90;0
+1051;21/03/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Tablet Galaxy Tab;Eletrônicos;1;1899,00;15
+1052;22/03/2026;CAIO MOREIRA PRADO;caio.prado@email.com;Foz do Iguaçu;PR;Tablet Galaxy Tab;eletrônicos;2;1899,00;5
+1053;23/03/2026;Henrique Vasconcelos;henrique.vasconcelos@email.com;Pelotas;RS;Fone Bluetooth;ELETRÔNICOS;4;199,90;10
+1054;23/03/2026;BRUNO CÉSAR DIAS;bruno.dias@email.com;Porto Alegre;RS;Teclado Mecânico;Informática;1;349,90;15
+1055;23/03/2026;Otávio Siqueira;otavio.siqueira@email.com;Lages;SC;Fone Bluetooth;Eletrônicos;1;199,90;5
+1056;23/03/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;1;899,00;
+1057;24/03/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1058;24/03/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Cadeira Gamer;Móveis;1;1299,00;5
+1059;24/03/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;pr;Mesa de Escritório;Móveis;1;749,90;0
+1060;24/03/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Notebook Inspiron 15;Informática;1;3899,90;5
+1061;25/03/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Mouse sem fio;Informática;2;89,90;5
+1062;25/03/2026;Renata Cristina Moura;renata.moura@email.com;Florianópolis;sc;Mouse sem fio;Informática;4;89,90;15
+1063;26/03/2026;HENRIQUE VASCONCELOS;henrique.vasconcelos@email.com;Pelotas;RS;Fone Bluetooth;Eletrônicos;3;199,90;5
+1064;26/03/2026;larissa gomes;larissa.gomes@email.com;Chapecó;SC;Mouse sem fio;Informática;3;89,90;15
+1065;26/03/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Teclado Mecânico;Informática;2;349,90;0
+1066;27/03/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;2;899,00;0
+1067;27/03/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Teclado Mecânico;Informática;2;349,90;15
+1068;27/03/2026;João Pedro Almeida;joao.almeida@email.com;Curitiba;PR;Smart TV 50 polegadas;Eletrônicos;1;2799,00;0
+1069;27/03/2026;Elaine Duarte;elaine.duarte@email.com;Novo Hamburgo;rs;Smartphone Galaxy A55;Eletrônicos;1;2199,00;10
+1070;27/03/2026;Otávio Siqueira;otavio.siqueira@email.com;Lages;SC;Webcam Full HD;Informática;3;259,90;20
+1071;28/03/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Smart TV 50 polegadas;Eletrônicos;2;2799,00;0
+1072;28/03/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Estante de Livros;Móveis;5;429,00;0
+1073;29/03/2026;Ana Paula Ribeiro;ana.ribeiro@email.com;Florianópolis;SC;Cadeira Gamer;Móveis;1;1299,00;10
+1074;29/03/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Luminária de Mesa;Móveis;4;119,90;10
+1075;30/03/2026;Aline Batista;aline.batista@email.com;Cascavel;PR;Webcam Full HD;Informática;5;259,90;0
+1076;30/03/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Notebook Inspiron 15;Informática;1;3899,90;15
+1077;30/03/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Tablet Galaxy Tab;Eletrônicos;1;1899,00;10
+1078;31/03/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Notebook Inspiron 15;Informática;1;3899,90;10
+1079;01/04/2026;Isadora Freitas Melo;isadora.melo@email.com;Balneário Camboriú;SC;Webcam Full HD;Informática;5;259,90;15
+1080;01/04/2026;João Pedro Almeida;joao.almeida@email.com;Curitiba;PR;Luminária de Mesa;móveis;2;119,90;5
+1081;01/04/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;rs;Mouse sem fio;Informática;4;89,90;0
+1082;02/04/2026;Simone Cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Notebook Inspiron 15;Informática;2;3899,90;0
+1083;02/04/2026;Vinícius Araújo Castro;vinicius.castro@email.com;Criciúma;sc;Teclado Mecânico;Informática;1;349,90;20
+1084;02/04/2026;Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Mouse sem fio;Informática;3;89,90;15
+1085;02/04/2026;Isadora Freitas Melo;isadora.melo@email.com;Balneário Camboriú;SC;Mouse sem fio;Informática;2;89,90;0
+1086;02/04/2026;Eduardo Henrique Rocha;eduardo.rocha@email.com;Maringá;PR;Notebook Inspiron 15;Informática;1;3899,90;20
+1087;02/04/2026;ana paula ribeiro;ana.ribeiro@email.com;Florianópolis;SC;Estante de Livros;MÓVEIS;4;429,00;10
+1088;03/04/2026;Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Monitor 24 polegadas;Informática;1;899,00;10
+1089;03/04/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Mesa de Escritório;MÓVEIS;5;749,90;0
+1090;04/04/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Luminária de Mesa;Móveis;4;119,90;0
+1091;06/04/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Luminária de Mesa;Móveis;5;119,90;0
+1092;07/04/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;10
+1093;07/04/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Webcam Full HD;INFORMÁTICA;5;259,90;0
+1094;07/04/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Smartphone Galaxy A55;Eletrônicos;2;2199,00;10
+1095;08/04/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Estante de Livros;móveis;4;429,00;5
+1096;09/04/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Webcam Full HD;INFORMÁTICA;1;259,90;5
+1097;09/04/2026;luana pires;luana.pires@email.com;Santa Maria;RS;Cadeira Gamer;Móveis;2;1299,00;10
+1098;09/04/2026;  Pedro Henrique Souza ;pedro.souza@email.com;Londrina;PR;Teclado Mecânico;Informática;1;349,90;10
+1099;09/04/2026;Simone Cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Webcam Full HD;Informática;2;259,90;10
+1100;09/04/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Estante de Livros;Móveis;2;429,00;10
+1101;10/04/2026;Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Monitor 24 polegadas;Informática;1;899,00;10
+1102;10/04/2026;Henrique Vasconcelos;henrique.vasconcelos@email.com;Pelotas;RS;Monitor 24 polegadas;INFORMÁTICA;2;899,00;20
+1103;10/04/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Estante de Livros;Móveis;1;429,00;10
+1104;10/04/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Notebook Inspiron 15;Informática;1;3899,90;0
+1105;10/04/2026;Vinícius Araújo Castro;vinicius.castro@email.com;Criciúma;SC;Monitor 24 polegadas;Informática;2;899,00;15
+1106;11/04/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Monitor 24 polegadas;informática;4;899,00;10
+1107;11/04/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;1;899,00;15
+1108;11/04/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;PR;Mesa de Escritório;Móveis;4;749,90;20
+1109;11/04/2026;Camila Rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Luminária de Mesa;Móveis;2;119,90;0
+1110;12/04/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Mesa de Escritório;móveis;1;749,90;0
+1111;12/04/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Estante de Livros;Móveis;5;429,00;0
+1112;13/04/2026;elaine duarte;elaine.duarte@email.com;Novo Hamburgo;rs;Cadeira Gamer;Móveis;1;1299,00;10
+1113;13/04/2026;  Thiago Barbosa Nunes ;thiago.nunes@email.com;Maringá;PR;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1114;13/04/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Estante de Livros;Móveis;3;429,00;10
+1115;13/04/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Mouse sem fio;Informática;2;89,90;10
+1116;14/04/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;20
+1117;15/04/2026;  Fernanda Costa Oliveira ;fernanda.oliveira@email.com;Porto Alegre;RS;Mesa de Escritório;MÓVEIS;4;749,90;0
+1118;15/04/2026;Aline Batista;aline.batista@email.com;Cascavel;pr;Mouse sem fio;Informática;2;89,90;20
+1119;15/04/2026;JOÃO PEDRO ALMEIDA;joao.almeida@email.com;Curitiba;PR;Teclado Mecânico;Informática;5;349,90;10
+1120;15/04/2026;vinícius araújo castro;vinicius.castro@email.com;Criciúma;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;10
+1121;15/04/2026;  Isadora Freitas Melo ;isadora.melo@email.com;Balneário Camboriú;SC;Fone Bluetooth;Eletrônicos;1;199,90;0
+1122;16/04/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Mesa de Escritório;Móveis;2;749,90;0
+1123;16/04/2026;isadora freitas melo;isadora.melo@email.com;Balneário Camboriú;sc;Smart TV 50 polegadas;Eletrônicos;2;2799,00;10
+1124;16/04/2026;larissa gomes;larissa.gomes@email.com;Chapecó;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1125;16/04/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;
+1126;17/04/2026;  Elaine Duarte ;elaine.duarte@email.com;Novo Hamburgo;RS;Notebook Inspiron 15;Informática;2;3899,90;5
+1127;17/04/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Estante de Livros;móveis;2;429,00;5
+1128;17/04/2026;Eduardo Henrique Rocha;eduardo.rocha@email.com;Maringá;PR;Monitor 24 polegadas;Informática;2;899,00;10
+1129;17/04/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Cadeira Gamer;Móveis;2;1299,00;0
+1129;17/04/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Cadeira Gamer;Móveis;2;1299,00;0
+1130;19/04/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Smart TV 50 polegadas;ELETRÔNICOS;1;2799,00;
+1131;19/04/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Monitor 24 polegadas;Informática;3;899,00;10
+1132;19/04/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Fone Bluetooth;ELETRÔNICOS;2;199,90;10
+1133;20/04/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Teclado Mecânico;informática;1;349,90;5
+1134;21/04/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Notebook Inspiron 15;Informática;1;3899,90;
+1135;21/04/2026;Renata Cristina Moura;renata.moura@email.com;Florianópolis;SC;Teclado Mecânico;Informática;2;349,90;10
+1136;22/04/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Fone Bluetooth;Eletrônicos;2;199,90;0
+1137;22/04/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Mesa de Escritório;Móveis;5;749,90;10
+1138;23/04/2026;Aline Batista;aline.batista@email.com;Cascavel;PR;Mesa de Escritório;Móveis;4;749,90;5
+1139;23/04/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Notebook Inspiron 15;Informática;2;3899,90;5
+1140;25/04/2026;Larissa Gomes;larissa.gomes@email.com;Chapecó;SC;Luminária de Mesa;Móveis;4;119,90;0
+1141;25/04/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;4;899,00;10
+1142;25/04/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Notebook Inspiron 15;Informática;1;3899,90;0
+1143;25/04/2026;PATRÍCIA MENDES;patricia.mendes@email.com;Ponta Grossa;PR;Estante de Livros;Móveis;3;429,00;10
+1144;26/04/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Estante de Livros;Móveis;2;429,00;5
+1145;27/04/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Tablet Galaxy Tab;Eletrônicos;2;1899,00;5
+1146;27/04/2026;Simone Cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Cadeira Gamer;Móveis;1;1299,00;0
+1147;28/04/2026;Caio Moreira Prado;caio.prado@email.com;Foz do Iguaçu;PR;Mouse sem fio;Informática;1;89,90;
+1148;28/04/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Cadeira Gamer;Móveis;1;1299,00;5
+1149;28/04/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Luminária de Mesa;Móveis;3;119,90;10
+1150;28/04/2026;Caio Moreira Prado;caio.prado@email.com;Foz do Iguaçu;PR;Smartphone Galaxy A55;Eletrônicos;2;2199,00;20
+1151;29/04/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;rs;Notebook Inspiron 15;Informática;1;3899,90;10
+1152;29/04/2026;João Pedro Almeida;joao.almeida@email.com;Curitiba;PR;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1153;29/04/2026;Otávio Siqueira;otavio.siqueira@email.com;Lages;SC;Teclado Mecânico;Informática;2;349,90;10
+1154;30/04/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;PR;Estante de Livros;Móveis;1;429,00;10
+1155;30/04/2026;JOÃO PEDRO ALMEIDA;joao.almeida@email.com;Curitiba;PR;Cadeira Gamer;Móveis;2;1299,00;5
+1156;30/04/2026;Beatriz Santos;bia.santos@email.com;Joinville;SC;Smartphone Galaxy A55;Eletrônicos;2;2199,00;5
+1157;30/04/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;RS;Tablet Galaxy Tab;Eletrônicos;1;1899,00;20
+1157;30/04/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;RS;Tablet Galaxy Tab;Eletrônicos;1;1899,00;20
+1158;30/04/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;
+1159;01/05/2026;vinícius araújo castro;vinicius.castro@email.com;Criciúma;SC;Monitor 24 polegadas;Informática;4;899,00;0
+1160;02/05/2026;Elaine Duarte;elaine.duarte@email.com;Novo Hamburgo;RS;Luminária de Mesa;Móveis;1;119,90;15
+1161;03/05/2026;Isadora Freitas Melo;isadora.melo@email.com;Balneário Camboriú;SC;Fone Bluetooth;Eletrônicos;2;199,90;10
+1162;03/05/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Notebook Inspiron 15;Informática;1;3899,90;0
+1163;03/05/2026;mateus oliveira santos;mateus.santos@email.com;Chapecó;SC;Webcam Full HD;Informática;3;259,90;5
+1164;05/05/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Notebook Inspiron 15;Informática;1;3899,90;
+1165;06/05/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Estante de Livros;Móveis;4;429,00;0
+1166;06/05/2026;LARISSA GOMES;larissa.gomes@email.com;Chapecó;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;
+1166;06/05/2026;LARISSA GOMES;larissa.gomes@email.com;Chapecó;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;
+1167;06/05/2026;juliana martins rocha;juliana.rocha@email.com;Curitiba;PR;Tablet Galaxy Tab;Eletrônicos;2;1899,00;0
+1168;06/05/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Estante de Livros;Móveis;1;429,00;0
+1169;06/05/2026;Simone Cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Mouse sem fio;Informática;3;89,90;0
+1170;07/05/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Mesa de Escritório;Móveis;1;749,90;5
+1171;08/05/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Estante de Livros;Móveis;4;429,00;5
+1172;09/05/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Mesa de Escritório;móveis;1;749,90;0
+1173;09/05/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Tablet Galaxy Tab;eletrônicos;1;1899,00;0
+1174;10/05/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Luminária de Mesa;Móveis;1;119,90;15
+1175;10/05/2026;LUANA PIRES;luana.pires@email.com;Santa Maria;RS;Webcam Full HD;Informática;1;259,90;20
+1176;10/05/2026;diego fernandes;diego.fernandes@email.com;Joinville;SC;Smart TV 50 polegadas;eletrônicos;1;2799,00;0
+1177;10/05/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;sc;Webcam Full HD;Informática;5;259,90;0
+1178;11/05/2026;diego fernandes;diego.fernandes@email.com;Joinville;sc;Teclado Mecânico;Informática;2;349,90;15
+1179;11/05/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Smart TV 50 polegadas;ELETRÔNICOS;1;2799,00;10
+1180;12/05/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;rs;Mesa de Escritório;Móveis;2;749,90;
+1181;14/05/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Mouse sem fio;INFORMÁTICA;4;89,90;0
+1182;14/05/2026;CAIO MOREIRA PRADO;caio.prado@email.com;Foz do Iguaçu;PR;Monitor 24 polegadas;Informática;3;899,00;0
+1183;15/05/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Teclado Mecânico;Informática;2;349,90;10
+1184;15/05/2026;Otávio Siqueira;otavio.siqueira@email.com;Lages;SC;Estante de Livros;Móveis;5;429,00;0
+1185;16/05/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Mouse sem fio;Informática;2;89,90;0
+1186;16/05/2026;Camila Rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Monitor 24 polegadas;Informática;2;899,00;5
+1187;16/05/2026;priscila nascimento;priscila.nascimento@email.com;Londrina;PR;Estante de Livros;Móveis;1;429,00;0
+1188;16/05/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;20
+1189;17/05/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Monitor 24 polegadas;Informática;5;899,00;
+1190;18/05/2026;Beatriz Santos;bia.santos@email.com;Joinville;SC;Mesa de Escritório;Móveis;3;749,90;5
+1191;19/05/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;PR;Luminária de Mesa;móveis;5;119,90;0
+1192;19/05/2026;Isadora Freitas Melo;isadora.melo@email.com;Balneário Camboriú;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;10
+1193;19/05/2026;  Tatiane Borges Lima ;tatiane.lima@email.com;Blumenau;SC;Cadeira Gamer;Móveis;1;1299,00;0
+1194;20/05/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Monitor 24 polegadas;Informática;1;899,00;0
+1195;20/05/2026;débora figueira;debora.figueira@email.com;Itajaí;SC;Teclado Mecânico;Informática;4;349,90;0
+1196;20/05/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Monitor 24 polegadas;Informática;1;899,00;5
+1197;20/05/2026;Caio Moreira Prado;caio.prado@email.com;Foz do Iguaçu;pr;Cadeira Gamer;móveis;1;1299,00;0
+1198;20/05/2026;Patrícia Mendes;patricia.mendes@email.com;Ponta Grossa;PR;Tablet Galaxy Tab;Eletrônicos;2;1899,00;10
+1199;21/05/2026;renata cristina moura;renata.moura@email.com;Florianópolis;SC;Estante de Livros;Móveis;2;429,00;10
+1200;21/05/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Tablet Galaxy Tab;ELETRÔNICOS;1;1899,00;0
+1201;21/05/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;RS;Mesa de Escritório;móveis;1;749,90;0
+1202;21/05/2026;rafael moreira;rafael.moreira@email.com;Blumenau;SC;Teclado Mecânico;Informática;2;349,90;0
+1203;22/05/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1204;22/05/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Estante de Livros;Móveis;5;429,00;5
+1205;22/05/2026;NATÁLIA CORREIA;natalia.correia@email.com;Ponta Grossa;PR;Mesa de Escritório;Móveis;1;749,90;10
+1206;22/05/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;PR;Teclado Mecânico;Informática;2;349,90;0
+1207;23/05/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;10
+1208;23/05/2026;eduardo henrique rocha;eduardo.rocha@email.com;Maringá;PR;Estante de Livros;Móveis;3;429,00;
+1209;23/05/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Monitor 24 polegadas;Informática;4;899,00;
+1210;24/05/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Fone Bluetooth;Eletrônicos;3;199,90;0
+1211;24/05/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Notebook Inspiron 15;Informática;2;3899,90;
+1212;25/05/2026;Larissa Gomes;larissa.gomes@email.com;Chapecó;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;0
+1213;26/05/2026;Isadora Freitas Melo;isadora.melo@email.com;Balneário Camboriú;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;5
+1214;26/05/2026;BEATRIZ SANTOS;bia.santos@email.com;Joinville;SC;Monitor 24 polegadas;Informática;5;899,00;5
+1215;27/05/2026;Renata Cristina Moura;renata.moura@email.com;Florianópolis;SC;Mouse sem fio;Informática;2;89,90;20
+1216;27/05/2026;  Patrícia Mendes ;patricia.mendes@email.com;Ponta Grossa;PR;Webcam Full HD;Informática;3;259,90;
+1217;27/05/2026;Beatriz Santos;bia.santos@email.com;Joinville;SC;Notebook Inspiron 15;Informática;1;3899,90;5
+1218;28/05/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Luminária de Mesa;Móveis;4;119,90;10
+1219;28/05/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Monitor 24 polegadas;Informática;2;899,00;10
+1220;28/05/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Estante de Livros;Móveis;2;429,00;0
+1221;29/05/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Monitor 24 polegadas;Informática;1;899,00;20
+1222;29/05/2026;Mateus Oliveira Santos;mateus.santos@email.com;Chapecó;SC;Fone Bluetooth;Eletrônicos;3;199,90;0
+1223;29/05/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Tablet Galaxy Tab;ELETRÔNICOS;1;1899,00;
+1224;29/05/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Fone Bluetooth;Eletrônicos;1;199,90;5
+1225;29/05/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Fone Bluetooth;Eletrônicos;1;199,90;5
+1226;31/05/2026;rodrigo azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Cadeira Gamer;Móveis;1;1299,00;20
+1227;01/06/2026;Eduardo Henrique Rocha;eduardo.rocha@email.com;Maringá;PR;Teclado Mecânico;Informática;2;349,90;0
+1228;01/06/2026;Patrícia Mendes;patricia.mendes@email.com;Ponta Grossa;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;10
+1229;01/06/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;PR;Luminária de Mesa;Móveis;2;119,90;
+1230;02/06/2026;João Pedro Almeida;joao.almeida@email.com;Curitiba;PR;Webcam Full HD;Informática;2;259,90;15
+1231;02/06/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Mesa de Escritório;Móveis;1;749,90;
+1232;02/06/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Estante de Livros;Móveis;2;429,00;0
+1233;02/06/2026;Débora Figueira;debora.figueira@email.com;Itajaí;SC;Mouse sem fio;Informática;1;89,90;0
+1234;02/06/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Cadeira Gamer;móveis;2;1299,00;15
+1235;03/06/2026;Gabriela Alves Pereira;gabriela.pereira@email.com;Pelotas;RS;Cadeira Gamer;Móveis;1;1299,00;0
+1236;03/06/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Cadeira Gamer;Móveis;1;1299,00;10
+1237;03/06/2026;PATRÍCIA MENDES;patricia.mendes@email.com;Ponta Grossa;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1238;04/06/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;RS;Mouse sem fio;Informática;1;89,90;5
+1239;04/06/2026;Pedro Henrique Souza;pedro.souza@email.com;Londrina;pr;Estante de Livros;Móveis;1;429,00;10
+1240;04/06/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Teclado Mecânico;Informática;1;349,90;5
+1241;05/06/2026;natália correia;natalia.correia@email.com;Ponta Grossa;PR;Fone Bluetooth;ELETRÔNICOS;4;199,90;
+1242;05/06/2026;Rodrigo Azevedo;rodrigo.azevedo@email.com;Caxias do Sul;rs;Smart TV 50 polegadas;Eletrônicos;1;2799,00;10
+1243;06/06/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;rs;Mesa de Escritório;Móveis;4;749,90;0
+1244;06/06/2026;camila rodrigues;camila.rodrigues@email.com;Porto Alegre;RS;Webcam Full HD;Informática;3;259,90;5
+1245;07/06/2026;Elaine Duarte;elaine.duarte@email.com;Novo Hamburgo;RS;Webcam Full HD;Informática;4;259,90;10
+1246;08/06/2026;DIEGO FERNANDES;diego.fernandes@email.com;Joinville;SC;Estante de Livros;Móveis;4;429,00;10
+1247;08/06/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Monitor 24 polegadas;Informática;2;899,00;15
+1248;08/06/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Webcam Full HD;INFORMÁTICA;4;259,90;0
+1249;08/06/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Mesa de Escritório;Móveis;1;749,90;5
+1250;08/06/2026;Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Monitor 24 polegadas;Informática;1;899,00;10
+1251;09/06/2026;ISADORA FREITAS MELO;isadora.melo@email.com;Balneário Camboriú;SC;Webcam Full HD;Informática;1;259,90;10
+1252;09/06/2026;simone cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Mesa de Escritório;Móveis;2;749,90;0
+1253;10/06/2026;Otávio Siqueira;otavio.siqueira@email.com;Lages;sc;Fone Bluetooth;Eletrônicos;4;199,90;10
+1254;10/06/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Smartphone Galaxy A55;ELETRÔNICOS;2;2199,00;5
+1255;10/06/2026;  Mateus Oliveira Santos ;mateus.santos@email.com;Chapecó;sc;Monitor 24 polegadas;Informática;3;899,00;
+1256;11/06/2026;Patrícia Mendes;patricia.mendes@email.com;Ponta Grossa;PR;Cadeira Gamer;Móveis;1;1299,00;0
+1257;12/06/2026;Thiago Barbosa Nunes;thiago.nunes@email.com;Maringá;PR;Cadeira Gamer;Móveis;1;1299,00;
+1258;12/06/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Smartphone Galaxy A55;Eletrônicos;1;2199,00;15
+1259;12/06/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Cadeira Gamer;móveis;1;1299,00;10
+1260;13/06/2026;Henrique Vasconcelos;henrique.vasconcelos@email.com;Pelotas;RS;Teclado Mecânico;Informática;2;349,90;0
+1261;13/06/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Luminária de Mesa;Móveis;1;119,90;0
+1262;13/06/2026;Patrícia Mendes;patricia.mendes@email.com;Ponta Grossa;PR;Estante de Livros;Móveis;5;429,00;
+1263;14/06/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Smart TV 50 polegadas;Eletrônicos;1;2799,00;5
+1264;14/06/2026;Elaine Duarte;elaine.duarte@email.com;Novo Hamburgo;RS;Webcam Full HD;Informática;2;259,90;15
+1265;14/06/2026;Gustavo Ramos Leite;gustavo.leite@email.com;Cascavel;PR;Webcam Full HD;Informática;2;259,90;0
+1266;14/06/2026;TATIANE BORGES LIMA;tatiane.lima@email.com;Blumenau;SC;Fone Bluetooth;Eletrônicos;3;199,90;0
+1267;15/06/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;pr;Smart TV 50 polegadas;Eletrônicos;2;2799,00;10
+1268;15/06/2026;Bruno César Dias;bruno.dias@email.com;Porto Alegre;RS;Notebook Inspiron 15;Informática;2;3899,90;
+1269;15/06/2026;Tatiane Borges Lima;tatiane.lima@email.com;Blumenau;SC;Tablet Galaxy Tab;ELETRÔNICOS;1;1899,00;0
+1270;16/06/2026;  Carlos Eduardo Lima ;carlos.lima@email.com;São José;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;5
+1271;16/06/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;0
+1272;17/06/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Tablet Galaxy Tab;Eletrônicos;1;1899,00;20
+1273;17/06/2026;Vinícius Araújo Castro;vinicius.castro@email.com;Criciúma;SC;Fone Bluetooth;Eletrônicos;1;199,90;
+1274;17/06/2026;THIAGO BARBOSA NUNES;thiago.nunes@email.com;Maringá;PR;Cadeira Gamer;Móveis;1;1299,00;0
+1275;18/06/2026;Fernanda Costa Oliveira;fernanda.oliveira@email.com;Porto Alegre;rs;Webcam Full HD;Informática;3;259,90;10
+1276;18/06/2026;Simone Cavalcanti;simone.cavalcanti@email.com;Porto Alegre;RS;Mesa de Escritório;Móveis;4;749,90;5
+1277;18/06/2026;  Juliana Martins Rocha ;juliana.rocha@email.com;Curitiba;PR;Notebook Inspiron 15;Informática;1;3899,90;0
+1278;18/06/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Smartphone Galaxy A55;Eletrônicos;1;2199,00;5
+1278;18/06/2026;Luana Pires;luana.pires@email.com;Santa Maria;RS;Smartphone Galaxy A55;Eletrônicos;1;2199,00;5
+1279;18/06/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Mouse sem fio;Informática;1;89,90;5
+1280;19/06/2026;  Carlos Eduardo Lima ;carlos.lima@email.com;São José;sc;Mesa de Escritório;Móveis;2;749,90;0
+1281;19/06/2026;Natália Correia;natalia.correia@email.com;Ponta Grossa;PR;Luminária de Mesa;Móveis;5;119,90;0
+1282;19/06/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Webcam Full HD;Informática;1;259,90;10
+1283;19/06/2026;Rafael Moreira;rafael.moreira@email.com;Blumenau;SC;Cadeira Gamer;Móveis;1;1299,00;10
+1284;20/06/2026;Lucas Gabriel Ferreira;lucas.ferreira@email.com;Florianópolis;SC;Cadeira Gamer;Móveis;1;1299,00;5
+1285;20/06/2026;Priscila Nascimento;priscila.nascimento@email.com;Londrina;PR;Mesa de Escritório;Móveis;3;749,90;0
+1286;22/06/2026;MARCOS VINÍCIUS TEIXEIRA;marcos.teixeira@email.com;Caxias do Sul;rs;Webcam Full HD;Informática;2;259,90;5
+1287;24/06/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Smart TV 50 polegadas;Eletrônicos;1;2799,00;0
+1288;24/06/2026;Carlos Eduardo Lima;carlos.lima@email.com;São José;SC;Fone Bluetooth;Eletrônicos;1;199,90;10
+1289;24/06/2026;Marcos Vinícius Teixeira;marcos.teixeira@email.com;Caxias do Sul;RS;Webcam Full HD;INFORMÁTICA;1;259,90;0
+1290;24/06/2026;André Luiz Carvalho;andre.carvalho@email.com;Curitiba;PR;Fone Bluetooth;Eletrônicos;4;199,90;5
+1291;24/06/2026;Renata Cristina Moura;renata.moura@email.com;Florianópolis;SC;Fone Bluetooth;Eletrônicos;2;199,90;20
+1292;25/06/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Smartphone Galaxy A55;Eletrônicos;1;2199,00;15
+1293;26/06/2026;Juliana Martins Rocha;juliana.rocha@email.com;Curitiba;PR;Notebook Inspiron 15;Informática;1;3899,90;5
+1294;27/06/2026;JULIANA MARTINS ROCHA;juliana.rocha@email.com;Curitiba;PR;Webcam Full HD;Informática;4;259,90;
+1295;27/06/2026;Vinícius Araújo Castro;vinicius.castro@email.com;Criciúma;SC;Smartphone Galaxy A55;Eletrônicos;1;2199,00;0
+1296;27/06/2026;Mariana Lopes;mariana.lopes@email.com;Itajaí;SC;Fone Bluetooth;Eletrônicos;5;199,90;
+1297;28/06/2026;Felipe Augusto Cardoso;felipe.cardoso@email.com;Curitiba;PR;Cadeira Gamer;Móveis;2;1299,00;5
+1298;28/06/2026;Renata Cristina Moura;renata.moura@email.com;Florianópolis;SC;Webcam Full HD;INFORMÁTICA;3;259,90;10
+1299;29/06/2026;Diego Fernandes;diego.fernandes@email.com;Joinville;SC;Smart TV 50 polegadas;Eletrônicos;1;2799,00;15
+1300;30/06/2026;Larissa Gomes;larissa.gomes@email.com;Chapecó;SC;Fone Bluetooth;Eletrônicos;2;199,90;15
