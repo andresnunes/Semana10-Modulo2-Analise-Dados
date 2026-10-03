@@ -1,0 +1,17 @@
+﻿sk_pagamento;forma_pagamento;status_pagamento
+1;Boleto;CANCELADO
+2;Boleto;NAO_INFORMADO
+3;Boleto;PAGO
+4;Boleto;PENDENTE
+5;Cartão de Crédito;CANCELADO
+6;Cartão de Crédito;NAO_INFORMADO
+7;Cartão de Crédito;PAGO
+8;Cartão de Crédito;PENDENTE
+9;Cartão de Débito;CANCELADO
+10;Cartão de Débito;NAO_INFORMADO
+11;Cartão de Débito;PAGO
+12;Cartão de Débito;PENDENTE
+13;Pix;CANCELADO
+14;Pix;NAO_INFORMADO
+15;Pix;PAGO
+16;Pix;PENDENTE

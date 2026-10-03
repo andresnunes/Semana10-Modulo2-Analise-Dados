@@ -1,0 +1,3013 @@
+﻿id_venda;data_venda;id_cliente;id_produto;quantidade;valor_unitario;percentual_desconto;forma_pagamento;status_pagamento;canal_venda
+1;13/08/2026;82;7;1;69,90;5;Cartão de Crédito;Cancelado; LOJA FÍSICA 
+2;29/06/2025;161;8;4;54,90;10;Cartão de Crédito;Pago;Marketplace
+3;21/01/2026;48;26;5;79,90;15;Cartão de Crédito;Pago;Marketplace  
+4;18/05/2025;100;30;1;29,90;;Pix;Cancelado  ;aplicativo
+5;16/03/2025;49;2;3;199,90;15;Cartão de Débito;Pago;Site
+6;01/05/2025;192;11;3;45,00;15;Cartão de Crédito;Pago;Loja Física
+7;03/01/2026;79;18;3;14,90;;Pix;Pago;Aplicativo
+8;31/07/2026;57;25;3;24,90;10;Pix;Pago;Site
+9;27/05/2026;141;5;2;99,90;10;Boleto;Pago;Site
+10;24/05/2025;185;24;4;13,90;5;Cartão de Crédito;Pago;SITE
+11;27/02/2026;36;27;1;64,90;15;cartão de crédito; PAGO ; SITE 
+12;26/02/2026;4;30;4;29,90;;Cartão de Crédito;Pago;Loja Física
+13;09/04/2025;135;22;4;11,90;;Pix;Pendente;Site
+14;20/08/2025;77;3;3;79,90;10;CARTÃO DE DÉBITO;Pago  ;Site
+15;06/12/2025;145;21;1;6,90;15;Boleto;Pago;Loja Física
+16;15/10/2025;140;23;5;12,90;5;Cartão de Crédito;Pago;Loja Física
+17;01/08/2026;62;5;6;99,90;5;Cartão de Débito;Pendente;Loja Física
+18;24/02/2025;26;5;6;99,90;; PIX ;Pago;Marketplace
+19;18/05/2026;59;25;3;24,90;;Cartão de Crédito;Pago;Site
+20;02/10/2025;40;25;5;24,90;;Cartão de Crédito;Pago;LOJA FÍSICA
+21;11/07/2025;111;10;4;24,90;;Cartão de Crédito;PAGO; SITE 
+22;28/03/2025;186;26;3;79,90;5;Boleto;Pago;Loja Física
+23;22/03/2026;71;5;3;99,90;;Pix;Pago;Marketplace
+24;07/01/2025;102;16;5;19,90;;Cartão de Débito;Pago;Site
+25;25/07/2025;123;27;6;64,90;;Pix;Pago;Aplicativo
+26;09/01/2026;30;19;2;27,90;5;Pix;Pago;Aplicativo  
+27;23/02/2026;173;23;2;12,90;;Pix;Pago;Loja Física
+28;02/07/2026;130;13;1;35,90;15;Cartão de Crédito;Pago;Site
+29;30/12/2025;43;18;5;14,90;10;Cartão de Crédito;Pago;Site
+30;16/06/2026;143;11;4;45,00;5;Cartão de Crédito;Pago;Site
+31;30/10/2025;107;23;5;12,90;;Pix;  Cancelado;Loja Física
+32;09/04/2026;82;17;4;9,90;;Pix;  Pago;Site
+33;28/07/2026;110;6;6;6,50;;Pix;Pago;Site
+34;03/02/2026;2;1;6;129,90;10;Pix;Pago;Aplicativo
+35;26/09/2025;172;26;5;79,90;15;Cartão de Crédito;Pago;Site
+36;01/11/2025;158;4;3;59,90;5;PIX;Pago;Loja Física
+37;10/03/2026;48;5;5;99,90;;Cartão de Crédito;Pago;Marketplace
+38;24/02/2025;92;16;3;19,90;;Cartão de Crédito;Pago;Site
+39;21/06/2025;22;14;6;27,90;5;Pix;Pago;Loja Física
+40;08/06/2026;29;6;4;6,50;5;Pix;Pago;Site
+41;11/09/2025;77;2;6;199,90;15;Boleto;Pago;Aplicativo
+42;15/03/2026;43;4;2;59,90;5;Pix;Pago;Loja Física
+43;24/10/2025;147;9;5;32,00;;Boleto;Pago;Aplicativo  
+44;16/05/2025;64;30;1;29,90;;Cartão de Crédito;Pendente;Aplicativo
+45;06/04/2025;104;19;6;27,90;5;Cartão de Crédito;Pago;Site
+46;15/04/2026;163;19;1;27,90;10;Cartão de Crédito;Pago;Site
+47;15/07/2026;148;27;2;64,90;;Cartão de Crédito;Pago;APLICATIVO
+48;13/04/2026;1;21;4;6,90;;Pix;  Pendente;Loja Física
+49;19/06/2025;14;9;1;32,00;;Cartão de Crédito;Pago;SITE
+50;01/04/2026;3;1;2;129,90;;Cartão de Crédito;Pago;SITE
+51;12/01/2026;77;8;4;54,90;;Pix;Pago;Site
+52;26/12/2025;185;3;5;79,90;;Cartão de Crédito;Pago;Aplicativo
+53;26/12/2025;110;3;1;79,90;;Cartão de Débito;Pago;Loja Física
+54;05/11/2025;53;24;5;13,90;5;Cartão de Crédito;;Site
+55;14/03/2025;136;26;2;79,90;;Boleto; PAGO ;Site
+56;11/03/2025;4;6;4;6,50;;Pix;;Marketplace
+57;16/02/2026;22;10;6;24,90;10;Cartão de Crédito;Pago;Loja Física
+58;09/03/2025;80;7;2;69,90;10;Cartão de Crédito;Pago;Loja Física
+59;29/06/2025;31;4;4;59,90;;Cartão de Crédito;Pago;Marketplace
+60;03/10/2025;188;26;6;79,90;;Cartão de Débito  ;Pago;Loja Física
+61;27/05/2026;146;19;6;27,90;;Pix; PAGO ; APLICATIVO 
+62;08/01/2026;99;1;1;129,90;;Pix;Pago  ;Loja Física
+63;03/05/2025;129;30;6;29,90;10;Boleto;Pago;Marketplace
+64;30/03/2025;142;3;4;79,90;;Pix;Pago;Loja Física
+65;20/07/2025;188;15;3;34,90;5;Cartão de Débito;Pago  ;Loja Física
+66;21/01/2026;189;21;6;6,90;10;Pix;;Marketplace
+67;17/06/2026;106;2;2;199,90;10;Cartão de Débito;Pago;Site
+68;14/05/2025;61;21;4;6,90;;Pix;Pago;Aplicativo
+69;22/08/2026;28;11;4;45,00;;Pix;Pago;Loja Física
+70;03/04/2025;41;25;2;24,90;15;Cartão de Crédito;Pago;Loja Física
+71;10/06/2026;13;11;2;45,00;10;Pix;Pago;Marketplace
+72;24/05/2025;32;18;6;14,90;;Pix;Pago;Loja Física
+73;18/03/2025;6;22;6;11,90;;Pix;Pago;Loja Física
+74;11/08/2026;111;26;3;79,90;15;Cartão de Crédito;Cancelado;Site
+75;09/09/2025;166;30;2;29,90;;Cartão de Crédito;Pago;Loja Física
+76;11/07/2026;5;14;2;27,90;;Cartão de Débito;Pago;Site
+77;13/08/2025;8;17;3;9,90;15;Cartão de Débito  ;Pago;Aplicativo
+78;27/02/2025;196;6;1;6,50;;Cartão de Crédito;Pago;Marketplace
+79;03/01/2026;152;6;2;6,50;;Cartão de Crédito;Pago;Loja Física
+80;27/02/2025;60;27;4;64,90;5;Pix; PAGO ;loja física
+81;26/05/2025;199;30;3;29,90;;Cartão de Débito;Pago;Site
+82;11/06/2025;188;13;5;35,90;;Cartão de Débito;Pago;Loja Física
+83;29/06/2025;97;23;5;12,90;;Cartão de Crédito;Pago;Loja Física
+84;06/07/2025;155;19;4;27,90;;Boleto;Pago;Site
+85;21/06/2025;163;5;3;99,90;;Cartão de Débito;Pago;loja física
+86;02/01/2025;13;8;6;54,90;;Cartão de Crédito;Pago;Site
+87;15/08/2026;167;12;5;38,50;15;Cartão de Crédito;PAGO;Loja Física
+88;18/03/2025;141;4;1;59,90;;Pix;Pendente;Aplicativo
+89;06/12/2025;53;21;2;6,90;;Cartão de Crédito;Pago;Site
+90;18/05/2026;40;10;2;24,90;;Pix;Pago;Aplicativo
+91;25/03/2025;122;7;1;69,90;15;Pix;Pago;Marketplace
+92;11/07/2025;115;21;5;6,90;;Pix;Pago;LOJA FÍSICA
+93;27/08/2026;59;3;6;79,90;5;Pix;Pago;Marketplace
+94;09/02/2026;183;30;4;29,90;;Cartão de Crédito;Pago;Aplicativo
+95;17/07/2025;33;4;4;59,90;;Cartão de Crédito;Cancelado;Marketplace
+96;10/03/2025;23;27;5;64,90;;Cartão de Crédito;Pendente;Site
+97;01/03/2026;39;1;6;129,90;;Cartão de Crédito;Pago;LOJA FÍSICA
+98;28/09/2025;99;26;3;79,90;10;Cartão de Crédito;  Pendente;Site
+99;01/09/2025;13;22;6;11,90;10;Cartão de Crédito;Pago;Loja Física
+100;22/08/2025;35;10;3;24,90;;Boleto;Pendente;Loja Física
+101;12/05/2026;195;21;1;6,90;5;Cartão de Débito;Pago;Loja Física
+102;30/01/2025;45;17;4;9,90;;Cartão de Débito;PENDENTE;Site
+103;07/05/2025;175;23;2;12,90;;Pix;Pago;Marketplace
+104;03/04/2025;73;18;3;14,90;;Pix;Pago;Marketplace
+105;21/01/2025;1102;21;2;6,90;15;Cartão de Crédito;pago;  Site
+106;21/01/2026;90;20;3;22,90;;Pix;Pago;Aplicativo
+107;19/01/2026;144;4;1;59,90;10;Cartão de Crédito;Pago;Site
+108;02/11/2025;49;9;6;32,00;;Cartão de Crédito; PAGO ;Site
+109;05/03/2026;104;5;6;99,90;;Cartão de Crédito;Pago;Aplicativo
+110;03/01/2026;130;23;2;12,90;;Cartão de Débito;Pago;loja física
+111;10/12/2025;168;24;3;13,90;;Pix;Pago;Site
+112;24/02/2025;163;12;3;38,50;5;Cartão de Crédito;Pago;Loja Física  
+113;25/07/2025;88;17;3;9,90;;Boleto;Pendente;Loja Física
+114;01/03/2025;2;6;1;6,50;;Pix;Pago;Aplicativo
+115;16/03/2026;123;25;1;24,90;;Pix;Pago;Marketplace
+116;12/09/2025;58;25;5;24,90;10;Cartão de Débito; PAGO ;Site
+117;21/06/2026;87;27;1;64,90;;Cartão de Débito;Pago;Marketplace
+118;22/08/2025;58;7;2;69,90;10;Boleto; PENDENTE ;Loja Física
+119;19/02/2025;153;21;1;6,90;;Cartão de Crédito;PAGO;Site
+120;10/01/2025;78;18;3;14,90;;Cartão de Crédito;Pago;SITE
+121;25/05/2026;51;17;6;9,90;5;Pix;Pago;Loja Física
+122;08/05/2026;85;10;2;24,90;;Pix;Pago;Aplicativo
+123;20/09/2025;165;5;1;99,90;;Cartão de Crédito;Pago;Loja Física
+124;13/03/2026;190;28;1;89,90;;Pix;pago;Aplicativo
+125;17/01/2026;88;12;4;38,50;;Pix;Pago;Aplicativo
+126;02/03/2025;41;16;4;19,90;;Cartão de Crédito;Pago;Aplicativo
+127;14/05/2025;124;13;3;35,90;;Pix;  Pendente; APLICATIVO 
+128;13/12/2025;133;25;6;24,90;5;Cartão de Crédito;Pago;Aplicativo
+129;25/02/2025;3;22;6;11,90;10;Boleto;Pago;Site
+130;04/06/2026;58;25;4;24,90;5;Cartão de Crédito;Pago;Site
+131;25/05/2026;191;15;1;34,90;10;Pix; PAGO ; LOJA FÍSICA 
+132;13/04/2026;88;20;6;22,90;;Cartão de Débito;Pago;Loja Física
+133;10/04/2025;195;20;4;22,90;10;Pix;Pago;Marketplace
+134;24/05/2025;184;17;3;9,90;10; CARTÃO DE CRÉDITO ;Pago;Loja Física
+135;01/03/2026;12;7;4;69,90;10;Cartão de Débito;Pago;Site
+136;21/07/2026;111;17;2;9,90;15;Cartão de Crédito;Pago;Marketplace
+137;26/11/2025;130;6;6;6,50;;Cartão de Crédito;Pago;Loja Física
+138;09/06/2026;77;11;3;45,00;15;Cartão de Crédito;Pago;Marketplace
+139;16/05/2025;182;7;2;69,90;10;Boleto;Pago;Site
+140;04/03/2026;173;25;3;24,90;10;Cartão de Débito;Pago;SITE
+141;14/06/2025;74;1;4;129,90;10;Pix;Pago;Loja Física
+142;30/07/2026;58;2;3;199,90;10;Cartão de Crédito;Pago;Aplicativo
+143;17/11/2025;142;23;6;12,90;;Pix;Pago;Aplicativo
+144;26/08/2026;140;27;2;64,90;10;Cartão de Crédito;Pago;Loja Física
+145;22/01/2026;11;22;1;11,90;;Pix;Pago;Aplicativo  
+146;05/11/2025;126;23;2;12,90;15;Cartão de Crédito;Pendente;Loja Física
+147;04/07/2026;104;6;5;6,50;;Pix;Pago;Loja Física
+148;10/01/2025;30;25;5;24,90;10;Pix;Cancelado;Marketplace
+149;27/04/2025;99;2;6;199,90;;Cartão de Crédito;Pago;Aplicativo
+150;17/07/2025;83;26;5;79,90;5; PIX ;Pago;Site
+151;05/07/2026;180;21;2;6,90;10;Cartão de Débito;Pago;Aplicativo
+152;15/09/2025;143;15;6;34,90;;Cartão de Crédito;Pago;Site
+153;06/03/2025;194;14;3;27,90;10;Cartão de Crédito; PAGO ;Loja Física
+154;09/02/2026;170;10;5;24,90;;Cartão de Crédito;Pago  ;Aplicativo
+155;18/01/2026;3;10;6;24,90;5;CARTÃO DE DÉBITO; PAGO ;Site
+156;05/08/2025;106;3;3;79,90;10;cartão de débito;Pago;Aplicativo
+157;17/07/2026;119;6;6;6,50;10;Cartão de Crédito;PENDENTE;Loja Física
+158;13/03/2025;50;11;3;45,00;;Cartão de Crédito;Pago;Aplicativo
+159;17/11/2025;64;19;3;27,90;15;Pix;Cancelado;  Aplicativo
+160;19/07/2026;28;29;4;14,90;;  Cartão de Crédito;Pago;Loja Física
+161;20/01/2025;130;9;6;32,00;10;Pix;Pago;Site
+162;02/06/2025;94;18;3;14,90;;Pix;Cancelado;Loja Física
+163;19/06/2025;194;17;1;9,90;5;Pix;Pago;Site
+164;15/05/2026;60;5;6;99,90;;Pix;Cancelado;Site
+165;28/11/2025;27;13;4;35,90;10;Boleto;Pendente;Aplicativo
+166;21/03/2025;133;19;2;27,90;;Pix;Pago;Site
+167;27/03/2026;43;16;4;19,90;;Pix;Pago;Loja Física
+168;27/04/2025;124;23;1;12,90;10;Cartão de Crédito;Pago;APLICATIVO
+169;10/08/2026;38;5;5;99,90;;Pix;Pago;Site
+170;29/03/2025;56;21;1;6,90;;Cartão de Crédito;Pago;Loja Física
+171;28/09/2025;43;5;5;99,90;10;Cartão de Crédito;Pago;Loja Física
+172;06/03/2026;39;5;1;99,90;5;Pix;Pago;Loja Física
+173;07/07/2026;1;17;1;9,90;15;Cartão de Crédito;Pago;Marketplace
+174;25/12/2025;151;14;2;27,90;15;Cartão de Crédito;Pago;Loja Física  
+175;11/07/2026;105;25;2;24,90;;Pix;Pago;SITE
+176;20/04/2025;40;13;6;35,90;;Cartão de Crédito;Pago;Site
+177;25/07/2026;124;9;6;32,00;;Pix;Pago;Loja Física
+178;24/08/2025;115;23;4;12,90;15;Cartão de Crédito;Pendente;Site
+179;06/01/2025;24;18;5;14,90;15;Pix;Pago;Loja Física
+180;18/06/2026;74;3;5;79,90;10;boleto;Pago;Site
+181;13/06/2026;179;22;5;11,90;;Cartão de Crédito;Pago;Aplicativo
+182;24/08/2026;52;3;3;79,90;5;Pix;Pago;Site
+183;19/07/2025;117;18;5;14,90;;Cartão de Crédito;Cancelado;  Loja Física
+184;12/08/2026;65;11;1;45,00;10;Cartão de Crédito;Cancelado;Loja Física
+185;09/05/2026;30;25;4;24,90;;Pix;Pendente;Aplicativo
+186;27/09/2025;64;11;4;45,00;;Pix;;aplicativo
+187;14/07/2025;128;16;3;19,90;10;Pix;Pendente;Loja Física
+188;22/03/2025;174;8;5;54,90;10; CARTÃO DE CRÉDITO ;Pago;Aplicativo
+189;09/10/2025;126;11;4;45,00;;Boleto;Pendente;Loja Física
+190;30/05/2026;89;2;5;199,90;;Cartão de Débito;Pago;Loja Física
+191;06/01/2026;157;11;0;45,00;15;Pix;Pago;Site
+192;17/01/2026;94;12;2;38,50;15;Cartão de Crédito;Pago;Marketplace
+193;26/01/2026;51;27;1;64,90;;Cartão de Débito;Pago;Loja Física
+194;04/11/2025;65;5;6;99,90;5;CARTÃO DE DÉBITO;Pago;Loja Física
+195;04/01/2026;144;16;6;19,90;5;Boleto;PAGO;Site
+196;19/10/2025;91;20;2;22,90;;Cartão de Crédito;Pago;Marketplace
+197;12/12/2025;108;10;4;24,90;10;Cartão de Crédito;Pago;Loja Física
+198;09/02/2026;70;11;3;45,00;;Cartão de Débito;Pago;Site
+199;15/09/2025;191;6;2;6,50;10;Cartão de Crédito;Pago;Loja Física
+200;27/03/2025;27;16;5;19,90;;Cartão de Crédito  ;Pago;Loja Física
+201;01/01/2026;84;21;2;6,90;15;Cartão de Crédito;;Site
+202;13/04/2026;162;15;2;34,90;10;Cartão de Crédito;Pago;Site
+203;10/01/2026;106;12;4;38,50;; PIX ;Pago;Aplicativo
+204;10/01/2025;197;16;;19,90;;Cartão de Débito;Cancelado;Site
+205;04/02/2026;97;29;5;14,90;;Pix;Pago;Aplicativo
+206;03/10/2025;106;26;6;79,90;;Cartão de Débito;Pago;Site
+207;20/02/2025;137;9;6;32,00;;  Pix;;Loja Física
+208;07/03/2026;80;1;2;129,90;15;Cartão de Débito;Pago;Aplicativo
+209;27/04/2026;47;27;2;64,90;;Cartão de Débito;Pago;Loja Física
+210;04/02/2025;51;23;2;12,90;;cartão de crédito;Cancelado;Aplicativo
+211;18/06/2026;32;11;2;45,00;;Cartão de Crédito;Pago;Loja Física
+212;10/10/2025;150;4;2;59,90;;Pix;Pago;Site
+213;27/05/2026;24;23;5;12,90;10;Cartão de Crédito;Pago;site
+214;26/07/2026;166;23;5;12,90;15;Pix;Pago;Loja Física
+215;27/07/2026;76;24;2;13,90;5;Cartão de Crédito;Pago;Loja Física
+216;08/06/2025;116;9;5;32,00;;Cartão de Débito;Pago;Aplicativo
+217;02/09/2025;83;24;2;13,90;10;Pix;Pago;Loja Física
+218;26/11/2025;29;25;5;24,90;;cartão de crédito;Pago;loja física
+219;23/06/2026;160;4;1;59,90;10;cartão de crédito;Pago;Loja Física
+220;04/03/2025;93;7;6;69,90;5;Cartão de Crédito;Pendente; APLICATIVO 
+221;10/08/2025;133;9;5;32,00;;Pix;Pago;Loja Física
+222;19/04/2025;197;19;6;27,90;10;Cartão de Crédito;Pago;site
+223;30/03/2026;91;18;4;14,90;;Cartão de Crédito;Pago;Site
+224;20/01/2026;197;27;6;64,90;5;Boleto;Pago;Site
+225;06/11/2025;2;24;1;13,90;;Boleto;Pago;Aplicativo
+226;09/08/2026;40;27;3;64,90;;Pix;  Pago;Marketplace
+227;21/03/2025;186;9;3;32,00;;Cartão de Débito;Pago;Aplicativo
+228;14/08/2026;98;30;1;29,90;;Cartão de Débito;Pago;Marketplace
+229;12/01/2025;163;30;1;29,90;15; CARTÃO DE CRÉDITO ; PAGO ;Site
+230;02/04/2026;193;23;2;12,90;5;Cartão de Crédito  ;Pago;SITE
+231;13/02/2026;129;16;5;19,90;;cartão de débito;Pago;Loja Física
+232;06/09/2025;19;19;2;27,90;;Cartão de Débito;Cancelado;Loja Física
+233;25/01/2025;198;14;3;27,90;;Pix;Pago;Aplicativo
+234;09/06/2025;194;15;1;34,90;10;CARTÃO DE DÉBITO;Pago;  Site
+235;24/01/2025;85;1;3;129,90;;Cartão de Crédito;Pago;Aplicativo
+236;21/01/2026;150;20;6;22,90;10;Cartão de Crédito;pago;Aplicativo
+237;05/10/2025;170;2;4;199,90;15;Boleto;  Pago;Marketplace
+238;12/05/2026;153;8;4;54,90;5;Pix;Pago;Site
+239;10/06/2025;5;2;2;199,90;;Cartão de Crédito;Pago;Marketplace
+240;31/01/2025;143;9;1;32,00;;Pix;Pendente;Loja Física
+241;04/09/2025;147;17;6;9,90;;Cartão de Crédito;Pago;site
+242;21/06/2026;35;19;5;27,90;;Boleto; PAGO ;Marketplace
+243;30/05/2025;187;18;5;14,90;;Cartão de Débito;Pago;Site
+244;20/04/2025;34;30;6;29,90;;Pix;Pago;Site
+245;04/05/2026;35;20;2;22,90;5;Cartão de Débito;Pago;Loja Física
+246;16/01/2025;70;16;2;19,90;;Pix;Pago;Loja Física
+247;10/09/2025;110;15;5;34,90;;Cartão de Débito;Pago;Aplicativo
+248;09/02/2025;134;24;5;13,90;;Cartão de Crédito;pago;Site
+249;20/02/2025;49;24;1;13,90;;Cartão de Crédito;Pago;Loja Física
+250;20/04/2026;166;10;5;24,90;;Pix;Pago;Site
+251;10/04/2026;152;18;2;14,90;10;Cartão de Débito;;Loja Física
+252;27/04/2025;181;21;6;6,90;;Cartão de Crédito  ;Pago;Marketplace
+253;10/12/2025;145;6;4;6,50;15;Cartão de Crédito;Pago;Loja Física
+254;05/07/2025;31;14;3;27,90;;  Boleto;Pago  ;Marketplace
+255;03/05/2026;117;1;5;129,90;;Cartão de Crédito; PAGO ;Loja Física
+256;07/02/2025;38;27;2;64,90;15;Pix;Pago;LOJA FÍSICA
+257;10/08/2026;144;14;2;27,90;;Boleto;Pago;Loja Física
+258;18/07/2026;17;11;3;45,00;;  Cartão de Crédito;Pago;Site
+259;26/06/2026;23;7;5;69,90;;Cartão de Crédito;Pago;Aplicativo
+260;13/05/2025;158;28;3;89,90;5;Cartão de Crédito;Pago;Aplicativo
+261;22/04/2026;161;8;6;54,90;15;Pix;Pago;Marketplace
+262;26/07/2025;177;11;3;45,00;;  Pix;;Site
+263;30/01/2025;45;1;1;129,90;;Pix;Pago;Marketplace
+264;04/07/2026;86;21;2;6,90;;Cartão de Débito;Pago;Aplicativo
+265;06/12/2025;91;24;6;13,90;;Boleto;Pago  ;Site
+266;12/11/2025;181;19;5;27,90;15;Pix  ;pago;Site
+267;08/02/2025;200;10;2;24,90;;Boleto;Pago  ;Marketplace
+268;27/05/2025;197;11;4;45,00;15;Pix;Pago;Marketplace
+269;15/11/2025;12;2;4;199,90;10;Cartão de Débito;Pendente;  Marketplace
+270;25/07/2025;50;1;5;129,90;;Pix;Pago;  Loja Física
+271;10/07/2026;90;4;1;59,90;5;  Pix;Pago;Loja Física
+272;21/02/2025;28;29;3;14,90;;Pix;;Loja Física
+273;16/11/2025;86;19;6;27,90;15;Pix;Pago;Loja Física
+274;25/04/2026;25;25;4;24,90;;Pix;Pago;Site
+275;05/12/2025;84;5;5;99,90;;CARTÃO DE CRÉDITO;Pago;Site
+276;20/04/2025;84;25;3;24,90;5;Cartão de Crédito;Pago;Site
+277;15/12/2025;54;20;2;22,90;15;Cartão de Crédito;Cancelado;Site
+278;11/08/2026;125;23;2;12,90;;Cartão de Crédito;Pago;Aplicativo
+279;24/01/2026;84;13;1;35,90;;cartão de crédito;Pago;Marketplace
+280;26/10/2025;100;21;1;6,90;5;Cartão de Crédito;Pago;Loja Física
+281;19/12/2025;23;30;6;29,90;5;Pix;Cancelado;Loja Física
+282;03/01/2026;29;12;5;38,50;15;Pix  ;Pago;Site
+283;02/05/2026;36;13;4;35,90;;Cartão de Crédito;Pago;Site
+284;28/05/2025;185;28;6;89,90;;Cartão de Crédito;pago;Site
+285;06/06/2026;109;15;6;34,90;5;Cartão de Débito;Pago;Site  
+286;14/07/2026;148;28;6;89,90;;Pix  ;Pago;Loja Física
+287;14/10/2025;120;23;1;12,90;5;Pix;Pago  ;Site
+288;24/02/2025;88;22;1;11,90;5;Cartão de Débito;Pago;Site
+289;06/02/2025;178;14;3;27,90;5;Cartão de Crédito;Pago;Loja Física
+290;28/01/2025;74;6;5;6,50;;Pix;Cancelado;  Loja Física
+291;04/06/2025;169;9;0;32,00;;Pix;Pago;Loja Física
+292;07/06/2025;127;17;1;9,90;15;Boleto;Pago;Site
+293;29/04/2025;14;7;5;69,90;;Cartão de Crédito;Pago;Marketplace
+294;28/06/2026;112;8;4;54,90;;Pix;Pago;Loja Física
+295;19/03/2026;157;2;1;199,90;10;Cartão de Débito;Pago;Loja Física
+296;26/08/2026;198;13;4;35,90;;Cartão de Crédito;Pago;LOJA FÍSICA
+297;26/12/2025;57;27;0;64,90;10;Pix;PAGO;Loja Física
+298;03/05/2025;23;29;2;14,90;15;Cartão de Crédito;Pago;Site
+299;19/03/2025;164;6;1;6,50;;Boleto;Pago;Marketplace
+300;27/01/2026;100;11;3;45,00;;Boleto;Pago;loja física
+301;18/03/2026;56;20;4;22,90;5;Cartão de Crédito;Pago; LOJA FÍSICA 
+302;01/01/2025;10;24;3;13,90;10;Pix;Pago;Site  
+303;13/03/2025;139;16;4;19,90;;Pix;Pago;Site
+304;03/04/2025;94;30;3;29,90;5;Cartão de Débito;Pago;Aplicativo
+305;03/11/2025;179;7;2;69,90;;Cartão de Débito;Cancelado;Loja Física
+306;31/08/2026;62;24;2;13,90;;Pix;Pago;Site
+307;12/12/2025;185;26;4;79,90;;Cartão de Crédito;Pago;Site
+308;07/02/2025;189;28;5;89,90;; CARTÃO DE CRÉDITO ;pago;Loja Física
+309;29/08/2026;17;29;3;14,90;15; CARTÃO DE DÉBITO ;Pago;Loja Física
+310;29/11/2025;31;14;3;27,90;10;cartão de crédito;Cancelado;Site
+311;21/07/2026;43;4;3;59,90;;Pix; PAGO ;Site
+312;31/08/2026;73;29;4;14,90;;Cartão de Crédito;Pago;  Loja Física
+313;08/02/2025;153;17;4;9,90;;Cartão de Crédito;  Cancelado;loja física
+314;07/07/2026;130;7;1;69,90;;Cartão de Crédito;Cancelado;loja física
+315;25/02/2025;166;22;4;11,90;;Pix;Pago;Aplicativo
+316;30/01/2025;125;2;1;199,90;5;Pix;Pendente;Site
+317;30/11/2025;59;7;6;69,90;;Pix;Pago; MARKETPLACE 
+318;11/04/2026;46;16;1;19,90;;Pix;Pago;Site
+319;24/04/2025;120;11;2;45,00;;Cartão de Crédito;Pago;Loja Física
+320;21/07/2026;59;26;6;79,90;;Cartão de Crédito;Pendente;Loja Física
+321;02/12/2025;112;15;;34,90;5;Pix;Pago;Marketplace
+322;04/02/2025;109;14;1;27,90;5;Pix;Pago;Loja Física
+323;12/08/2025;34;3;5;79,90;;Pix;Pago  ;Aplicativo
+324;22/05/2025;181;15;5;34,90;;Pix;Pago;APLICATIVO
+325;04/10/2025;179;13;6;35,90;5;Cartão de Crédito;Pago;Loja Física
+326;22/02/2025;29;24;1;13,90;;Pix;Pendente;Loja Física
+327;02/09/2025;139;3;5;79,90;;Cartão de Crédito;Pago;Marketplace
+328;31/05/2026;175;25;6;24,90;;  Pix;Pago;Site
+329;08/04/2026;159;16;6;19,90;;Cartão de Débito;Pago;Marketplace  
+330;20/03/2025;28;3;1;79,90;;Pix;Pago;Marketplace
+331;16/05/2025;122;21;1;6,90;;Cartão de Crédito;cancelado;Loja Física
+332;01/12/2025;125;8;5;54,90;5;Cartão de Crédito;Pago;Site
+333;23/10/2025;198;29;3;14,90;15;Pix;Pago;Loja Física
+334;07/06/2025;42;23;5;12,90;;Pix;Cancelado;Site
+335;01/06/2025;96;7;5;69,90;;Cartão de Crédito;Pago;Marketplace
+336;14/07/2026;130;16;2;19,90;;Cartão de Crédito;Pendente;Marketplace
+337;29/03/2026;87;19;6;27,90;10;Pix; PAGO ; LOJA FÍSICA 
+338;19/07/2025;150;27;2;64,90;5;Pix;Pago;Loja Física
+339;19/07/2025;126;15;6;34,90;;Cartão de Crédito;  Pago;Site
+340;12/11/2025;115;14;3;27,90;15;Cartão de Crédito;Pago;Aplicativo
+341;01/03/2026;36;15;3;34,90;15;cartão de crédito;Pago;Marketplace
+342;07/01/2025;105;11;1;45,00;10;Boleto;Pago;Aplicativo
+343;13/02/2025;78;5;2;99,90;15;Cartão de Crédito;Pago;Loja Física
+344;08/05/2025;168;5;3;99,90;10;Cartão de Débito;Pago;Aplicativo
+345;06/01/2026;149;4;3;59,90;;Cartão de Crédito;Cancelado;Site
+346;16/06/2025;149;4;3;59,90;;Pix;Pago;  Site
+347;27/06/2026;164;14;6;27,90;;Cartão de Crédito;Pago;Loja Física
+348;05/11/2025;70;18;3;14,90;10;Cartão de Crédito;Pago;site
+349;16/06/2025;27;17;3;9,90;;Pix;Pago;Marketplace
+350;27/04/2025;107;27;5;64,90;;boleto;Pago;Site
+351;17/12/2025;45;12;2;38,50;10;Pix;pendente;marketplace
+352;25/04/2025;20;10;2;24,90;;Cartão de Débito;CANCELADO;Loja Física
+353;05/11/2025;171;19;1;27,90;;Cartão de Débito;Pendente;Loja Física
+354;12/10/2025;149;6;6;6,50;;Pix;Pago;Site
+355;16/07/2025;73;3;1;79,90;;Boleto;Pago;Loja Física
+356;20/04/2025;47;17;6;9,90;15;Pix;Pago;  Loja Física
+357;23/10/2025;143;4;4;59,90;10;Pix;  Pago;Site
+358;15/03/2026;49;22;4;11,90;15;Pix;Pago;Aplicativo
+359;29/03/2025;31;22;4;11,90;;Pix;Pago;Aplicativo
+360;18/02/2026;32;6;1;6,50;;Cartão de Débito;Pago;Aplicativo
+361;19/02/2026;125;9;6;32,00;5;Pix;  Pago;Site
+362;28/01/2025;46;5;1;99,90;;Cartão de Crédito;Pago;Site
+363;25/05/2026;126;22;5;11,90;5;Pix;Pago;Site
+364;21/01/2026;114;2;4;199,90;;Pix;Pago;Aplicativo
+365;23/04/2025;146;6;4;6,50;10;Cartão de Crédito;Pago;Site
+366;22/01/2026;158;6;5;6,50;10;Pix;Pago;  Loja Física
+367;25/01/2026;25;12;6;38,50;;Pix;Pago;Aplicativo
+368;09/11/2025;30;21;3;6,90;;Pix;Pendente  ;Site
+369;22/01/2026;147;9;1;32,00;;Pix  ;pago;Loja Física
+370;23/03/2026;52;25;6;24,90;;Cartão de Crédito; PAGO ;Loja Física
+371;05/04/2025;184;10;5;24,90;15;Cartão de Crédito;Pago;Site
+372;01/06/2026;77;14;2;27,90;;Cartão de Crédito;Pago;Loja Física
+373;11/07/2025;148;22;5;11,90;;Pix;Pago;Site
+374;03/03/2025;134;18;5;14,90;;pix;Pendente;Aplicativo
+375;27/02/2026;69;14;3;27,90;15;Pix;Pendente;Loja Física
+376;13/05/2026;144;5;2;99,90;;Cartão de Crédito;Pago;  Loja Física
+377;13/05/2026;6;22;5;11,90;; CARTÃO DE DÉBITO ;Pendente;Loja Física
+378;24/05/2025;61;29;3;14,90;;Cartão de Crédito; PENDENTE ;Marketplace
+379;17/11/2025;85;9;4;32,00;15;Cartão de Crédito;Pago;Loja Física
+380;18/09/2025;151;5;1;99,90;;Cartão de Crédito;Cancelado;Loja Física
+381;07/01/2026;122;22;2;11,90;10;Pix;Pendente;MARKETPLACE
+382;07/01/2026;176;23;6;12,90;;Cartão de Crédito;Pago;Loja Física
+383;01/11/2025;54;30;3;29,90;15;Cartão de Débito;Cancelado;Marketplace
+384;19/05/2026;121;14;1;27,90;10;Cartão de Crédito;Pago;Marketplace
+385;15/07/2026;189;27;2;64,90;;CARTÃO DE CRÉDITO;Pago;Loja Física
+386;26/03/2025;29;21;0;6,90;;Pix;Pago; SITE 
+387;17/05/2025;67;22;4;11,90;;Cartão de Crédito;Pago;Loja Física
+388;18/08/2025;6;6;4;6,50;;Boleto;Cancelado;Marketplace
+389;16/03/2026;154;7;3;69,90;;Pix;Pago; SITE 
+390;28/07/2025;49;14;4;27,90;15;Cartão de Débito;Pago;Site
+391;13/07/2025;108;7;5;69,90;;  Cartão de Crédito;Pago;Loja Física
+392;26/04/2026;35;8;3;54,90;15;Pix;Pago;Aplicativo
+393;07/12/2025;61;24;5;13,90;;Boleto;Pago;Marketplace
+394;15/01/2026;34;24;;13,90;5;Pix;Pago;Site
+395;24/09/2025;30;15;2;34,90;;  Pix;Pago;Marketplace
+396;17/11/2025;112;29;3;14,90;;Pix;Pago;Loja Física
+397;24/08/2025;47;22;6;11,90;;Cartão de Crédito;Pago;Loja Física
+398;14/04/2026;127;16;1;19,90;;Cartão de Débito;CANCELADO;Loja Física
+399;23/08/2026;55;27;2;64,90;5; BOLETO ;Pago;Marketplace
+400;05/05/2025;101;16;6;19,90;;Cartão de Crédito;Pago;Loja Física  
+401;14/02/2025;168;15;6;34,90;5;Boleto;;Aplicativo
+402;17/10/2025;83;26;5;79,90;15; PIX ;Pendente;Site
+403;17/02/2026;73;25;4;24,90;10;Cartão de Débito;Pendente  ;Aplicativo
+404;09/04/2025;95;30;3;29,90;5;Pix;Pago;Loja Física
+405;13/03/2026;24;3;4;79,90;;Cartão de Crédito;Pago;Site
+406;25/04/2026;112;30;4;29,90;;Boleto;pago;Aplicativo
+407;16/02/2025;132;8;5;54,90;;Cartão de Crédito;Pago;Aplicativo
+408;19/04/2026;46;12;3;38,50;15;Pix;;Loja Física
+409;29/09/2025;88;10;3;24,90;15;Cartão de Débito; PAGO ;Loja Física
+410;04/05/2026;118;14;5;27,90;10;Cartão de Crédito;;Aplicativo
+411;09/02/2026;78;10;5;24,90;;PIX;Pago;Aplicativo
+412;06/07/2026;49;1;2;129,90;;Pix;Pago;Loja Física
+413;06/04/2026;150;5;6;99,90;;Pix;Cancelado;Loja Física  
+414;25/10/2025;10;14;4;27,90;;Pix;Pago;Marketplace
+415;14/08/2026;81;28;4;89,90;5;Pix;;Site
+416;22/01/2025;42;16;5;19,90;;Cartão de Crédito;Pago;Site
+417;25/04/2026;34;22;3;11,90;;Cartão de Crédito;Pendente;Marketplace
+418;17/10/2025;177;12;4;38,50;10;Pix;Pago;Loja Física
+419;25/07/2026;13;26;4;79,90;;Pix;Pago;Loja Física
+420;21/08/2025;31;17;1;9,90;5;Pix;Pago; SITE 
+421;17/04/2025;181;9;2;32,00;;Boleto;Pendente;APLICATIVO
+422;30/07/2026;11;26;5;79,90;5;Pix;Pendente;Marketplace
+423;12/04/2025;40;10;6;24,90;10;Pix;pago;Site
+424;02/06/2026;44;25;1;24,90;;Pix;Pago;Site
+425;28/02/2026;105;25;5;24,90;;Boleto;Pago;Marketplace
+426;13/12/2025;81;25;1;24,90;;Boleto;PAGO;Aplicativo
+427;17/06/2026;76;29;5;14,90;;Cartão de Crédito;Pago;Loja Física
+428;31/05/2025;180;30;;29,90;;Cartão de Crédito;Pendente;Aplicativo
+429;22/07/2025;78;23;3;12,90;;Pix;Pago; APLICATIVO 
+430;13/06/2025;6;10;2;24,90;;Cartão de Débito;Pago;Aplicativo
+431;04/06/2026;91;14;5;27,90;;Pix;  Pago;  Site
+432;01/07/2026;153;8;6;54,90;;Pix;Pago;Aplicativo
+433;20/08/2026;50;23;4;12,90;15;Cartão de Débito;Pago  ;APLICATIVO
+434;23/06/2026;104;14;2;27,90;5;Cartão de Crédito;Pago;Site
+435;16/06/2025;37;15;6;34,90;5;Pix; PAGO ;marketplace
+436;02/05/2025;155;15;4;34,90;15; CARTÃO DE CRÉDITO ;Pago;  Site
+437;27/08/2026;108;12;3;38,50;;Boleto;Pago;Loja Física
+438;08/05/2026;147;1;1;129,90;;Cartão de Crédito;Pago;Site
+439;06/04/2026;171;20;2;22,90;;Pix; PAGO ;Aplicativo
+440;30/03/2026;189;8;4;54,90;;Cartão de Crédito;Pago;Site
+441;17/07/2025;159;23;3;12,90;5; CARTÃO DE CRÉDITO ;Pago;Aplicativo
+442;09/10/2025;53;1;1;129,90;;Cartão de Débito;Pago;Loja Física
+443;15/12/2025;112;11;4;45,00;;Cartão de Crédito;Pago;LOJA FÍSICA
+444;07/06/2025;79;18;2;14,90;;  Cartão de Crédito;Pago;Aplicativo
+445;04/05/2025;14;4;3;59,90;;Pix;Pendente;Site
+446;11/05/2026;8;4;3;59,90;;Cartão de Crédito; PAGO ;Marketplace
+447;02/04/2026;22;8;5;54,90;15;Cartão de Crédito;Pago;Site
+448;08/04/2026;11;26;2;79,90;;Cartão de Débito;Pago;Aplicativo
+449;26/12/2025;162;2;4;199,90;;Cartão de Crédito; PAGO ;Site
+450;14/10/2025;111;13;6;35,90;;Cartão de Crédito;Pago;Aplicativo
+451;16/12/2025;54;9;6;32,00;;Boleto;Pago;Loja Física
+452;16/05/2026;196;20;0;22,90;;Cartão de Crédito;Pago;Loja Física  
+453;02/01/2026;100;22;1;11,90;;Cartão de Débito;Pago;Loja Física
+454;02/01/2026;50;7;0;69,90;;Cartão de Débito;Pago;Loja Física
+455;03/08/2025;2;12;1;38,50;;Boleto;  Pendente;Site
+456;02/08/2026;1106;18;2;14,90;;Cartão de Crédito; PAGO ;Marketplace
+457;30/06/2026;158;24;3;13,90;;Cartão de Crédito;Pago  ;Site
+458;15/06/2026;120;2;3;199,90;;Pix;Cancelado;Loja Física
+459;25/03/2025;147;14;5;27,90;15;Pix;Pago;site
+460;29/01/2025;123;7;2;69,90;;Cartão de Débito;Pago;Loja Física
+461;08/12/2025;134;4;4;59,90;15; PIX ;Pago;Aplicativo
+462;17/11/2025;178;19;1;27,90;;Cartão de Débito  ; PAGO ;SITE
+463;25/02/2026;60;18;1;14,90;15;Cartão de Crédito;Pago  ;Site
+464;27/01/2025;117;20;5;22,90;5;Pix; PAGO ;Aplicativo
+465;30/12/2025;108;27;2;64,90;;Cartão de Crédito;Pago;  Aplicativo
+466;21/08/2026;139;19;4;27,90;15;Pix;Pago;Loja Física
+467;27/07/2026;14;17;5;9,90;;Pix;Pago;loja física
+468;06/12/2025;149;22;4;11,90;5;Boleto;Cancelado;Loja Física
+469;24/08/2025;120;26;1;79,90;5;Pix;Pendente;Aplicativo
+470;11/01/2025;19;13;2;35,90;;  Pix;;Site
+471;28/06/2025;57;30;3;29,90;;Cartão de Crédito;Pago;  Loja Física
+472;24/04/2025;87;30;1;29,90;;Pix;Pago;Aplicativo
+473;28/05/2025;34;26;5;79,90;15;Pix;Pendente;Loja Física
+474;03/07/2026;76;21;2;6,90;15;Pix;Pago; LOJA FÍSICA 
+475;08/03/2025;43;19;4;27,90;5;Pix;Pago;Site
+476;22/05/2026;122;6;3;6,50;;Cartão de Crédito;Pago;Site
+477;12/03/2026;97;29;2;14,90;5;Pix;Pago;Loja Física
+478;09/06/2026;160;10;4;24,90;;Cartão de Crédito;Pago;Aplicativo
+479;03/01/2026;22;13;1;35,90;;Cartão de Débito;Pago;Aplicativo
+480;21/07/2025;173;4;1;59,90;;Pix;Pago;Aplicativo
+481;25/09/2025;3;20;2;22,90;15;Pix;Pago;Site
+482;03/08/2025;122;19;0;27,90;;Cartão de Crédito;Pendente;Aplicativo
+483;04/03/2026;54;26;1;79,90;;Cartão de Crédito;Pago;SITE
+484;18/02/2026;196;16;6;19,90;15;Cartão de Crédito;Pago;site
+485;11/08/2026;101;5;3;99,90;;Pix;Pago; LOJA FÍSICA 
+486;21/07/2026;46;15;6;34,90;;Cartão de Débito;pago;Loja Física
+487;28/02/2025;95;10;2;24,90;5;Pix;Pago;Site
+488;31/07/2025;34;5;5;99,90;15;Pix;Pago;Site
+489;26/07/2025;2;10;5;24,90;;Cartão de Crédito;Pago;Loja Física
+490;22/10/2025;166;19;4;27,90;;Pix;Pago;Site
+491;19/03/2026;118;28;2;89,90;;Boleto;Pago;Site
+492;10/03/2025;179;8;2;54,90;10;Cartão de Crédito;Pago;Marketplace
+493;24/02/2026;116;12;1;38,50;;Pix;Pago;Loja Física
+494;11/02/2026;10;24;4;13,90;;Pix;Pago  ; SITE 
+495;13/10/2025;42;22;2;11,90;;Cartão de Débito;Pago;Loja Física
+496;28/03/2026;92;6;1;6,50;; PIX ;Pago;Aplicativo
+497;04/02/2026;177;26;5;79,90;;Cartão de Crédito;Pago  ;Aplicativo
+498;15/01/2025;87;12;2;38,50;15;Pix;;Loja Física
+499;21/04/2025;84;26;6;79,90;;Cartão de Crédito;Pago;Site
+500;16/02/2026;168;4;2;59,90;;Pix;Pago;Aplicativo
+501;27/05/2026;27;20;3;22,90;10;Cartão de Crédito;Pendente;Loja Física
+502;17/05/2025;86;20;3;22,90;;Cartão de Crédito;Pago;Marketplace
+503;27/08/2025;129;11;1;45,00;5;CARTÃO DE CRÉDITO;Pago;Marketplace
+504;19/01/2026;128;24;4;13,90;;Pix;Pago;Loja Física
+505;10/02/2025;134;15;6;34,90;15;Boleto;Pago;Loja Física
+506;12/09/2025;176;11;3;45,00;10;Cartão de Crédito;Pago;Loja Física
+507;25/05/2025;53;1;1;129,90;;Pix;Pago;Marketplace
+508;08/09/2025;109;3;4;79,90;;Cartão de Crédito;Pago;Marketplace
+509;21/06/2025;121;28;4;89,90;;Cartão de Crédito;Cancelado;Loja Física
+510;04/11/2025;153;16;1;19,90;5;Pix;Pago;Site
+511;26/04/2026;51;13;5;35,90;; BOLETO ;Pago;Site
+512;26/08/2026;19;14;4;27,90;;Cartão de Débito; PAGO ;Loja Física
+513;13/01/2026;179;9;6;32,00;;Cartão de Crédito;Pago;  Loja Física
+514;25/09/2025;155;21;6;6,90;;boleto;Pago;Marketplace
+515;12/02/2026;181;1;1;129,90;5;boleto;Pago;Loja Física
+516;24/08/2026;79;23;3;12,90;10;Cartão de Crédito;Pago;Loja Física
+517;12/02/2026;179;25;3;24,90;;Pix;Pago;Loja Física
+518;30/06/2025;96;14;5;27,90;;Cartão de Crédito;Pago;Marketplace
+519;16/07/2025;67;27;2;64,90;15;Cartão de Crédito;Pago;Marketplace
+520;23/08/2026;61;10;1;24,90;;Cartão de Crédito;  Pago; APLICATIVO 
+521;17/06/2026;195;26;1;79,90;;Boleto;;Loja Física
+522;05/01/2026;171;12;6;38,50;;  Pix;Cancelado;Aplicativo  
+523;12/09/2025;95;24;2;13,90;;Cartão de Crédito;Pago;Site
+524;30/11/2025;174;21;3;6,90;;Pix;Pago;Aplicativo
+525;30/01/2026;76;30;4;29,90;5; PIX ;Pendente;Aplicativo
+526;16/07/2026;120;2;2;199,90;;Cartão de Débito;Pago;Site
+527;30/01/2025;42;6;6;6,50;;Boleto;Pago;Loja Física
+528;19/05/2026;24;29;6;14,90;15;Cartão de Crédito;Pago;Aplicativo
+529;26/01/2026;168;21;3;6,90;10;Cartão de Débito;Pago;Loja Física
+530;12/07/2025;191;10;1;24,90;;  Cartão de Crédito;Pago;SITE
+531;09/01/2026;174;19;5;27,90;15;Pix;Pago;Loja Física  
+532;12/04/2026;38;11;2;45,00;5;Pix;Pago;  Aplicativo
+533;11/08/2026;123;10;5;24,90;10;Cartão de Débito;Pago;Site
+534;19/08/2025;180;11;2;45,00;10;Pix;Pago;Site
+535;06/02/2026;87;27;6;64,90;;Cartão de Crédito;;Aplicativo
+536;16/07/2026;101;17;6;9,90;;Pix;Pago;Aplicativo
+537;10/05/2026;75;23;3;12,90;;Pix;Pago;Aplicativo
+538;21/01/2026;110;28;5;89,90;10;Cartão de Débito;Pago  ; LOJA FÍSICA 
+539;18/02/2026;63;21;3;6,90;;Pix;Cancelado;Site
+540;02/04/2025;200;24;4;13,90;;Cartão de Débito;Cancelado;Aplicativo
+541;06/06/2026;58;4;1;59,90;;Cartão de Crédito;Pago; APLICATIVO 
+542;09/08/2026;33;6;4;6,50;;Pix;Pago;Site
+543;27/06/2026;126;23;1;12,90;;Cartão de Crédito;Pago;aplicativo
+544;23/07/2026;115;22;1;11,90;15; PIX ;Pago;Loja Física
+545;12/07/2026;44;28;1;89,90;;Boleto;Pago;Loja Física
+546;17/11/2025;134;29;3;14,90;;Cartão de Crédito;Pago;APLICATIVO
+547;20/07/2026;56;7;2;69,90;5; PIX ;Pago;Site
+548;12/03/2026;178;21;2;6,90;;  Cartão de Crédito;Pago;Aplicativo
+549;06/03/2026;40;12;5;38,50;;Boleto; PAGO ;Loja Física
+550;02/04/2025;93;18;1;14,90;;cartão de débito;Pago;Loja Física
+551;24/06/2026;187;8;4;54,90;;Cartão de Crédito;  Pago;Aplicativo
+552;03/02/2026;47;18;3;14,90;;Cartão de Débito;Pendente;Site
+553;09/06/2025;169;13;4;35,90;;Pix;Pago;Marketplace
+554;14/04/2026;47;12;6;38,50;;Boleto;Pago;Loja Física
+555;21/02/2026;198;23;2;12,90;;Cartão de Débito;pendente;Marketplace
+556;11/01/2025;109;2;1;199,90;10;Cartão de Crédito;Pago;Site
+557;08/01/2025;183;29;5;14,90;;Cartão de Crédito;Pago;Aplicativo
+558;22/06/2025;173;27;5;64,90;15;Cartão de Crédito;pago;Site
+559;13/09/2025;139;14;4;27,90;15;  Cartão de Débito;Pago; LOJA FÍSICA 
+560;12/06/2026;10;13;2;35,90;;Cartão de Débito;PENDENTE;Site
+561;18/03/2026;126;12;0;38,50;;Pix;;Loja Física  
+562;19/01/2026;77;1;2;129,90;;Cartão de Crédito;Pago;Loja Física
+563;03/01/2026;182;27;4;64,90;;Pix;Pago  ;Aplicativo
+564;30/09/2025;31;6;6;6,50;;Cartão de Crédito;Pago;Loja Física
+565;03/02/2026;34;25;4;24,90;;Boleto;  Pendente;Site
+566;09/01/2025;112;8;1;54,90;;Pix;Pago;Loja Física
+567;11/09/2025;171;17;2;9,90;15;Cartão de Crédito;Pago;Loja Física
+568;02/06/2025;59;20;2;22,90;;pix;Pendente;Site
+569;25/08/2025;57;3;1;79,90;;Cartão de Crédito  ;Pago;Loja Física
+570;06/07/2025;11;9;3;32,00;;Pix;Pago;Site
+571;08/11/2025;29;4;4;59,90;;Cartão de Crédito;Cancelado;Loja Física
+572;01/09/2025;167;26;3;79,90;;Pix;Pago;Loja Física
+573;15/07/2025;50;4;1;59,90;10; CARTÃO DE CRÉDITO ;Pendente;Loja Física
+574;05/03/2026;141;25;2;24,90;10;Pix;Pago;Marketplace
+575;11/03/2025;124;29;3;14,90;;Cartão de Crédito;Pago;Loja Física
+576;14/07/2025;190;5;3;99,90;15;Pix;Pago;Marketplace
+577;06/10/2025;53;25;5;24,90;;Pix;Pago;Loja Física
+578;14/08/2025;76;17;4;9,90;10;pix;pago;Loja Física
+579;12/09/2025;54;29;3;14,90;5;Pix;Pago;Marketplace
+580;29/10/2025;84;23;5;12,90;;  Cartão de Crédito;Pago;Marketplace
+581;21/08/2026;28;1;5;129,90;10;Cartão de Crédito;Pendente;Marketplace
+582;19/08/2026;162;18;2;14,90;15;Cartão de Débito;Pago;Aplicativo
+583;30/06/2025;49;5;4;99,90;5;Cartão de Crédito;Pago;Loja Física
+584;13/03/2026;63;6;4;6,50;;Boleto; PAGO ;Loja Física
+585;14/01/2025;196;1;5;129,90;15;cartão de crédito;Pago;Loja Física
+586;10/07/2026;189;20;1;22,90;15;Pix;Pago;Site
+587;11/07/2026;178;15;2;34,90;;CARTÃO DE CRÉDITO;  Pago;Loja Física
+588;31/05/2025;91;14;0;27,90;10;Pix;Pago;Aplicativo
+589;16/10/2025;92;29;1;14,90;;CARTÃO DE CRÉDITO;Cancelado;Site
+590;05/11/2025;160;17;3;9,90;15;Pix;Pago;Site
+591;02/06/2025;200;9;6;32,00;10;Pix  ;Pago;Aplicativo
+592;03/04/2025;83;3;1;79,90;;Pix;Cancelado;Site
+593;09/09/2025;99;14;5;27,90;;Cartão de Crédito;Pago;Site
+594;13/08/2025;180;3;5;79,90;;PIX;Pago;SITE
+595;23/05/2025;76;2;3;199,90;;Pix;Pago;Marketplace
+596;27/05/2025;97;27;2;64,90;10;Pix;Pago;Aplicativo
+597;10/01/2026;37;3;4;79,90;;Pix  ;pendente; SITE 
+598;14/01/2025;74;23;3;12,90;;Pix;pago;Site  
+599;29/05/2026;79;22;4;11,90;10;Pix;Pago;Loja Física
+600;08/07/2025;191;5;6;99,90;5;Cartão de Crédito  ;Pago;Aplicativo
+601;04/10/2025;28;13;2;35,90;;Pix;Pago;Loja Física
+602;13/11/2025;49;18;1;14,90;5;Pix;Pago;Loja Física
+603;06/04/2025;80;2;5;199,90;;Boleto;Pago;Site
+604;06/12/2025;105;13;6;35,90;10;Cartão de Crédito;Pago;Loja Física
+605;20/04/2026;21;16;5;19,90;10;Pix;Pago;Aplicativo
+606;20/06/2026;197;25;6;24,90;;  Cartão de Crédito;Cancelado;Marketplace
+607;18/03/2025;40;29;6;14,90;5;Cartão de Crédito;Pago;Loja Física
+608;30/10/2025;42;18;1;14,90;;Pix;pago;Aplicativo
+609;07/05/2025;146;16;3;19,90;;Pix;Pago;Marketplace
+610;18/01/2026;22;5;4;99,90;10;Cartão de Crédito;Pago;MARKETPLACE
+611;18/04/2025;75;24;2;13,90;;Pix;Pago  ;Marketplace
+612;22/04/2025;22;12;4;38,50;;Cartão de Crédito;Pago;Aplicativo
+613;03/05/2026;30;11;1;45,00;;Cartão de Crédito;Cancelado;Loja Física
+614;06/01/2026;111;19;1;27,90;;Pix;Pago  ;Loja Física
+615;08/04/2026;108;3;2;79,90;5;Pix;Pago;Loja Física
+616;06/03/2026;124;14;3;27,90;;Cartão de Crédito;Pago;Site
+617;23/07/2025;20;19;4;27,90;10;Cartão de Crédito;Pago;Marketplace
+618;01/06/2025;128;24;6;13,90;15;Pix;Pago;Loja Física
+619;07/02/2025;56;15;2;34,90;10;Boleto;Pago;Loja Física
+620;15/01/2025;95;12;2;38,50;15;Pix;Cancelado;Aplicativo  
+621;13/03/2026;134;21;4;6,90;15;Pix;Pago;Site
+622;24/03/2026;163;6;5;6,50;;Cartão de Crédito;Pago;LOJA FÍSICA
+623;12/07/2026;26;3;6;79,90;10;Cartão de Crédito;  Cancelado;Marketplace
+624;08/05/2025;90;25;4;24,90;15;Boleto;Pago;Aplicativo
+625;28/09/2025;79;1;3;129,90;15;Boleto;Pago;Loja Física
+626;16/06/2026;190;2;1;199,90;5;Pix;Pago;Site
+627;15/08/2026;110;13;2;35,90;;Boleto;Pago;Site
+628;02/05/2025;162;6;4;6,50;5;Cartão de Débito;Pago;Loja Física
+629;31/08/2026;40;11;2;45,00;;Cartão de Crédito;;Marketplace
+630;02/01/2026;48;1;6;129,90;;Cartão de Crédito;Cancelado;Aplicativo
+631;28/05/2025;161;26;4;79,90;;Cartão de Crédito;Pago  ;marketplace
+632;06/01/2026;54;10;3;24,90;;Pix;Pago;Site
+633;07/04/2026;42;7;6;69,90;;Pix;Pendente;Site
+634;14/07/2026;2;4;3;59,90;;Cartão de Crédito; PAGO ; LOJA FÍSICA 
+635;31/01/2025;84;25;2;24,90;;Pix;Pago;Loja Física
+636;23/05/2026;112;3;3;79,90;5;Boleto;Pago;Loja Física
+637;25/08/2026;80;23;3;12,90;;Cartão de Débito;Pago;Marketplace
+638;16/03/2026;52;24;3;13,90;5;Pix;Pago;Site
+639;28/06/2026;91;17;3;9,90;;Pix;Pago;Aplicativo
+640;06/05/2025;3;3;2;79,90;;Cartão de Crédito;Pago;Site
+641;11/08/2025;27;8;5;54,90;5;Pix;Pago;Marketplace  
+642;21/05/2026;128;22;4;11,90;;Boleto;pago;Site
+643;13/08/2026;2;8;5;54,90;;Pix;Pago;Marketplace
+644;02/03/2026;186;2;3;199,90;;Pix;Pago;Site
+645;05/05/2025;96;20;1;22,90;5;Pix;Pago;Loja Física
+646;13/01/2026;138;28;6;89,90;;Boleto;Pago;  Aplicativo
+647;04/10/2025;179;3;3;79,90;;Boleto;  Pago;Marketplace
+648;04/09/2025;148;29;4;14,90;;Cartão de Crédito;Pago;Aplicativo
+649;06/09/2025;169;9;3;32,00;10;Cartão de Crédito;Pago  ;loja física
+650;28/08/2026;195;15;4;34,90;5;Cartão de Crédito;Pago;Aplicativo
+651;30/01/2026;116;28;5;89,90;15;Cartão de Crédito;Pago;Loja Física
+652;18/04/2026;28;22;3;11,90;10;Pix  ;Pago;Loja Física
+653;18/03/2026;55;15;3;34,90;;Pix;Pendente;Site
+654;13/07/2025;104;2;6;199,90;;Cartão de Crédito;Pendente;Site
+655;06/02/2025;148;21;2;6,90;;Pix;Pago;Marketplace
+656;02/10/2025;127;13;4;35,90;;Pix;Pago;Aplicativo
+657;09/11/2025;177;1;1;129,90;;Pix;Pendente;Loja Física
+658;28/09/2025;20;1;6;129,90;;Cartão de Crédito;Pago;Marketplace
+659;25/10/2025;59;16;2;19,90;5;Cartão de Crédito;;  Aplicativo
+660;14/05/2026;65;15;4;34,90;;Cartão de Crédito;Cancelado;Loja Física
+661;22/01/2025;38;22;5;11,90;;Cartão de Débito;Pago  ;Loja Física
+662;22/01/2026;164;23;4;12,90;;Boleto;Pago;Marketplace
+663;06/12/2025;101;29;5;14,90;5;Cartão de Crédito;Pendente;Loja Física
+664;22/12/2025;74;11;5;45,00;;Boleto;Pago;Site
+665;08/03/2025;76;10;5;24,90;;Cartão de Crédito;Pago;Loja Física
+666;22/05/2025;90;1;4;129,90;;Cartão de Débito;Pago;Site
+667;24/03/2025;75;23;3;12,90;;Pix;Pago;Aplicativo
+668;27/06/2025;145;13;1;35,90;;Cartão de Crédito;Pendente;Aplicativo
+669;04/08/2026;161;5;4;99,90;;Cartão de Crédito;Pago;Site  
+670;29/12/2025;110;23;3;12,90;;Cartão de Crédito; PAGO ;Loja Física
+671;09/06/2026;96;3;2;79,90;;Cartão de Crédito;Pago;Loja Física
+672;15/06/2026;118;5;4;99,90;15;PIX;Pago;Loja Física
+673;08/06/2026;190;16;6;19,90;10;Pix;Pago  ;Loja Física
+674;07/01/2025;125;21;2;6,90;5;CARTÃO DE CRÉDITO;Pago;Marketplace
+675;05/02/2026;15;8;2;54,90;;Pix;Pago;Loja Física
+676;19/03/2026;38;9;5;32,00;10;pix;Pendente;Aplicativo
+677;20/05/2026;95;16;4;19,90;10;Pix;Pago;Site
+678;18/08/2026;78;5;1;99,90;;Cartão de Crédito;Pago;Loja Física
+679;12/06/2025;92;5;4;99,90;5;Cartão de Débito;;Loja Física
+680;31/07/2026;87;13;5;35,90;;Cartão de Crédito;Pago;Aplicativo
+681;29/04/2026;156;13;1;35,90;10;Pix;Pago;Aplicativo
+682;18/02/2026;18;23;3;12,90;;Pix;Pago;Aplicativo
+683;31/08/2025;27;22;4;11,90;;Cartão de Crédito;Pago;  Marketplace
+684;31/01/2025;45;4;1;59,90;;Pix; PAGO ;Site
+685;21/03/2026;136;16;4;19,90;15;CARTÃO DE DÉBITO;Pago;Aplicativo
+686;14/07/2026;19;26;2;79,90;;Pix;Pago;Site
+687;27/07/2026;36;27;2;64,90;15;Pix;Pago; LOJA FÍSICA 
+688;05/12/2025;6;10;1;24,90;;Cartão de Débito;Pago;Site
+689;15/06/2026;157;28;2;89,90;5;Pix;Pago;Marketplace
+690;25/07/2025;86;30;3;29,90;15;Pix;Pago;Loja Física
+691;06/02/2025;89;30;1;29,90;;Boleto;Pago;Loja Física
+692;19/08/2025;167;5;3;99,90;;Cartão de Crédito;Pago;MARKETPLACE
+693;19/01/2025;142;1;2;129,90;;Pix;Pendente;Site
+694;12/01/2026;91;5;1;99,90;;Pix;Pendente;Loja Física  
+695;13/09/2025;15;24;5;13,90;;Pix;;Loja Física
+696;12/02/2026;123;20;6;22,90;10;  Pix;Cancelado;Loja Física
+697;06/11/2025;94;27;3;64,90;15;Cartão de Crédito;Pendente;Marketplace
+698;13/05/2026;72;18;5;14,90;; PIX ;Pago;Aplicativo
+699;27/03/2026;167;12;6;38,50;15;Cartão de Crédito  ;Pago;Loja Física
+700;20/01/2025;98;10;1;24,90;;Cartão de Crédito;Pendente;Aplicativo
+701;11/12/2025;68;22;3;11,90;15;Cartão de Débito; PAGO ;Site
+702;22/10/2025;137;24;6;13,90;;Cartão de Crédito;Pago;Loja Física
+703;15/10/2025;175;15;6;34,90;;Pix;Pago;Loja Física
+704;13/01/2025;32;20;3;22,90;;Cartão de Crédito;Pago;Loja Física
+705;24/07/2026;56;15;1;34,90;;Pix;Cancelado;Site
+706;22/05/2026;33;3;4;79,90;; CARTÃO DE CRÉDITO ;Pago;Loja Física
+707;21/07/2026;184;6;6;6,50;;Pix;Pago;Loja Física
+708;22/04/2025;20;28;3;89,90;5;Cartão de Crédito;Pago;Loja Física
+709;27/05/2025;7;27;6;64,90;;Cartão de Crédito;Pago;Marketplace
+710;03/06/2025;152;10;5;24,90;;Pix;Pago;Aplicativo
+711;20/08/2026;9;26;5;79,90;10;Cartão de Crédito;Cancelado;loja física
+712;06/07/2026;188;19;5;27,90;;Cartão de Débito;Pago  ;Aplicativo
+713;03/12/2025;63;11;3;45,00;15;Cartão de Débito;Pago;aplicativo
+714;28/07/2026;130;15;6;34,90;;Boleto;Pago;Site
+715;22/08/2026;171;19;2;27,90;;Cartão de Crédito;Pago;Loja Física
+716;04/07/2025;117;17;2;9,90;;Pix;Pago;Aplicativo
+717;20/06/2025;19;4;2;59,90;;Cartão de Crédito;;Site
+718;11/12/2025;87;5;4;99,90;5;CARTÃO DE CRÉDITO;  Pago;Marketplace
+719;18/05/2025;188;21;4;6,90;;Cartão de Crédito;Pago;Site
+720;25/11/2025;113;1;5;129,90;;Cartão de Crédito;Pago;Loja Física
+721;13/03/2026;74;11;1;45,00;;Pix;Pendente;Loja Física
+722;18/11/2025;26;29;6;14,90;;  Pix;Pago;Loja Física
+723;13/10/2025;37;30;3;29,90;;Pix;Pago;Loja Física
+724;27/01/2025;95;29;5;14,90;;Pix;Pago;Site  
+725;19/03/2026;127;10;1;24,90;;  Pix;Pendente;Loja Física
+726;04/06/2026;86;3;6;79,90;;Cartão de Crédito;Pago;Loja Física
+727;22/11/2025;49;29;1;14,90;15;Cartão de Crédito;Cancelado;Marketplace
+728;20/07/2025;68;8;2;54,90;;Pix;Pendente;Loja Física
+729;04/01/2025;112;29;1;14,90;;Cartão de Crédito;Pendente;Loja Física
+730;28/06/2026;169;20;4;22,90;;Cartão de Débito;Pago;Aplicativo
+731;13/08/2025;29;21;4;6,90;15;Cartão de Débito;Pago;Loja Física
+732;12/02/2026;181;6;4;6,50;;Cartão de Débito;Pago;Site
+733;23/02/2026;16;8;1;54,90;5;Cartão de Débito;Pago;Site
+734;14/12/2025;163;13;3;35,90;15;Pix;Pago;Marketplace
+735;13/05/2025;155;25;6;24,90;5;Pix;Cancelado;Loja Física
+736;16/06/2026;54;30;3;29,90;;Cartão de Crédito;Pago;Site
+737;12/09/2025;4;10;2;24,90;;Cartão de Débito;Pago;Site
+738;11/09/2025;9;2;2;199,90;;Cartão de Crédito;Pago;Site
+739;02/03/2026;6;29;3;14,90;;Cartão de Crédito;Pago;Loja Física
+740;12/03/2026;132;13;2;35,90;10;Pix;Pendente;Loja Física
+741;29/07/2026;72;16;4;19,90;;Pix;Pago;Site
+742;09/04/2026;58;24;4;13,90;5;Boleto;Pago;Site
+743;08/04/2025;144;21;3;6,90;;Pix;Pago;Loja Física
+744;02/03/2025;197;27;4;64,90;;Pix;Pago;Loja Física
+745;30/07/2026;126;19;5;27,90;5;Cartão de Crédito;Pago;Site
+746;21/03/2025;97;18;6;14,90;;Cartão de Débito;Pago;Loja Física
+747;22/06/2026;125;4;1;59,90;;Cartão de Crédito;Pago;Loja Física
+748;16/01/2026;145;10;6;24,90;10;Pix;Pago;Aplicativo
+749;05/12/2025;192;12;5;38,50;10;Boleto;Pago;Aplicativo
+750;06/01/2025;80;11;4;45,00;10;Pix;Pago;Loja Física  
+751;20/12/2025;161;20;2;22,90;;Boleto;Pago;Marketplace
+752;09/07/2026;165;10;3;24,90;10;Pix;pago;Loja Física
+753;05/12/2025;148;4;2;59,90;15;Cartão de Débito;Pago;Aplicativo
+754;10/08/2025;24;30;4;29,90;15;Cartão de Crédito  ;Pago;Loja Física
+755;01/12/2025;78;2;2;199,90;5;Cartão de Débito;Pago;Aplicativo
+756;08/08/2025;43;12;3;38,50;10;Cartão de Débito;Pago;Site
+757;23/12/2025;46;26;3;79,90;;Cartão de Débito;Pago;Loja Física
+758;19/01/2026;46;20;5;22,90;10;Boleto;Pendente;Loja Física
+759;14/01/2025;156;11;1;45,00;;Pix;Pendente;Loja Física
+760;28/04/2026;156;9;3;32,00;10;Cartão de Crédito;Cancelado;Site
+761;01/07/2025;34;4;1;59,90;;Cartão de Crédito;PAGO;Loja Física
+762;21/11/2025;182;9;2;32,00;;Boleto;Pago;Site
+763;29/05/2026;38;13;4;35,90;10;Pix; PAGO ;Loja Física
+764;08/10/2025;144;6;6;6,50;;Pix;;Aplicativo  
+765;22/11/2025;152;3;1;79,90;10;Boleto;Pago;Loja Física
+766;15/07/2025;192;3;6;79,90;15;Cartão de Crédito;Pago;Loja Física
+767;24/07/2025;46;19;3;27,90;;Pix;  Pago;Site
+768;07/02/2025;150;21;5;6,90;;Pix;Pago;Site
+769;03/10/2025;24;22;3;11,90;5;Cartão de Débito;Pago;loja física
+770;26/08/2026;9;16;2;19,90;;Cartão de Crédito;Pago;Loja Física
+771;10/11/2025;42;11;3;45,00;;Cartão de Crédito;Pago;Site
+772;18/01/2026;154;23;4;12,90;;Cartão de Crédito;pago;Aplicativo
+773;15/02/2026;152;17;1;9,90;;Pix;Pago;Site
+774;08/12/2025;14;17;2;9,90;;Pix;Pago;Site
+775;24/03/2025;48;1;6;129,90;;Cartão de Débito;Pendente;Loja Física
+776;08/02/2026;179;25;0;24,90;;Boleto;Pago;Aplicativo
+777;01/12/2025;73;4;4;59,90;15;Cartão de Crédito;Pago;Site
+778;02/07/2025;197;22;6;11,90;;Pix;Pago;Site
+779;05/08/2025;78;30;1;29,90;;Pix;Pago;Loja Física
+780;17/06/2025;102;22;4;11,90;10;CARTÃO DE CRÉDITO;Cancelado;Aplicativo
+781;11/04/2026;3;13;1;35,90;;Cartão de Crédito;Pago;Loja Física
+782;30/05/2026;96;24;6;13,90;15;Cartão de Crédito;Pago;Site
+783;08/01/2025;87;14;5;27,90;10;Cartão de Crédito;Pendente;Aplicativo
+784;11/01/2026;13;2;4;199,90;5;Cartão de Crédito;Pago;Loja Física
+785;29/11/2025;77;18;3;14,90;10;PIX;;Site
+786;21/05/2026;111;6;1;6,50;;Pix;Pago;Marketplace
+787;01/12/2025;96;30;6;29,90;;Pix;Pago;Marketplace
+788;15/02/2026;6;24;1;13,90;;Boleto;Pago;Marketplace
+789;11/06/2026;139;14;1;27,90;15;Cartão de Débito; PAGO ;Site
+790;16/02/2025;155;14;3;27,90;;Boleto;Pago;Site  
+791;22/11/2025;25;22;2;11,90;;Pix;Pago;Site
+792;03/02/2026;122;20;4;22,90;5;Pix;Pago;Site
+793;19/09/2025;104;24;4;13,90;;Cartão de Crédito;Pago  ;Site
+794;19/11/2025;116;7;6;69,90;10;Cartão de Crédito;Pago;Site
+795;29/08/2025;97;14;1;27,90;5;Pix;Pago;Loja Física
+796;15/02/2026;141;4;5;59,90;;Pix;Pendente;Loja Física
+797;22/11/2025;129;21;1;6,90;5;Cartão de Crédito;Pago;Aplicativo
+798;04/01/2025;137;30;4;29,90;15;Pix;Pendente;Marketplace
+799;18/08/2025;36;21;4;6,90;5;Cartão de Crédito;Pago;Aplicativo
+800;04/04/2025;95;11;5;45,00;;Cartão de Crédito;Pago;Site
+801;29/04/2026;183;28;2;89,90;;Pix;Pago;Loja Física
+802;18/04/2026;129;8;6;54,90;10;Pix;Cancelado;Marketplace
+803;21/02/2026;134;15;6;34,90;;Cartão de Débito  ;Pago;Marketplace
+804;08/05/2026;186;23;5;12,90;;Pix;;Aplicativo
+805;15/03/2026;32;12;4;38,50;;Pix;Pago;aplicativo
+806;10/05/2026;54;12;4;38,50;;Pix;Pago  ;Aplicativo
+807;22/09/2025;146;11;3;45,00;;Cartão de Crédito;  Pago;Loja Física
+808;05/08/2026;163;19;3;27,90;;Cartão de Crédito;Pago;Aplicativo
+809;29/01/2025;55;5;5;99,90;5;Pix;Pago;Aplicativo
+810;09/06/2025;151;17;4;9,90;15;Cartão de Crédito;Pendente;Marketplace
+811;08/03/2025;88;28;5;89,90;;Pix;Pago;Aplicativo
+812;13/01/2025;192;21;2;6,90;15;Cartão de Débito;Pago;Aplicativo
+813;05/10/2025;142;2;4;199,90;5;Cartão de Débito;CANCELADO;Site
+814;08/09/2025;59;8;3;54,90;10;Cartão de Crédito;Pago;Loja Física
+815;16/05/2025;134;24;2;13,90;;Pix;Pendente;Site
+816;30/04/2025;114;18;1;14,90;; CARTÃO DE CRÉDITO ;Pago;Site
+817;19/07/2025;151;19;4;27,90;15;Cartão de Crédito;Pago;Loja Física
+818;18/10/2025;166;9;4;32,00;;Pix;Pago;Aplicativo
+819;07/01/2025;82;21;4;6,90;5;Cartão de Crédito;Pago  ;Aplicativo  
+820;22/04/2025;196;11;6;45,00;;Pix;Pago;  Site
+821;16/07/2025;197;30;5;29,90;;Cartão de Débito;Pago;Loja Física
+822;23/08/2025;68;16;6;19,90;;Boleto;Pago;Loja Física
+823;04/03/2026;2;27;6;64,90;15;Boleto  ;Pago;Aplicativo
+824;20/09/2025;76;25;3;24,90;15;Pix;Pago;Loja Física
+825;18/03/2025;63;7;2;69,90;;Pix;Pago;Site
+826;13/09/2025;72;2;6;199,90;5;CARTÃO DE CRÉDITO;Cancelado;Loja Física
+827;29/11/2025;199;30;3;29,90;10;Cartão de Crédito;Pago;Loja Física
+828;24/09/2025;143;3;4;79,90;5;Cartão de Débito;PAGO;Marketplace
+829;08/08/2025;48;24;3;13,90;;Cartão de Crédito;Pago;Aplicativo
+830;25/02/2026;110;9;5;32,00;;Cartão de Débito;Pago;Loja Física
+831;01/12/2025;138;12;1;38,50;;Pix;CANCELADO;Site
+832;31/03/2025;147;25;1;24,90;;Cartão de Crédito;Pago;Aplicativo
+833;05/12/2025;19;9;4;32,00;;Cartão de Crédito;Pendente;Aplicativo
+834;04/02/2026;5;14;1;27,90;;Pix;Pago;Loja Física
+835;12/08/2026;91;11;5;45,00;10;Cartão de Débito;Pago;Loja Física
+836;08/07/2026;90;1;5;129,90;;Pix;Pago;Loja Física
+837;28/01/2025;36;14;3;27,90;;Pix;pendente;Site
+838;06/04/2025;45;13;2;35,90;5;Boleto;pago;Loja Física
+839;03/04/2025;130;20;3;22,90;;Cartão de Crédito;Pago;Loja Física
+840;14/11/2025;17;14;4;27,90;;Boleto;Pago;Aplicativo
+841;28/11/2025;12;26;4;79,90;;Cartão de Débito; PAGO ;Loja Física
+842;28/10/2025;96;25;1;24,90;5;Cartão de Crédito;Pago;Marketplace
+843;16/06/2025;8;24;6;13,90;;Pix;Pendente;Aplicativo
+844;28/05/2025;105;1;1;129,90;;Cartão de Crédito;Pendente;  Loja Física
+845;03/05/2026;119;29;2;14,90;;Cartão de Débito; CANCELADO ;Aplicativo  
+846;09/04/2025;123;16;3;19,90;;Cartão de Crédito;Pago;loja física
+847;18/04/2025;64;8;6;54,90;;Pix;Pago;Aplicativo
+848;15/05/2025;84;19;5;27,90;;PIX;Cancelado;Aplicativo
+849;01/09/2025;42;26;2;79,90;;Pix;Pago;Loja Física
+850;27/09/2025;140;27;5;64,90;;Pix;Cancelado;Marketplace
+851;17/07/2026;117;29;2;14,90;10;Pix;Pago;Loja Física
+852;14/04/2026;29;14;6;27,90;;Cartão de Crédito;Pago;Loja Física
+853;08/06/2026;50;3;5;79,90;;Cartão de Débito;  Pago;Site
+854;24/08/2025;178;19;5;27,90;5;Pix;Pago;Site
+855;27/07/2025;72;8;6;54,90;;Boleto;Cancelado;Marketplace
+856;01/01/2025;20;29;4;14,90;;Cartão de Crédito;Pago;Aplicativo
+857;14/06/2025;196;3;1;79,90;15;Boleto;Pago;Loja Física
+858;10/10/2025;36;19;2;27,90;;Pix;Pago;Loja Física
+859;15/11/2025;135;22;3;11,90;;Cartão de Débito;Pago;Site
+860;16/12/2025;70;18;6;14,90;;Pix;Pago  ;Site
+861;20/06/2026;27;23;6;12,90;;Boleto;Pago;Site
+862;18/04/2025;198;22;4;11,90;;Cartão de Débito;Cancelado;Site
+863;13/05/2026;63;22;3;11,90;5;Cartão de Crédito;Pago;Loja Física
+864;16/06/2026;171;23;4;12,90;;PIX;Pago;Loja Física
+865;08/02/2026;184;12;5;38,50;10;Pix;Pendente;Site
+866;27/01/2025;56;2;4;199,90;5;Pix;Pago;Loja Física
+867;19/12/2025;91;1;6;129,90;;Pix;Pendente;Aplicativo
+868;26/11/2025;190;25;2;24,90;;Cartão de Débito;Pago;  Site
+869;10/11/2025;26;20;5;22,90;10;Pix;Pago;Site
+870;25/03/2026;93;7;3;69,90;15;Pix;pago;Site
+871;12/02/2026;159;23;6;12,90;10; PIX ;Pago;Aplicativo
+872;30/01/2026;27;5;6;99,90;15;Boleto;Pago;Loja Física
+873;16/07/2026;40;3;3;79,90;10;boleto;Pago;Marketplace
+874;07/09/2025;6;8;4;54,90;15;Cartão de Crédito;;Site
+875;13/08/2026;100;19;2;27,90;10;Pix;Pago;Aplicativo
+876;18/05/2025;83;12;2;38,50;15;Cartão de Débito;Pago; SITE 
+877;22/08/2025;185;23;4;12,90;;Cartão de Crédito;Pago;Marketplace
+878;08/03/2025;44;19;1;27,90;;Cartão de Crédito;  Pago;Site
+879;16/09/2025;187;3;6;79,90;;Cartão de Crédito;Cancelado;Marketplace
+880;05/12/2025;60;7;6;69,90;5;Cartão de Débito;Pago;Aplicativo
+881;02/01/2026;151;19;3;27,90;;CARTÃO DE DÉBITO;Cancelado;Aplicativo
+882;31/01/2025;167;8;5;54,90;;Cartão de Crédito;Cancelado  ;Site
+883;07/07/2025;25;13;4;35,90;;Pix;Pago;Site
+884;14/12/2025;116;13;2;35,90;15;Pix;Cancelado;Loja Física
+885;13/01/2025;2;22;3;11,90;; PIX ;Pago;Marketplace
+886;20/12/2025;25;7;6;69,90;15;Cartão de Crédito;Pago;Loja Física
+887;09/02/2025;138;28;2;89,90;15;Boleto;Pago;Loja Física
+888;08/06/2025;157;6;5;6,50;;Boleto;Pendente;Site
+889;03/09/2025;126;4;6;59,90;;CARTÃO DE DÉBITO;Pago;Marketplace
+890;17/06/2026;24;30;6;29,90;10;Cartão de Crédito;Pago;Aplicativo
+891;22/07/2025;75;25;5;24,90;10;Cartão de Crédito;PAGO;Site
+892;22/10/2025;198;16;5;19,90;10;Cartão de Crédito;PAGO;Loja Física
+893;02/07/2026;8;29;5;14,90;;Boleto;Pago;Site
+894;15/01/2026;175;22;4;11,90;10;Pix;Pago;Loja Física
+895;16/01/2025;12;11;1;45,00;;Pix;Pago;Loja Física
+896;16/01/2026;103;27;3;64,90;;Pix;Cancelado;Loja Física
+897;07/10/2025;105;22;5;11,90;10;Pix;Pendente;Aplicativo
+898;12/02/2025;179;25;4;24,90;15;Cartão de Crédito;Pago;Site  
+899;12/02/2026;73;3;2;79,90;5;Pix;Pago;Aplicativo
+900;11/05/2025;133;29;2;14,90;;cartão de crédito;Pago  ;Loja Física
+901;27/05/2025;114;26;1;79,90;5;Cartão de Débito;Pago;Marketplace
+902;14/09/2025;45;24;3;13,90;;Cartão de Crédito;Pago  ;Loja Física
+903;26/03/2026;7;3;2;79,90;15;Cartão de Crédito;Pago;Loja Física
+904;02/07/2026;5;18;3;14,90;5;Cartão de Crédito;Pago;Loja Física
+905;04/08/2026;31;22;0;11,90;15;Pix;Pago;Loja Física
+906;01/02/2026;116;30;4;29,90;10;Pix;Pago;Marketplace
+907;21/10/2025;164;16;2;19,90;10;Pix;Pendente;Marketplace
+908;09/07/2026;59;1;4;129,90;;Pix;Pago;Site
+909;12/12/2025;84;15;6;34,90;10;Pix;Cancelado;Loja Física
+910;16/07/2026;196;7;6;69,90;15;Cartão de Crédito;Pago;Loja Física  
+911;10/06/2025;169;10;5;24,90;;Boleto;Pago;Loja Física
+912;09/06/2025;165;19;6;27,90;;Cartão de Crédito;Cancelado;Loja Física
+913;28/06/2026;189;24;2;13,90;10;Cartão de Débito;Pago;LOJA FÍSICA
+914;04/06/2025;55;11;1;45,00;;Cartão de Débito;Pendente;Site
+915;30/07/2026;41;16;3;19,90;; PIX ;Pago;Site
+916;31/05/2025;114;23;3;12,90;;Cartão de Débito  ;Pendente;Site
+917;09/08/2026;47;19;6;27,90;;Cartão de Débito;Pago;Site
+918;08/02/2026;39;3;3;79,90;;Boleto;Pago;Marketplace
+919;28/08/2026;107;23;1;12,90;;Pix;Cancelado;Marketplace
+920;10/11/2025;68;1;4;129,90;;Boleto;Pago;Marketplace
+921;11/01/2025;189;22;1;11,90;5;Pix;Pago;  Site
+922;11/03/2026;105;23;4;12,90;10;Pix;Pago;Site
+923;23/11/2025;131;9;1;32,00;;PIX;Pendente; LOJA FÍSICA 
+924;14/01/2025;189;26;2;79,90;15;Pix;;Loja Física
+925;05/05/2025;15;28;4;89,90;10;Pix;Pago;Loja Física
+926;23/03/2025;100;3;1;79,90;;Cartão de Crédito;Pago;Aplicativo
+927;04/03/2025;114;23;2;12,90;;cartão de crédito;Pago;Marketplace
+928;26/11/2025;194;7;6;69,90;;Pix;Pago;Site
+929;28/06/2026;2;10;2;24,90;10;Cartão de Débito;Pago;Loja Física  
+930;02/04/2026;4;12;6;38,50;10;Cartão de Crédito;Pago;Marketplace
+931;23/11/2025;116;20;6;22,90;;Cartão de Crédito;Pago;Aplicativo
+932;24/02/2026;120;24;2;13,90;;Pix;Pago;Site
+933;26/01/2025;36;15;4;34,90;15;Pix;Pago;site
+934;29/04/2026;39;5;5;99,90;;Pix  ;;Loja Física
+935;27/05/2026;111;28;5;89,90;;Boleto;Pago;Loja Física
+936;16/06/2026;127;3;3;79,90;15;Pix;Pago;Site
+937;27/06/2026;73;10;6;24,90;;Cartão de Crédito;Pago;Site
+938;01/12/2025;177;3;1;79,90;;Boleto;Pago;Marketplace
+939;11/05/2025;83;9;5;32,00;15;Cartão de Crédito;Pago;Site
+940;08/06/2026;25;27;2;64,90;;Cartão de Débito;;Loja Física
+941;10/10/2025;183;20;6;22,90;;Pix;Pago;  Loja Física
+942;24/11/2025;125;27;5;64,90;;Cartão de Crédito;Pago;Site
+943;19/07/2025;135;20;5;22,90;15;Cartão de Crédito;Pago;Aplicativo
+944;08/03/2026;21;10;3;24,90;;Cartão de Crédito;;Loja Física
+945;08/10/2025;117;18;2;14,90;;Pix;Pago;Site
+946;26/05/2025;81;1;1;129,90;15;Cartão de Crédito;Pago;Site
+947;03/08/2026;194;11;5;45,00;5;Pix;Pago;Aplicativo
+948;29/08/2025;24;30;1;29,90;15;Pix;  Pago;Aplicativo
+949;08/06/2025;141;18;1;14,90;15;Pix;Pago;Aplicativo
+950;19/08/2025;123;8;2;54,90;;Pix;;Marketplace
+951;10/02/2026;5;5;5;99,90;5;Cartão de Débito;Pago;Aplicativo
+952;08/01/2025;90;2;2;199,90;10;Pix;Pago;Aplicativo
+953;02/02/2026;41;5;;99,90;15;Pix;Pago;Loja Física
+954;09/06/2026;198;4;6;59,90;;Pix  ;Pago;Aplicativo
+955;08/08/2025;152;7;5;69,90;15;Pix;Pago;Loja Física
+956;05/07/2025;86;27;3;64,90;;Cartão de Crédito;;Aplicativo
+957;20/10/2025;171;13;5;35,90;15;BOLETO;Pendente;Marketplace
+958;26/01/2026;187;28;1;89,90;5;  Boleto;Cancelado;Loja Física
+959;05/02/2025;31;29;3;14,90;;Pix;;Marketplace
+960;01/02/2025;122;30;2;29,90;;pix;Pago;Marketplace
+961;06/06/2025;56;9;3;32,00;;Pix;Pago  ;Aplicativo
+962;15/10/2025;182;1;5;129,90;;Cartão de Crédito;Pago;Aplicativo
+963;15/02/2025;145;7;2;69,90;15;Cartão de Débito;Pago;Aplicativo
+964;29/04/2026;140;24;1;13,90;;Pix;Pago;Site
+965;22/12/2025;197;21;3;6,90;;Pix;Pago;Aplicativo
+966;03/01/2026;166;14;1;27,90;;Cartão de Crédito;Pendente;Marketplace
+967;13/06/2025;147;30;6;29,90;;Boleto;Pago;Site
+968;13/08/2026;2;29;1;14,90;;Boleto;Pago;Loja Física
+969;16/07/2026;102;11;4;45,00;5;Cartão de Crédito;Pago;Aplicativo
+970;12/07/2025;184;4;2;59,90;;Cartão de Débito;Pago;Site
+971;09/07/2026;164;23;3;12,90;;Boleto;  Pago;Loja Física
+972;09/03/2026;92;25;6;24,90;10;Cartão de Crédito;Pago;Site
+973;12/02/2025;174;14;5;27,90;;Boleto;Pago;Loja Física
+974;25/08/2026;159;26;4;79,90;;Boleto;Pago;Site
+975;07/04/2025;117;25;1;24,90;;Cartão de Crédito;Pago;Loja Física
+976;11/01/2025;176;25;6;24,90;;Cartão de Crédito; PAGO ;Site
+977;19/02/2025;65;15;3;34,90;5;Pix;Pago;Site
+978;20/03/2025;51;2;3;199,90;;cartão de crédito;Pago;Loja Física
+979;29/04/2025;26;11;6;45,00;;Pix;Pago;Site
+980;13/01/2026;163;12;6;38,50;5;Pix;Pago;Site
+981;15/02/2026;130;3;1;79,90;;Boleto;cancelado;Loja Física
+982;05/05/2026;18;7;4;69,90;15;Cartão de Crédito;PAGO;loja física
+983;13/01/2025;29;24;6;13,90;5;Cartão de Crédito;pago;Loja Física
+984;12/04/2025;45;16;2;19,90;;Cartão de Crédito;Pago;Loja Física
+985;16/03/2025;145;28;5;89,90;;Pix;Pago;Site
+986;09/02/2026;8;9;4;32,00;;Cartão de Crédito;Pago;Site
+987;21/02/2026;166;24;2;13,90;15;Cartão de Débito;Cancelado;Loja Física
+988;30/05/2025;198;14;5;27,90;10;Pix;Pago;Aplicativo
+989;27/04/2026;131;11;3;45,00;;Pix;Pago;Aplicativo
+990;04/04/2025;178;20;5;22,90;;Boleto;Pago;Loja Física
+991;28/11/2025;62;30;3;29,90;5;Pix;Pago;Loja Física
+992;23/05/2025;198;9;3;32,00;10;Pix;Pago;Site
+993;26/10/2025;164;26;4;79,90;;Pix;Pago;Loja Física
+994;05/08/2026;118;16;3;19,90;5;Pix;PAGO;Marketplace
+995;22/05/2026;117;13;1;35,90;5;Cartão de Crédito;Pago;Loja Física  
+996;03/05/2025;36;21;4;6,90;;Pix;Pago;LOJA FÍSICA
+997;10/03/2026;53;18;5;14,90;;Cartão de Débito;  Pago;Marketplace
+998;01/10/2025;142;10;4;24,90;;Cartão de Débito;Pago;Loja Física
+999;04/04/2025;147;26;4;79,90;10;Cartão de Crédito;Pago;Loja Física
+1000;14/08/2025;72;14;2;27,90;;Pix;Pago;Marketplace
+1001;31/03/2026;114;15;2;34,90;;Cartão de Crédito;Pago;Site
+1002;21/06/2026;88;9;2;32,00;;Pix;Pago;Site
+1003;22/06/2025;104;5;6;99,90;;Pix;Pago;Aplicativo
+1004;31/07/2026;63;13;5;35,90;10;Cartão de Crédito;Cancelado;Site
+1005;02/04/2025;112;13;1;35,90;;Pix;Pago;Loja Física
+1006;07/02/2025;98;8;5;54,90;;Pix;Pago;Loja Física
+1007;02/06/2025;76;18;1;14,90;;Cartão de Débito;Pago;Loja Física
+1008;30/06/2025;74;17;1;9,90;5;Cartão de Crédito;Pago;Loja Física
+1009;03/07/2025;137;20;6;22,90;;Cartão de Débito;Pago;Loja Física
+1010;06/10/2025;132;6;2;6,50;15;Pix;pago;Loja Física
+1011;13/10/2025;119;28;2;89,90;;Cartão de Crédito;Pago;Loja Física
+1012;26/06/2026;126;2;1;199,90;10;Cartão de Débito;Pago;Marketplace
+1013;19/02/2026;193;21;5;6,90;;Cartão de Crédito;Pago;Site
+1014;27/02/2026;98;7;1;69,90;;Pix  ;Pago;Loja Física
+1015;24/05/2025;167;21;2;6,90;15;Pix;pago;Marketplace
+1016;14/05/2025;107;13;4;35,90;;PIX;Pago;Loja Física
+1017;09/06/2026;142;13;6;35,90;;Pix;Pago;Loja Física
+1018;30/07/2026;70;10;5;24,90;;Pix;Cancelado;Loja Física
+1019;22/02/2025;133;26;5;79,90;5;Pix;Pago; APLICATIVO 
+1020;22/01/2026;85;24;6;13,90;10;Cartão de Crédito;Pago;Loja Física
+1021;15/02/2025;78;7;1;69,90;;Boleto;Pago;Site
+1022;01/01/2025;17;5;4;99,90;;Cartão de Débito;Pago;Loja Física
+1023;17/12/2025;158;6;6;6,50;10;Boleto;Pago;Loja Física
+1024;27/08/2026;134;29;6;14,90;10;Pix;Pago;Loja Física  
+1025;19/02/2026;14;9;3;32,00;5;Pix;pago;Site
+1026;10/07/2026;130;8;2;54,90;;Cartão de Crédito;Pago;Loja Física
+1027;28/02/2025;112;20;4;22,90;;Cartão de Débito;Pago;Loja Física
+1028;10/02/2026;151;4;3;59,90;;Cartão de Crédito;Pendente;Site
+1029;26/03/2025;22;6;5;6,50;15;Cartão de Crédito;Pago;Marketplace
+1030;01/07/2025;9;26;6;79,90;;Pix;;Aplicativo
+1031;14/11/2025;85;23;3;12,90;;Pix;Pago;Site
+1032;01/10/2025;152;7;2;69,90;;Cartão de Crédito;Pago; LOJA FÍSICA 
+1033;24/05/2026;156;28;3;89,90;;  Cartão de Crédito;Pago;Aplicativo
+1034;05/03/2026;61;12;5;38,50;15;Boleto;Pago;loja física
+1035;05/04/2026;33;2;1;199,90;;Cartão de Crédito;Pendente;Loja Física
+1036;20/07/2026;187;16;4;19,90;5;Pix;Pendente;Aplicativo
+1037;16/09/2025;100;13;2;35,90;;Cartão de Débito;Pago;Aplicativo
+1038;19/11/2025;193;15;2;34,90;5;Cartão de Débito;Pago;Loja Física
+1039;24/05/2025;62;3;4;79,90;5;Cartão de Crédito;Pago;Aplicativo
+1040;17/01/2026;87;25;1;24,90;;Pix;Pago; LOJA FÍSICA 
+1041;21/07/2025;112;9;5;32,00;15;Boleto;Pago;Aplicativo
+1042;06/03/2025;122;18;4;14,90;15;Cartão de Débito;Pago;Site
+1043;09/02/2025;59;11;5;45,00;10;Boleto;Pago;Site  
+1044;08/10/2025;138;8;0;54,90;15;Cartão de Débito;  Cancelado;Aplicativo
+1045;29/04/2025;61;16;5;19,90;;Cartão de Crédito;Pago;Loja Física
+1046;13/05/2025;192;3;3;79,90;10;Pix;;Aplicativo
+1047;23/10/2025;80;29;4;14,90;5;Cartão de Crédito;pago;Marketplace
+1048;04/10/2025;46;1;2;129,90;;Cartão de Débito;Pago;Aplicativo
+1049;31/12/2025;24;17;1;9,90;;Pix;Pago; LOJA FÍSICA 
+1050;19/06/2026;177;26;1;79,90;5;Pix;Pago;Site
+1051;06/08/2025;43;13;4;35,90;;Cartão de Crédito;Pago;Aplicativo
+1052;25/07/2026;198;24;2;13,90;;Pix;Cancelado;Loja Física
+1053;13/12/2025;107;1;5;129,90;10;Cartão de Débito;Cancelado;Loja Física
+1054;22/05/2026;142;20;5;22,90;5;Cartão de Crédito;Pago;Loja Física
+1055;20/04/2025;15;11;2;45,00;;Cartão de Crédito;Pago;Aplicativo
+1056;08/01/2026;20;9;3;32,00;;Pix;  Cancelado;Loja Física
+1057;07/01/2026;30;28;2;89,90;;Boleto;Pago;Loja Física
+1058;18/07/2026;194;19;1;27,90;5; BOLETO ;Pago;Marketplace
+1059;11/02/2025;80;30;5;29,90;;Pix;Pago; LOJA FÍSICA 
+1060;20/02/2026;139;1;1;129,90;;Pix;Pago;aplicativo
+1061;18/01/2025;121;6;6;6,50;; CARTÃO DE CRÉDITO ;Pago;Site
+1062;20/05/2026;141;29;3;14,90;;Pix;Pago;Loja Física
+1063;22/10/2025;69;12;2;38,50;;Cartão de Crédito;Pago;Loja Física
+1064;12/05/2025;148;1;1;129,90;;Cartão de Débito;Pago;Loja Física
+1065;17/05/2025;56;8;2;54,90;;Boleto;Pago;Aplicativo
+1066;07/05/2025;95;1;4;129,90;;Boleto;Pago;Loja Física
+1067;06/09/2025;126;28;6;89,90;;Boleto;Pago;Site
+1068;24/04/2025;74;26;1;79,90;;Pix;Pago;Site
+1069;25/07/2025;177;3;5;79,90;15;Pix;Pago;Loja Física
+1070;13/08/2025;142;29;2;14,90;5;  Cartão de Crédito;Pago;Site
+1071;06/03/2025;146;9;6;32,00;;Pix;Pago;Aplicativo
+1072;24/05/2026;136;18;5;14,90;; PIX ;Pendente;Loja Física
+1073;06/10/2025;151;6;1;6,50;;Cartão de Crédito;Pago;Site
+1074;11/12/2025;92;13;4;35,90;;Cartão de Débito;Pendente;Site
+1075;14/02/2025;53;23;1;12,90;;Cartão de Crédito; PENDENTE ;site
+1076;23/02/2026;31;7;3;69,90;;Cartão de Crédito;Pago;Loja Física
+1077;04/09/2025;12;20;1;22,90;;Cartão de Crédito;Pago;Aplicativo  
+1078;31/05/2026;150;27;2;64,90;;Boleto;Pendente;Loja Física
+1079;09/08/2026;6;15;5;34,90;10;Pix;Pago;Aplicativo
+1080;06/04/2026;58;7;2;69,90;5;pix;Pago;Aplicativo
+1081;12/06/2025;122;27;6;64,90;;Pix;Pago;Aplicativo
+1082;22/04/2025;112;4;1;59,90;;Cartão de Crédito;Pago;Aplicativo
+1083;09/04/2026;41;17;5;9,90;15;Boleto;Pendente;Marketplace
+1084;21/01/2025;51;20;4;22,90;;Pix;Pago;Loja Física
+1085;01/07/2026;29;26;6;79,90;5;Cartão de Crédito;Pago; APLICATIVO 
+1086;21/02/2025;131;6;5;6,50;15;Cartão de Crédito;Pago;Site
+1087;02/07/2025;12;18;1;14,90;;Cartão de Crédito;pago;aplicativo
+1088;26/11/2025;118;20;4;22,90;;Cartão de Crédito;Pago;LOJA FÍSICA
+1089;27/03/2025;83;25;6;24,90;;Cartão de Débito;Pendente;Loja Física
+1090;28/02/2025;162;26;1;79,90;10;boleto;Pendente;Loja Física
+1091;29/03/2025;140;26;5;79,90;15;Pix;Pago;Loja Física
+1092;13/02/2025;81;25;1;24,90;;Cartão de Crédito;Pago;  Loja Física
+1093;13/06/2026;71;29;2;14,90;5;Pix;Pago  ;Loja Física
+1094;24/06/2025;148;8;3;54,90;;Cartão de Crédito;Pago  ;Loja Física
+1095;18/01/2025;198;14;5;27,90;5;Cartão de Débito;Pago;SITE
+1096;26/06/2026;32;9;1;32,00;5;Boleto;Pendente;Aplicativo
+1097;12/09/2025;133;21;2;6,90;;Pix;Pago;Loja Física
+1098;30/10/2025;186;5;6;99,90;;Cartão de Crédito;Pago;Loja Física
+1099;26/06/2026;111;1;2;129,90;;Pix;Pago;Site  
+1100;25/10/2025;11;10;6;24,90;;Cartão de Crédito;Pago;Loja Física
+1101;28/03/2025;121;10;2;24,90;;Pix;;Marketplace
+1102;22/04/2025;95;27;5;64,90;;Cartão de Crédito;Pendente;Marketplace
+1103;15/12/2025;10;5;4;99,90;;  Cartão de Crédito;Pago;Marketplace
+1104;06/05/2025;102;25;3;24,90;10;PIX; PAGO ;Site
+1105;31/08/2026;24;29;1;14,90;10;Cartão de Crédito;  Pago;Marketplace  
+1106;02/06/2026;128;28;1;89,90;15;Boleto; CANCELADO ;Marketplace
+1107;28/01/2025;8;24;5;13,90;5;Pix;pago;Aplicativo
+1108;25/05/2026;68;1;2;129,90;10;Pix;Pago  ;Marketplace
+1109;01/03/2025;20;22;2;11,90;;Cartão de Crédito;Pago;Site
+1110;18/12/2025;7;4;5;59,90;5;Pix;Pago;Aplicativo
+1111;09/10/2025;86;7;5;69,90;;CARTÃO DE CRÉDITO;Pago;Marketplace
+1112;22/01/2025;200;17;5;9,90;15;Pix;Pago;Site
+1113;19/01/2025;11;2;5;199,90;;cartão de débito;Pago;Site
+1114;06/08/2025;26;27;1;64,90;;Cartão de Débito;Pago;Loja Física
+1115;12/05/2026;109;18;2;14,90;15;Cartão de Crédito;Pago;Marketplace
+1116;22/07/2026;2;10;6;24,90;15;Cartão de Crédito;Pago;Loja Física
+1117;06/08/2025;60;22;5;11,90;10;Pix;  Pago;Site
+1118;08/03/2025;75;20;1;22,90;;Cartão de Crédito;Cancelado;Site
+1119;07/03/2026;197;26;2;79,90;5;Cartão de Crédito;Pago;Loja Física
+1120;13/04/2026;23;20;5;22,90;5;Pix;Pago;Site
+1121;28/05/2026;80;8;2;54,90;5;Cartão de Crédito;;Loja Física
+1122;29/10/2025;200;7;1;69,90;;Cartão de Débito;Pago; MARKETPLACE 
+1123;01/05/2025;118;23;1;12,90;15;Cartão de Crédito;Pago;Loja Física
+1124;06/01/2026;167;18;6;14,90;;Cartão de Débito;Pago;  Site
+1125;01/05/2025;37;27;1;64,90;10;Cartão de Crédito;cancelado;Site
+1126;18/07/2026;98;18;6;14,90;5;Pix;pago;Loja Física
+1127;14/07/2025;136;14;1;27,90;;Cartão de Crédito;Pago;Loja Física
+1128;15/11/2025;131;9;4;32,00;;CARTÃO DE CRÉDITO;Pago;Loja Física
+1129;03/02/2026;17;1;1;129,90;;Pix;Pago;loja física
+1130;19/02/2025;17;27;5;64,90;;Cartão de Crédito;Cancelado;Loja Física
+1131;19/06/2026;51;28;6;89,90;15;Cartão de Crédito;Pago;Loja Física
+1132;30/03/2026;154;8;6;54,90;;Pix  ;Pago;Aplicativo
+1133;05/04/2025;191;14;6;27,90;15;Cartão de Crédito;;Site
+1134;27/09/2025;6;2;2;199,90;;Boleto;Cancelado;Marketplace
+1135;02/01/2026;184;15;2;34,90;;Pix;Pago;Site
+1136;15/04/2025;21;15;1;34,90;5;Pix;Cancelado;Site
+1137;20/12/2025;97;22;3;11,90;;Pix;Pago;Site
+1138;18/02/2025;37;19;1;27,90;15;Pix;Pago;Loja Física
+1139;12/02/2026;121;2;2;199,90;5;Pix  ;Pago;Site
+1140;19/05/2026;151;30;2;29,90;5;cartão de débito;Pago;Marketplace
+1141;25/03/2026;60;19;5;27,90;15;Cartão de Crédito;Pago;Site
+1142;30/01/2025;87;28;5;89,90;;Cartão de Crédito;Pago;Site
+1143;02/05/2025;117;18;6;14,90;;Cartão de Crédito;Pago;Loja Física
+1144;21/01/2026;139;25;2;24,90;;Pix;Pago;Site
+1145;16/01/2025;199;6;1;6,50;;Cartão de Crédito;  Pago;Site
+1146;08/08/2026;36;3;5;79,90;;Cartão de Crédito;Cancelado;Marketplace
+1147;23/10/2025;140;18;6;14,90;15;Pix;Pago;Loja Física
+1148;20/03/2026;185;2;5;199,90;5;Cartão de Crédito;Pago;Site
+1149;09/03/2025;166;20;3;22,90;;Pix;Pago;Site
+1150;03/07/2025;61;30;1;29,90;5;Cartão de Crédito;Pago;Aplicativo
+1151;07/03/2025;185;1;5;129,90;10;Cartão de Crédito;Pago;Site
+1152;07/06/2025;34;28;5;89,90;;Cartão de Crédito;Pago;Loja Física
+1153;01/09/2025;95;11;6;45,00;;Cartão de Crédito;Pago;Marketplace
+1154;09/02/2025;8;13;4;35,90;10;Pix;Pago;Aplicativo
+1155;31/08/2026;101;12;3;38,50;;Pix;Cancelado;Loja Física
+1156;05/02/2026;57;5;6;99,90;15;Boleto;Pago;Site  
+1157;30/06/2026;195;6;3;6,50;;Cartão de Crédito;Pago;Marketplace
+1158;16/08/2025;88;19;2;27,90;5;Cartão de Crédito; PAGO ;Loja Física
+1159;31/01/2026;144;12;3;38,50;;Pix;Pago;Aplicativo
+1160;09/06/2026;148;8;1;54,90;;Boleto  ;Pago;Loja Física
+1161;30/03/2025;94;27;6;64,90;;  Pix;Pago;Loja Física
+1162;06/03/2026;122;4;2;59,90;10;Cartão de Débito;Pago;Site
+1163;22/04/2025;73;2;1;199,90;15;  Cartão de Débito;Pago;Site
+1164;15/05/2025;194;4;6;59,90;;Pix;Pago;Site
+1165;25/07/2026;199;25;3;24,90;;Cartão de Crédito;Pendente;Site
+1166;22/05/2025;127;25;4;24,90;10;Pix;Pago;Aplicativo
+1167;21/11/2025;183;11;6;45,00;15;Cartão de Crédito; CANCELADO ;Marketplace
+1168;07/01/2025;11;26;6;79,90;;Pix;Pago;Site
+1169;29/04/2025;84;3;2;79,90;15;Pix;Pendente;Site
+1170;18/10/2025;78;21;6;6,90;;Cartão de Débito;Pago;Site
+1171;16/08/2025;109;16;2;19,90;;Cartão de Débito;Pendente;Loja Física
+1172;21/06/2025;95;24;1;13,90;;Pix;Pago;Aplicativo
+1173;24/07/2025;156;18;1;14,90;;Cartão de Débito;Pago;SITE
+1174;28/07/2025;184;29;1;14,90;5;cartão de crédito;Pago;Site
+1175;21/04/2026;83;22;4;11,90;;Cartão de Crédito;Pago;Site
+1176;08/06/2026;199;28;5;89,90;15;Cartão de Crédito;Pago;Site
+1177;04/05/2025;166;13;1;35,90;;Pix;Pago;Site
+1178;30/01/2025;84;7;5;69,90;;Pix;Cancelado;Site
+1179;23/08/2026;20;29;2;14,90;10;Pix;pago;Loja Física
+1180;12/11/2025;69;8;5;54,90;;Pix;Pago;Aplicativo
+1181;25/09/2025;65;6;4;6,50;5;Cartão de Débito;Cancelado;Aplicativo
+1182;11/07/2025;147;15;5;34,90;;Cartão de Crédito;Pendente;Aplicativo
+1183;01/12/2025;36;25;5;24,90;5;Boleto;Pago;LOJA FÍSICA
+1184;16/07/2026;49;5;3;99,90;; PIX ;Pago;Aplicativo
+1185;04/08/2025;178;15;5;34,90;10;Cartão de Crédito;Pendente;Site
+1186;11/02/2025;52;18;4;14,90;;Pix;Pago;Site
+1187;16/06/2025;54;28;5;89,90;15;Cartão de Crédito;Pago; LOJA FÍSICA 
+1188;05/04/2025;78;6;6;6,50;;Cartão de Crédito;Pago;Loja Física
+1189;31/08/2026;128;7;1;69,90;;Cartão de Crédito  ;cancelado;aplicativo
+1190;23/05/2025;14;4;6;59,90;;Cartão de Crédito;CANCELADO;site
+1191;18/12/2025;170;2;1;199,90;10;Boleto;Pago;Loja Física
+1192;12/12/2025;54;24;2;13,90;5;Pix;Pago;Aplicativo
+1193;03/04/2025;73;17;1;9,90;;Cartão de Débito;Pago;Loja Física
+1194;21/10/2025;97;1;5;129,90;;Pix;Cancelado;Aplicativo
+1195;02/01/2025;55;12;6;38,50;10;Cartão de Crédito; PAGO ;SITE
+1196;03/01/2026;141;8;4;54,90;;Cartão de Crédito;Pago;Loja Física
+1197;09/05/2026;14;9;1;32,00;;Pix;;Site
+1198;29/03/2025;111;9;1;32,00;;cartão de débito;  Pago;Site
+1199;08/01/2025;57;4;3;59,90;10;Cartão de Crédito;Cancelado;Loja Física
+1200;08/04/2026;95;30;4;29,90;;Cartão de Débito;Pago  ;Site
+1201;15/09/2025;123;12;3;38,50;15;Pix;Pago; SITE 
+1202;28/01/2025;189;2;1;199,90;15;Cartão de Crédito;Pago;Loja Física
+1203;10/04/2025;187;16;2;19,90;10; PIX ;;Loja Física
+1204;23/02/2026;116;11;6;45,00;;Pix;Pago;  Loja Física
+1205;15/02/2026;45;12;5;38,50;; CARTÃO DE CRÉDITO ;Pago;Loja Física
+1206;24/05/2026;8;22;3;11,90;;pix;Pago;Aplicativo
+1207;18/09/2025;112;20;4;22,90;;  Cartão de Crédito;Pago;Site
+1208;01/03/2026;109;23;4;12,90;;Pix;Pago;Aplicativo
+1209;16/09/2025;10;2;4;199,90;;Cartão de Crédito;Pago;Aplicativo
+1210;04/10/2025;147;27;6;64,90;;Pix;Pago;Loja Física
+1211;24/05/2026;102;9;5;32,00;15;Cartão de Crédito;Pago;Site
+1212;24/07/2026;192;19;4;27,90;;Pix;Pago;Loja Física
+1213;28/06/2025;196;2;4;199,90;;Cartão de Crédito;Pago;Site
+1214;16/01/2025;18;10;5;24,90;10;Cartão de Débito;Pago;Aplicativo
+1215;08/07/2026;44;5;1;99,90;;pix;Pago;Aplicativo
+1216;13/07/2026;22;22;6;11,90;;Pix;Pago;Site
+1217;01/04/2026;6;25;5;24,90;10;Cartão de Débito;Pago;Loja Física
+1218;08/11/2025;137;1;1;129,90;;  Pix;Pendente;Aplicativo
+1219;05/03/2025;7;15;5;34,90;;Cartão de Crédito;Cancelado;Aplicativo
+1220;04/04/2025;196;6;2;6,50;10;Cartão de Crédito;Pago;Site
+1221;04/06/2025;119;9;2;32,00;10;Cartão de Débito;Pago;Marketplace
+1222;01/05/2025;67;21;1;6,90;15;Pix;Pago  ;Loja Física
+1223;21/07/2026;143;21;2;6,90;;Pix;Pago  ;Site
+1224;08/03/2026;180;22;6;11,90;10;Pix;Pago;Loja Física
+1225;08/03/2025;114;20;4;22,90;;Pix;Pago;Loja Física
+1226;09/05/2025;1;19;2;27,90;5;Boleto;Pago;Loja Física
+1227;22/09/2025;102;23;5;12,90;;Pix;Pago;SITE
+1228;26/04/2025;151;20;1;22,90;15;Boleto;Pago;Marketplace
+1229;22/02/2026;1;6;2;6,50;;Pix;Pago;Loja Física
+1230;04/01/2026;72;13;3;35,90;15;PIX;Pago;Site
+1231;03/03/2026;103;28;2;89,90;15;Pix;Pago;Marketplace
+1232;14/07/2026;162;25;5;24,90;;Cartão de Crédito;Pago;Marketplace
+1233;14/06/2026;27;18;2;14,90;15;Pix;Pago;Site
+1234;12/09/2025;179;9;5;32,00;5;Pix;Pago;Marketplace
+1235;25/09/2025;81;10;6;24,90;15; CARTÃO DE CRÉDITO ; PAGO ;Aplicativo  
+1236;26/12/2025;30;12;2;38,50;;Cartão de Crédito;Pago;Loja Física
+1237;25/02/2026;182;25;5;24,90;10;Pix;Pago;Site  
+1238;20/05/2025;77;1;1;129,90;5;Boleto;Pago  ;Marketplace
+1239;25/02/2026;13;9;6;32,00;;Cartão de Débito;  Pago;Loja Física
+1240;12/11/2025;197;16;4;19,90;;Boleto;Pendente;Site
+1241;14/05/2025;163;8;3;54,90;;Cartão de Débito;Pago;Loja Física
+1242;12/03/2026;42;20;5;22,90;15;Pix;;Loja Física
+1243;01/05/2026;80;26;4;79,90;;Pix;PENDENTE;Loja Física
+1244;15/09/2025;137;23;1;12,90;15;Cartão de Crédito; PENDENTE ;Loja Física
+1245;20/07/2025;21;17;4;9,90;;Cartão de Crédito;Pago;Marketplace
+1246;27/09/2025;43;30;3;29,90;10;CARTÃO DE DÉBITO;Cancelado;Loja Física
+1247;21/12/2025;179;8;6;54,90;5;Cartão de Crédito;Pago;Site
+1248;29/06/2025;80;27;6;64,90;;Pix;Cancelado;Site
+1249;09/11/2025;168;12;3;38,50;;Pix;Pago;Marketplace
+1250;04/04/2026;74;3;1;79,90;15;Cartão de Crédito;Pago;Site
+1251;31/07/2025;63;24;1;13,90;10;Pix;Pendente; SITE 
+1252;29/12/2025;183;18;4;14,90;;CARTÃO DE CRÉDITO;Pago;Site
+1253;24/08/2025;84;2;3;199,90;10;Cartão de Crédito;Pago;Marketplace
+1254;10/02/2026;113;8;0;54,90;;Cartão de Crédito;Pago  ;Loja Física
+1255;14/03/2026;14;9;3;32,00;15;Cartão de Crédito;Cancelado;Aplicativo
+1256;25/11/2025;62;20;2;22,90;10;Cartão de Crédito  ;Pago;Site
+1257;24/08/2026;136;18;6;14,90;5;Cartão de Débito;Pago;Site
+1258;08/10/2025;116;11;4;45,00;10;Pix;PAGO;Marketplace
+1259;16/05/2025;53;18;6;14,90;15;Cartão de Crédito;Pago;Site
+1260;17/07/2026;128;26;1;79,90;;Pix;Pago;Site
+1261;06/08/2025;43;17;5;9,90;;Pix;pago;LOJA FÍSICA
+1262;31/01/2025;131;23;5;12,90;15;Cartão de Crédito;Pago;Aplicativo
+1263;28/01/2026;24;13;0;35,90;;Pix;Pago;Loja Física
+1264;10/05/2026;71;8;6;54,90;;Cartão de Débito;Pago;Loja Física
+1265;04/01/2025;51;14;5;27,90;10;Cartão de Débito  ;Pago;Loja Física
+1266;18/03/2025;85;9;3;32,00;;Boleto  ;Pago;Aplicativo
+1267;30/03/2025;182;3;;79,90;;Cartão de Crédito;Pendente;Marketplace  
+1268;29/08/2026;69;18;3;14,90;15; CARTÃO DE CRÉDITO ; PAGO ;Aplicativo
+1269;05/08/2026;145;18;2;14,90;5;Cartão de Crédito;Pago;Loja Física
+1270;29/04/2026;136;14;5;27,90;10;Cartão de Crédito;Pendente;Site
+1271;11/04/2026;97;19;4;27,90;;Cartão de Crédito;PAGO;Loja Física
+1272;27/07/2026;1100;25;3;24,90;;Pix;Cancelado;Loja Física
+1273;18/04/2026;93;29;5;14,90;;Cartão de Crédito;Pago  ;Site
+1274;18/03/2025;25;22;6;11,90;5;Cartão de Crédito;Pago;Loja Física
+1275;25/05/2025;155;19;4;27,90;;Pix;Pago;Aplicativo
+1276;18/04/2025;142;30;3;29,90;;Cartão de Crédito;Pago;Loja Física
+1277;24/05/2026;1;17;0;9,90;10;Cartão de Crédito;Pago  ;Loja Física
+1278;20/05/2025;72;11;4;45,00;15;Cartão de Débito;Pago;Marketplace
+1279;13/05/2026;134;29;6;14,90;10;Boleto;Pago;Aplicativo
+1280;10/07/2026;198;8;1;54,90;;  Pix;Pago;Site
+1281;02/07/2025;119;2;1;199,90;15;Pix;;Loja Física
+1282;28/03/2026;14;3;6;79,90;15;Cartão de Crédito;PAGO;Aplicativo
+1283;30/03/2025;130;22;;11,90;5;Cartão de Débito;Pago;Loja Física
+1284;07/08/2025;106;5;5;99,90;;Pix;Pago;Aplicativo
+1285;25/05/2025;122;24;1;13,90;;Cartão de Débito;PAGO;Loja Física
+1286;07/07/2025;18;5;3;99,90;;Cartão de Débito;Pago;Aplicativo
+1287;05/06/2025;108;9;5;32,00;5;Pix;Pago;Site
+1288;15/09/2025;77;15;2;34,90;5;Cartão de Crédito;Pago;Loja Física
+1289;08/07/2026;13;30;6;29,90;;Pix;Pago;  Loja Física
+1290;13/06/2025;53;15;5;34,90;5;Pix;Pago;Site
+1291;29/01/2025;171;25;3;24,90;5;Pix;Pago;Marketplace
+1292;03/12/2025;76;17;4;9,90;10;Boleto;;Loja Física
+1293;28/08/2025;81;6;6;6,50;15;Boleto;Pago;Aplicativo
+1294;03/08/2026;92;29;1;14,90;15;Boleto  ;Pago;  Aplicativo
+1295;22/12/2025;168;4;3;59,90;10;Cartão de Crédito;Pago;  Site
+1296;13/05/2025;119;2;4;199,90;5;Cartão de Crédito;Pago;Site
+1297;07/02/2026;74;1;2;129,90;10;Cartão de Crédito;Pago;Loja Física
+1298;08/08/2025;110;19;;27,90;;Cartão de Crédito;Pago;Loja Física
+1299;11/12/2025;158;21;5;6,90;5;Cartão de Débito;Cancelado;Aplicativo
+1300;14/03/2025;9;12;6;38,50;;Cartão de Crédito;Pago; LOJA FÍSICA 
+1301;04/05/2026;68;14;5;27,90;;Cartão de Débito;Pago;Site
+1302;23/10/2025;79;5;6;99,90;5;Cartão de Crédito;Pago;Loja Física
+1303;09/01/2025;56;15;4;34,90;;Cartão de Crédito;pago;Marketplace
+1304;08/07/2025;150;5;4;99,90;;Cartão de Crédito;Pago;Aplicativo
+1305;02/02/2025;147;8;3;54,90;;Cartão de Crédito;;aplicativo
+1306;07/06/2026;65;1;6;129,90;;Pix;Pago  ;Site
+1307;13/04/2026;86;5;5;99,90;15;Cartão de Débito;Pago;Site
+1308;10/03/2026;80;19;2;27,90;;Pix;Pago;Site
+1309;18/06/2026;48;6;1;6,50;;Pix;Pago;Aplicativo  
+1310;18/07/2026;2;4;1;59,90;;Pix;Pago;Site
+1311;08/05/2025;134;22;2;11,90;5;Boleto;Pendente;Site
+1312;18/07/2026;141;25;1;24,90;;Cartão de Crédito;Pago;Site
+1313;21/02/2025;193;6;6;6,50;15;Pix;Pago;Aplicativo
+1314;05/06/2026;149;7;1;69,90;;Cartão de Débito;Pago;Marketplace
+1315;04/05/2026;42;2;6;199,90;;Pix;Pago;Site
+1316;01/04/2025;72;27;2;64,90;;Cartão de Crédito;Cancelado;Loja Física
+1317;04/01/2026;148;17;6;9,90;5;Cartão de Crédito;Pago;Aplicativo
+1318;02/06/2025;57;5;1;99,90;15;Pix;Cancelado;MARKETPLACE
+1319;14/05/2025;129;8;3;54,90;;Cartão de Crédito;Pago;SITE
+1320;13/04/2026;118;12;6;38,50;;Pix;Pago;Loja Física
+1321;17/03/2025;121;22;1;11,90;;Pix;Cancelado;Loja Física
+1322;09/07/2026;71;17;2;9,90;;Cartão de Crédito;Pago;Loja Física
+1323;25/07/2026;95;4;4;59,90;15;Cartão de Crédito;Pago;Marketplace
+1324;08/08/2026;132;2;4;199,90;15;Pix;Pago;Loja Física
+1325;21/07/2025;176;9;3;32,00;;Cartão de Crédito;Pago; SITE 
+1326;18/05/2025;112;13;2;35,90;15;Pix;pago;Aplicativo
+1327;30/09/2025;173;30;6;29,90;;Pix;Pago;Marketplace  
+1328;01/06/2025;164;20;6;22,90;;Cartão de Crédito;Pago;Aplicativo
+1329;18/05/2025;185;13;3;35,90;;Boleto;Pago; SITE 
+1330;05/02/2025;177;8;2;54,90;;Pix;Cancelado;Aplicativo
+1331;04/02/2026;177;1;3;129,90;5;Cartão de Crédito;Pago;Site
+1332;10/12/2025;52;24;3;13,90;;Boleto;Cancelado;Marketplace
+1333;07/03/2025;111;13;6;35,90;;boleto;Pago;Site
+1334;10/11/2025;131;30;1;29,90;;Cartão de Débito;Pendente;Loja Física
+1335;26/04/2025;62;12;5;38,50;;Cartão de Crédito;  Pago;Aplicativo
+1336;23/02/2025;171;4;3;59,90;;Cartão de Crédito;Pago;Marketplace
+1337;27/02/2025;116;27;1;64,90;5;Cartão de Crédito;Pago;Loja Física
+1338;23/05/2026;136;29;1;14,90;15;Pix;Pago;Loja Física
+1339;03/08/2025;93;15;1;34,90;15;Boleto;Pago;Site
+1340;26/05/2026;13;26;4;79,90;;Cartão de Crédito;Pago;Site
+1341;01/06/2025;57;1;6;129,90;;Cartão de Crédito  ;Pago;Loja Física
+1342;17/02/2025;196;15;1;34,90;10;Cartão de Crédito;Pendente;  Marketplace
+1343;05/06/2025;124;11;6;45,00;15;Cartão de Crédito;cancelado;Loja Física
+1344;11/08/2026;178;7;1;69,90;15;Pix;Pago;Site
+1345;22/07/2025;97;3;4;79,90;5;Pix;Pendente;Site
+1346;12/05/2026;64;1;5;129,90;;Pix;Pago;Aplicativo
+1347;30/03/2026;59;22;2;11,90;10;Cartão de Crédito;Pago;Loja Física
+1348;16/08/2025;91;28;4;89,90;;Pix;  Pago;Marketplace
+1349;03/02/2026;156;3;1;79,90;; CARTÃO DE DÉBITO ;Pago;Aplicativo
+1350;21/07/2026;57;2;0;199,90;5;Cartão de Crédito;Pago;Loja Física
+1351;22/09/2025;200;22;6;11,90;;Cartão de Crédito;Pago;Loja Física
+1352;05/06/2026;5;7;6;69,90;10;Pix;Pago;Loja Física
+1353;08/07/2025;46;22;6;11,90;10;Boleto;Pago;Aplicativo
+1354;06/05/2026;63;11;2;45,00;;CARTÃO DE DÉBITO;Pago;Aplicativo
+1355;09/11/2025;198;4;;59,90;;Cartão de Crédito;PAGO;Loja Física
+1356;23/08/2025;147;13;6;35,90;15;Cartão de Crédito;Pago;Loja Física
+1357;28/06/2025;161;16;1;19,90;10;  Pix; PAGO ;Aplicativo
+1358;14/08/2026;185;11;4;45,00;;Cartão de Crédito;Pago;Site
+1359;17/09/2025;44;6;1;6,50;;Boleto;Pago  ;Loja Física
+1360;17/03/2026;159;3;2;79,90;;Cartão de Crédito;Cancelado;Loja Física
+1361;25/08/2025;21;16;2;19,90;15;Cartão de Crédito;Pago  ;  Aplicativo
+1362;12/07/2026;108;23;5;12,90;;Pix;Pago;Site
+1363;27/01/2026;85;30;6;29,90;;Pix;Pago;Aplicativo
+1364;12/03/2025;91;6;2;6,50;15;Pix;Pago;Loja Física
+1365;21/02/2025;1;21;4;6,90;;Cartão de Crédito;;Site
+1366;06/04/2026;80;22;4;11,90;;Cartão de Crédito;Pago;Site
+1367;14/08/2025;121;9;3;32,00;;Pix;Pago;Site
+1368;02/01/2026;36;15;4;34,90;5;Cartão de Crédito;Pendente;Aplicativo
+1369;14/06/2025;119;24;1;13,90;;Cartão de Crédito;Pago;Loja Física
+1370;10/12/2025;157;10;5;24,90;;Pix;Pago;Loja Física
+1371;15/08/2025;79;25;3;24,90;10;  Pix;Cancelado;Site
+1372;22/09/2025;71;19;2;27,90;5;Cartão de Crédito;Pago;Marketplace
+1373;18/08/2025;13;17;6;9,90;5;Pix;Pago;Site
+1374;20/08/2026;70;19;6;27,90;;PIX;Pago;Aplicativo
+1375;06/05/2026;84;2;6;199,90;;Cartão de Débito;Pendente;Site
+1376;09/05/2025;10;12;3;38,50;;Pix;Pago;Aplicativo
+1377;29/01/2025;37;3;2;79,90;10;CARTÃO DE DÉBITO;Pago;Marketplace
+1378;20/08/2026;87;13;3;35,90;10;Cartão de Crédito;Pago  ; MARKETPLACE 
+1379;02/11/2025;49;20;2;22,90;;Cartão de Crédito;Pago;Loja Física
+1380;15/07/2025;105;18;3;14,90;;Boleto;pago;Loja Física
+1381;26/08/2025;170;6;3;6,50;;Cartão de Crédito;;Aplicativo
+1382;20/07/2026;167;22;4;11,90;;Cartão de Crédito;;Site
+1383;02/04/2025;166;25;5;24,90;10;Boleto;Pago;Site
+1384;04/07/2026;94;2;3;199,90;;Pix;Pago;Loja Física
+1385;13/06/2025;51;6;4;6,50;;Pix;Pago;loja física
+1386;11/01/2025;59;11;4;45,00;;Pix;Pago;Loja Física
+1387;25/03/2026;1104;22;4;11,90;;Cartão de Débito;Pago;Aplicativo
+1388;22/03/2025;45;24;1;13,90;;Cartão de Crédito;Pago;Site
+1389;11/05/2025;139;7;3;69,90;;Cartão de Crédito;Cancelado;Aplicativo
+1390;16/05/2025;75;30;1;29,90;;Cartão de Débito  ;Pago;Loja Física
+1391;23/05/2026;83;15;6;34,90;15; PIX ;Pago;Loja Física
+1392;28/03/2026;40;13;3;35,90;15;Cartão de Crédito;Pago;marketplace
+1393;18/12/2025;99;11;5;45,00;;Cartão de Débito;Cancelado;Site
+1394;20/03/2025;48;8;4;54,90;;PIX;Pago  ;  Marketplace
+1395;17/03/2025;117;23;5;12,90;15;Pix;Pendente;Loja Física
+1396;15/09/2025;178;8;5;54,90;;Pix;Pago;Aplicativo
+1397;18/09/2025;64;6;2;6,50;;Cartão de Crédito;  Pago;loja física
+1398;27/01/2026;50;13;6;35,90;; CARTÃO DE CRÉDITO ;Pago;Loja Física
+1399;16/06/2026;128;10;4;24,90;5;Cartão de Crédito;Pago  ;Loja Física
+1400;24/12/2025;19;28;3;89,90;5;Cartão de Débito;Pago;Site
+1401;21/11/2025;107;23;2;12,90;;Pix;Pago;Loja Física
+1402;13/02/2026;90;30;3;29,90;5;Pix;  Pago;Site
+1403;25/02/2026;56;5;5;99,90;;Pix;Pago;Aplicativo
+1404;23/02/2026;45;14;2;27,90;15;Cartão de Crédito;Pago;Loja Física
+1405;19/07/2026;87;3;3;79,90;;Pix;;Loja Física
+1406;18/08/2025;181;28;1;89,90;15;Pix;pago;Loja Física
+1407;26/04/2025;183;26;1;79,90;;Cartão de Crédito;Pago;Site
+1408;26/09/2025;143;10;1;24,90;5;Pix;Pago;Loja Física
+1409;25/05/2026;114;1;1;129,90;10;Cartão de Crédito;Pago;Loja Física
+1410;15/11/2025;199;13;6;35,90;10;Pix;  Cancelado;aplicativo
+1411;18/01/2025;79;23;4;12,90;10;Pix;Pago;Site
+1412;05/08/2026;198;4;3;59,90;15;Cartão de Crédito  ;Cancelado;Site
+1413;24/06/2026;25;14;5;27,90;10;Pix; CANCELADO ;Loja Física
+1414;03/01/2025;16;14;4;27,90;;Pix;Pago;Loja Física
+1415;08/09/2025;136;7;0;69,90;;  Cartão de Crédito;Pago;Loja Física
+1416;05/03/2025;16;26;5;79,90;;Pix;Pago;Site
+1417;29/05/2026;157;8;2;54,90;;Cartão de Crédito;Pago;Aplicativo
+1418;10/07/2026;193;24;1;13,90;15;Cartão de Débito;Pago;Loja Física
+1419;10/06/2025;52;25;0;24,90;;Cartão de Crédito;Pago;Aplicativo
+1420;06/03/2025;136;8;3;54,90;;Pix;Pago;Aplicativo
+1421;15/01/2026;149;29;4;14,90;;Pix;Pago;Loja Física
+1422;01/04/2026;105;9;2;32,00;;Cartão de Crédito; PAGO ;Site
+1423;02/07/2025;189;21;2;6,90;10;Pix;Pago;Aplicativo
+1424;29/12/2025;148;23;4;12,90;15;Pix;Pago;Site
+1425;22/03/2026;161;29;2;14,90;10;Pix;Pago;Loja Física
+1426;26/02/2026;109;1;4;129,90;5;Boleto;Pago;Site
+1427;19/09/2025;144;1;;129,90;;Cartão de Crédito;Pago;Loja Física
+1428;19/04/2026;63;7;5;69,90;;Cartão de Débito;Pago;Loja Física
+1429;01/07/2026;8;18;5;14,90;; PIX ;Pago;Site
+1430;02/02/2025;42;29;1;14,90;;Pix;Pago;Loja Física
+1431;16/09/2025;92;2;1;199,90;5;Pix;Pago;Site
+1432;08/07/2026;142;28;6;89,90;;Cartão de Crédito;Pago;Marketplace
+1433;03/04/2026;95;18;3;14,90;;Pix;;Aplicativo
+1434;31/12/2025;166;25;6;24,90;;Pix;Pago;Loja Física
+1435;29/10/2025;111;25;5;24,90;;Cartão de Crédito;Pago;APLICATIVO
+1436;01/02/2025;29;17;4;9,90;10;Cartão de Débito;Pendente;Loja Física
+1437;14/02/2025;1101;30;3;29,90;;Pix;Cancelado;Marketplace
+1438;10/05/2025;30;30;3;29,90;;Boleto;Cancelado;Site
+1439;09/01/2025;85;14;2;27,90;;Pix;Pendente;Site  
+1440;30/11/2025;96;10;4;24,90;5;Pix;Pago;Aplicativo
+1441;21/05/2025;74;18;2;14,90;;Cartão de Crédito;Pago;Aplicativo
+1442;04/04/2025;18;2;1;199,90;10;Cartão de Débito;Pago;Loja Física
+1443;10/09/2025;159;16;2;19,90;;Cartão de Crédito;Pago;Loja Física
+1444;17/11/2025;26;22;3;11,90;;Pix;Pago;Site
+1445;07/01/2026;79;2;3;199,90;5;Pix;Pago;Site
+1446;26/06/2026;188;21;2;6,90;10;Cartão de Débito;Pago; APLICATIVO 
+1447;24/10/2025;155;10;6;24,90;;Pix;Pago;Loja Física
+1448;25/07/2025;62;17;2;9,90;15;Cartão de Crédito;Pendente;Site  
+1449;28/12/2025;45;17;5;9,90;;Cartão de Crédito;Pago;Site
+1450;23/02/2026;84;22;1;11,90;15;Cartão de Crédito;Pago;Site
+1451;12/03/2026;176;17;1;9,90;;Pix;Pago;Loja Física
+1452;08/03/2025;80;24;4;13,90;;Pix;Pago;Site
+1453;25/08/2026;148;21;4;6,90;5;Cartão de Débito; PENDENTE ;Site
+1454;15/12/2025;42;8;5;54,90;;Cartão de Crédito;Pendente;Site
+1455;14/06/2026;77;6;6;6,50;5;Cartão de Débito;Pago;Aplicativo
+1456;18/05/2026;85;15;2;34,90;10;Cartão de Crédito;Pendente;Marketplace
+1457;21/08/2026;119;27;5;64,90;10;Cartão de Crédito;Pago;site
+1458;08/04/2026;21;10;5;24,90;;Pix;Pago;Loja Física
+1459;31/07/2025;109;30;3;29,90;;Cartão de Débito;Pago;marketplace
+1460;21/03/2026;138;24;2;13,90;;Cartão de Débito;Pago;Marketplace
+1461;24/01/2025;189;3;3;79,90;15;Cartão de Crédito;;Marketplace
+1462;15/01/2026;81;21;2;6,90;;Cartão de Crédito;Pago;Loja Física
+1463;06/07/2026;193;12;1;38,50;;Cartão de Débito;Pago;Aplicativo
+1464;05/05/2025;148;7;2;69,90;;cartão de débito;Pago;Site
+1465;07/09/2025;186;16;3;19,90;; PIX ;Pendente; SITE 
+1466;03/11/2025;55;23;1;12,90;10;Cartão de Crédito;Pago;Marketplace
+1467;27/03/2026;21;17;4;9,90;;Cartão de Crédito;Pago;Site
+1468;26/11/2025;193;8;5;54,90;15;  Boleto;Pago;Loja Física
+1469;10/07/2025;92;28;4;89,90;;Cartão de Débito  ;Pago;Site
+1470;13/05/2026;47;2;6;199,90;;Pix;Pago;Marketplace
+1471;26/03/2025;97;14;1;27,90;15;Pix  ;PAGO;Site
+1472;03/11/2025;105;11;6;45,00;15;Pix;Pago;Loja Física
+1473;27/05/2025;125;18;1;14,90;; PIX ;;Marketplace
+1474;24/08/2025;152;9;6;32,00;;Cartão de Débito;Pago;Site  
+1475;04/01/2025;146;13;3;35,90;;Pix;Pendente;Marketplace
+1476;31/08/2025;197;25;3;24,90;;Cartão de Crédito;Pago  ;Loja Física
+1477;28/07/2026;31;7;1;69,90;15;Pix;Pago;Loja Física
+1478;20/06/2026;17;27;1;64,90;5;Cartão de Crédito;Cancelado;Aplicativo
+1479;06/04/2026;4;8;6;54,90;15;Pix;PAGO;  Site
+1480;10/07/2025;140;7;5;69,90;;Pix;Pendente;Marketplace
+1481;29/03/2025;157;3;6;79,90;;Cartão de Crédito;Pendente;Loja Física
+1482;06/10/2025;26;3;1;79,90;5;Pix;Pago;Loja Física
+1483;28/05/2025;37;3;1;79,90;15;Pix; PAGO ;Site
+1484;23/05/2026;77;9;5;32,00;15;Pix;Pago;Marketplace
+1485;22/02/2025;10;7;2;69,90;;Pix;Pago  ;Loja Física
+1486;05/06/2025;200;5;5;99,90;;Pix;Pago;Site
+1487;11/07/2026;150;24;2;13,90;;Pix;Pago;loja física
+1488;18/04/2026;56;5;3;99,90;5;Cartão de Crédito;;Aplicativo
+1489;03/08/2026;11;6;2;6,50;10;Cartão de Crédito;Pago;Site
+1490;22/02/2026;29;1;3;129,90;;Pix;Pendente;Marketplace
+1491;29/05/2025;58;1;4;129,90;15;Pix;Pago;Loja Física
+1492;25/08/2026;70;3;6;79,90;15;Pix;Pago;  Aplicativo
+1493;04/07/2025;97;10;6;24,90;5;Pix;Pago;Site
+1494;04/11/2025;185;8;2;54,90;5;Pix;  Pago;Aplicativo
+1495;12/08/2026;171;18;3;14,90;;Pix;Pago;Aplicativo
+1496;03/07/2026;106;14;5;27,90;;Cartão de Crédito;Cancelado;Marketplace
+1497;28/05/2026;135;5;2;99,90;;Pix;Cancelado;Loja Física
+1498;26/10/2025;159;18;1;14,90;15;  Cartão de Crédito;Pago  ;Site
+1499;22/07/2025;84;17;2;9,90;;Pix;Cancelado;Site
+1500;23/11/2025;71;17;2;9,90;;Pix;PAGO;Marketplace
+1501;03/01/2026;85;24;4;13,90;;Cartão de Débito;PAGO;Loja Física
+1502;31/08/2026;29;8;3;54,90;5;Pix;Cancelado;Aplicativo
+1503;05/04/2025;99;4;3;59,90;5;Cartão de Débito;;Aplicativo  
+1504;15/08/2026;187;7;4;69,90;;Cartão de Crédito;Pago;Site
+1505;15/07/2026;109;10;5;24,90;;Boleto;CANCELADO;Marketplace
+1506;10/04/2025;186;19;5;27,90;15;Pix;Pago;SITE
+1507;29/05/2026;37;22;5;11,90;15;Cartão de Crédito;Pago;Loja Física
+1508;12/10/2025;106;26;;79,90;;Pix;Pago;Site
+1509;24/02/2025;25;19;6;27,90;;Cartão de Crédito;Pago; LOJA FÍSICA 
+1510;16/08/2025;132;30;1;29,90;;Cartão de Crédito;Pago;Loja Física
+1511;26/09/2025;177;5;1;99,90;;Boleto;Pago;Site
+1512;11/04/2026;5;14;3;27,90;;Pix; CANCELADO ;Marketplace
+1513;30/06/2025;162;11;1;45,00;;Pix  ;PAGO;Loja Física
+1514;11/05/2025;144;8;1;54,90;;Cartão de Crédito;pago;Loja Física
+1515;02/04/2025;33;19;6;27,90;;Cartão de Crédito;Pago;Site
+1516;22/09/2025;80;14;4;27,90;;Cartão de Crédito;Pago;Loja Física  
+1517;26/01/2025;28;14;2;27,90;5;Pix;Pago;Aplicativo
+1518;25/12/2025;143;7;6;69,90;;Pix;Pago;Loja Física
+1519;07/07/2025;101;4;6;59,90;;Boleto;Pago;Aplicativo
+1520;10/10/2025;20;12;6;38,50;5;Cartão de Débito;Cancelado;Site
+1521;24/03/2025;170;28;3;89,90;;Cartão de Crédito;Pago;Loja Física
+1522;30/05/2025;33;4;5;59,90;;Pix;Pago;Loja Física
+1523;04/06/2025;23;29;6;14,90;;Cartão de Débito;Pago;Aplicativo
+1524;11/10/2025;73;12;3;38,50;10;Cartão de Débito; PAGO ;Site
+1525;16/03/2026;60;18;1;14,90;;Pix;;Aplicativo
+1526;11/10/2025;151;28;5;89,90;15;Cartão de Crédito  ;Pago;MARKETPLACE
+1527;15/01/2026;80;27;1;64,90;;Cartão de Crédito;Pago;Loja Física
+1528;25/06/2026;109;4;6;59,90;;Cartão de Débito; PAGO ;Site
+1529;03/04/2026;141;7;2;69,90;15;Cartão de Crédito;Pago;Loja Física
+1530;30/04/2025;62;2;1;199,90;;Cartão de Débito;Pendente  ;Aplicativo
+1531;09/06/2025;195;2;6;199,90;;Cartão de Crédito;Pago;Loja Física
+1532;21/06/2026;85;4;5;59,90;15;PIX;Pago  ;Loja Física
+1533;26/06/2026;174;6;6;6,50;15;Cartão de Débito;pago;Aplicativo
+1534;13/03/2026;8;2;6;199,90;5; CARTÃO DE CRÉDITO ;Pago;aplicativo
+1535;15/09/2025;124;22;5;11,90;;Cartão de Débito;Pago;Aplicativo  
+1536;15/07/2026;4;18;1;14,90;10;Cartão de Crédito;Pago;Site
+1537;18/07/2025;197;2;1;199,90;;Pix;Pago; MARKETPLACE 
+1538;12/04/2026;67;2;4;199,90;;Cartão de Crédito  ;Pago;Site
+1539;09/01/2026;179;23;1;12,90;10;Boleto;PAGO;Aplicativo
+1540;10/01/2025;56;29;3;14,90;;Pix;;Marketplace
+1541;26/04/2025;159;25;3;24,90;5;Cartão de Débito;Pago;Marketplace
+1542;18/03/2025;4;8;0;54,90;;CARTÃO DE DÉBITO;Pago;Loja Física
+1543;08/09/2025;60;12;6;38,50;10;Cartão de Débito;Pago;LOJA FÍSICA
+1544;26/05/2026;108;11;1;45,00;;Cartão de Débito;Pendente;Aplicativo
+1545;24/04/2025;36;28;1;89,90;5;Cartão de Débito;Pago;loja física
+1546;06/01/2026;67;19;3;27,90;;Pix; PAGO ;Site
+1547;14/01/2026;198;13;1;35,90;;Cartão de Crédito;  Pago;Loja Física  
+1548;27/09/2025;194;7;1;69,90;10;Cartão de Crédito;Pago;Site
+1549;17/01/2025;199;7;1;69,90;;Cartão de Débito;  Pago;Site
+1550;07/12/2025;67;15;6;34,90;15;Cartão de Débito;Pago;Loja Física
+1551;15/03/2026;65;18;5;14,90;;Pix;Cancelado;Loja Física
+1552;15/02/2026;122;3;6;79,90;;Cartão de Crédito; PAGO ;Site
+1553;27/09/2025;133;16;5;19,90;5;Boleto;Pendente;Loja Física
+1554;22/06/2026;155;12;2;38,50;15;Pix;;  Site
+1555;16/07/2025;175;20;4;22,90;10;Cartão de Crédito;;Loja Física
+1556;23/03/2026;20;20;4;22,90;5; CARTÃO DE CRÉDITO ;Pago;Aplicativo
+1557;04/07/2025;16;28;4;89,90;10;Pix;PAGO;Loja Física  
+1558;19/05/2026;28;27;3;64,90;;Pix;Pago;Marketplace
+1559;03/02/2025;96;10;3;24,90;;Boleto;Pago;Loja Física
+1560;06/08/2026;141;26;2;79,90;;Pix;Pendente;Aplicativo
+1561;07/04/2026;119;27;1;64,90;15;Pix;Pago;Site
+1562;26/10/2025;150;29;1;14,90;;Pix;Pago;Loja Física
+1563;31/07/2026;72;19;2;27,90;15;Cartão de Crédito;Pendente;Loja Física
+1564;04/03/2025;41;19;1;27,90;;Cartão de Crédito;Pago;Loja Física
+1565;21/05/2026;47;8;6;54,90;5;Cartão de Débito;Pago;Aplicativo
+1566;02/03/2025;33;21;1;6,90;15;Cartão de Crédito;Pago;Loja Física
+1567;26/08/2026;126;28;2;89,90;;Cartão de Crédito;Pago; SITE 
+1568;08/01/2026;193;14;3;27,90;;CARTÃO DE DÉBITO;Pago;Aplicativo
+1569;16/01/2026;199;19;2;27,90;15;Boleto;Pago;Loja Física
+1570;17/07/2025;64;19;1;27,90;;Pix;Pago;Loja Física
+1571;27/04/2025;159;12;6;38,50;10;Pix;Pago;Aplicativo
+1572;19/10/2025;178;8;4;54,90;15;Pix;Pago;Loja Física
+1573;08/01/2025;138;28;2;89,90;;Pix;Pago;  Site
+1574;08/12/2025;193;25;3;24,90;5;Pix;Pendente;Site
+1575;08/05/2026;118;4;2;59,90;;Cartão de Crédito;PAGO;Site
+1576;17/12/2025;160;28;3;89,90;15;Pix  ;Pago;  Aplicativo
+1577;08/10/2025;122;8;6;54,90;;Pix;Cancelado;Site
+1578;05/04/2026;197;29;2;14,90;;Pix;Pendente;Aplicativo
+1579;19/04/2025;17;9;3;32,00;;Cartão de Crédito;Pago;Loja Física
+1580;20/02/2025;133;24;2;13,90;15;Cartão de Crédito;Pago;Loja Física
+1581;06/04/2025;129;5;3;99,90;5;Pix;Pago;Aplicativo
+1582;06/11/2025;198;18;1;14,90;5;Cartão de Crédito  ;Pago;Aplicativo
+1583;17/03/2026;91;7;2;69,90;;Pix;  Pago;Site
+1584;31/05/2026;92;10;4;24,90;10;Cartão de Crédito;Pendente;Loja Física
+1585;26/06/2025;5;23;4;12,90;10;Cartão de Crédito; PAGO ;Aplicativo
+1586;18/01/2026;21;30;2;29,90;15;Cartão de Crédito;Pago;Loja Física
+1587;20/02/2026;44;25;1;24,90;15;Cartão de Débito;Pago;Site
+1588;16/06/2025;63;9;2;32,00;;Pix;Pago;Loja Física  
+1589;13/02/2026;1;13;2;35,90;;Boleto;Pago;Loja Física
+1590;10/02/2025;5;14;2;27,90;10;PIX;Pago;Loja Física
+1591;06/04/2025;23;18;5;14,90;5;Pix;Pago; SITE 
+1592;14/02/2026;29;5;4;99,90;10;Cartão de Crédito;Pago  ;Marketplace
+1593;10/08/2026;84;7;6;69,90;;Cartão de Crédito;;Site
+1594;22/07/2025;106;14;6;27,90;;Pix;Pago;Loja Física  
+1595;10/10/2025;74;10;2;24,90;;Boleto;Pago;Site
+1596;02/02/2025;109;17;3;9,90;15;Cartão de Crédito;Pago;Loja Física
+1597;15/12/2025;26;27;3;64,90;5;CARTÃO DE CRÉDITO;Pago;Site
+1598;21/10/2025;144;7;2;69,90;;Cartão de Crédito;Pago;Aplicativo
+1599;03/02/2026;147;9;3;32,00;;Cartão de Crédito;  Pago;Marketplace
+1600;27/07/2026;146;12;6;38,50;;Pix;Pago;Site
+1601;12/12/2025;161;3;0;79,90;;Cartão de Crédito;Pago;Site
+1602;14/08/2025;123;11;5;45,00;5;Pix;Pago  ;Aplicativo
+1603;20/06/2026;68;24;1;13,90;;Pix  ;Pago  ;Aplicativo
+1604;02/02/2026;194;12;4;38,50;;Cartão de Crédito;Pago;Aplicativo
+1605;08/08/2026;9;10;6;24,90;;Pix;Pago; SITE 
+1606;30/07/2026;99;10;3;24,90;;Pix;Pago;MARKETPLACE
+1607;06/06/2026;63;8;6;54,90;;Pix;Pago;Loja Física
+1608;19/05/2025;47;16;6;19,90;10;Pix;Pendente;Marketplace
+1609;04/06/2026;111;25;1;24,90;;Pix;Pago;Aplicativo  
+1610;23/06/2025;179;25;2;24,90;5;Cartão de Crédito;Pago;Site
+1611;06/11/2025;147;24;3;13,90;;Pix  ; PAGO ;Site
+1612;21/02/2026;101;3;5;79,90;;PIX;Pago;Loja Física
+1613;01/07/2025;197;22;1;11,90;15;Cartão de Crédito;Cancelado;Site
+1614;28/07/2025;198;6;4;6,50;15;PIX;Pago;Aplicativo
+1615;29/08/2026;138;9;2;32,00;10;Boleto;Pago;Aplicativo
+1616;26/04/2025;73;11;3;45,00;;Cartão de Débito;Pago;Loja Física
+1617;03/01/2025;95;6;1;6,50;;Boleto;Pago;Loja Física
+1618;25/02/2025;179;17;6;9,90;;Cartão de Débito;Pago;Loja Física
+1619;21/01/2026;165;4;4;59,90;;Cartão de Crédito;;Loja Física
+1620;18/08/2026;186;19;1;27,90;10;Pix;Pago;Loja Física
+1621;09/06/2025;106;15;1;34,90;10;Pix;PAGO;Site
+1622;13/06/2025;103;17;6;9,90;;Cartão de Crédito;Cancelado;Loja Física
+1623;20/01/2025;118;10;3;24,90;;Cartão de Crédito;Pago;Marketplace
+1624;03/01/2025;109;21;4;6,90;5;Cartão de Crédito;Pago;Site  
+1625;18/01/2025;62;13;4;35,90;5;pix;Pago;Site
+1626;26/01/2026;162;29;3;14,90;10;Pix;Pago;Aplicativo
+1627;27/05/2025;77;29;1;14,90;;Cartão de Crédito;Pago;loja física
+1628;30/09/2025;146;8;4;54,90;;Cartão de Crédito;Pago;Loja Física
+1629;12/11/2025;11;25;;24,90;;Pix;Pago; SITE 
+1630;17/01/2025;63;27;4;64,90;15;Cartão de Crédito;Pago;Marketplace
+1631;12/09/2025;133;4;3;59,90;;Pix;Pago;Marketplace
+1632;26/06/2026;105;8;4;54,90;; CARTÃO DE CRÉDITO ;Pago;Aplicativo
+1633;20/09/2025;48;28;6;89,90;5;Cartão de Crédito;Pago;Site  
+1634;21/08/2026;105;14;4;27,90;;Pix;Pago;Site
+1635;16/07/2026;64;20;6;22,90;;Pix;Pago;Marketplace
+1636;21/03/2026;4;15;6;34,90;;Pix;Pago;Site
+1637;25/06/2026;191;9;5;32,00;;Boleto;Pago;LOJA FÍSICA
+1638;23/04/2026;103;29;1;14,90;;Cartão de Débito;Pago;Marketplace
+1639;01/08/2026;19;21;6;6,90;; PIX ;Pago;Site
+1640;22/03/2026;165;21;5;6,90;;Cartão de Débito;Pago;Aplicativo
+1641;04/06/2025;15;5;3;99,90;5;Pix;Pago;Site
+1642;25/09/2025;144;14;4;27,90;5;Cartão de Crédito;Pago;Marketplace
+1643;15/05/2025;2;30;1;29,90;;Cartão de Crédito;Pendente;Loja Física
+1644;07/05/2026;40;14;1;27,90;15;Cartão de Débito;Pago;Aplicativo
+1645;04/05/2025;182;1;3;129,90;;Pix;Cancelado;Site
+1646;21/07/2025;165;28;4;89,90;;Pix;Pago; LOJA FÍSICA 
+1647;21/08/2026;153;25;6;24,90;10;Pix;Pago;  Loja Física
+1648;05/04/2026;74;24;2;13,90;5;Cartão de Crédito;Pendente;Loja Física
+1649;09/03/2025;2;18;4;14,90;10;Cartão de Débito; PAGO ;Loja Física
+1650;10/05/2026;178;2;6;199,90;;Boleto;Pago;Loja Física
+1651;26/07/2026;91;13;2;35,90;5;Pix;Pago;Aplicativo
+1652;10/01/2026;64;11;4;45,00;5;Cartão de Crédito;Pago  ;  Aplicativo
+1653;15/11/2025;82;1;5;129,90;;Pix;;Loja Física
+1654;25/01/2025;175;20;6;22,90;;Cartão de Crédito;Pago;Marketplace
+1655;13/10/2025;161;8;5;54,90;10;Cartão de Crédito;Pago;Loja Física
+1656;17/10/2025;178;6;5;6,50;;Cartão de Crédito;Pago;Loja Física
+1657;04/11/2025;68;5;2;99,90;15;Pix;Pago;Aplicativo
+1658;13/02/2025;153;16;1;19,90;;Pix; CANCELADO ;Loja Física
+1659;22/03/2025;24;27;6;64,90;;Cartão de Crédito;Cancelado; SITE 
+1660;13/02/2026;62;9;5;32,00;;Cartão de Crédito  ;Pago  ;Aplicativo
+1661;08/01/2025;122;6;2;6,50;;Boleto;Pago;Site
+1662;21/05/2025;164;26;1;79,90;;Pix;Pago;Aplicativo
+1663;13/05/2026;100;19;3;27,90;;Pix;Pago;Aplicativo
+1664;29/01/2026;19;30;1;29,90;10;  Cartão de Crédito;Cancelado;Site
+1665;23/02/2025;101;7;4;69,90;;Pix;Pago; LOJA FÍSICA 
+1666;09/01/2025;160;29;6;14,90;5;cartão de crédito;Pago;Site
+1667;24/01/2025;156;2;6;199,90;;Pix;Pago;Site
+1668;11/07/2025;101;15;6;34,90;;Pix;Pago;Loja Física
+1669;07/10/2025;162;12;4;38,50;5;  Boleto;Pago;Marketplace
+1670;29/07/2026;31;10;3;24,90;10;Cartão de Crédito;Pago;Site
+1671;21/06/2025;153;27;3;64,90;15;Cartão de Crédito  ;Pago;Loja Física
+1672;07/03/2026;36;13;1;35,90;;CARTÃO DE CRÉDITO;Pago;Marketplace
+1673;06/03/2025;94;14;4;27,90;5;pix;Pago;Loja Física
+1674;20/11/2025;109;24;6;13,90;;Pix;pago;Loja Física
+1675;27/02/2025;182;7;2;69,90;;Boleto;Pago;Loja Física
+1676;10/08/2026;189;23;4;12,90;;Cartão de Débito;Pago;Site
+1677;05/12/2025;100;24;3;13,90;;Cartão de Crédito;Pago;Site
+1678;25/04/2026;13;22;5;11,90;15;Pix;;Aplicativo
+1679;13/04/2025;145;16;6;19,90;;Pix;Pago;Loja Física
+1680;17/05/2025;54;27;2;64,90;5;Boleto;Pago;Loja Física
+1681;17/04/2026;97;5;3;99,90;5;Cartão de Débito;Pago;Site
+1682;25/05/2025;12;20;6;22,90;;Pix;Pago;Loja Física
+1683;13/06/2026;72;3;4;79,90;;Pix;Pago;Loja Física
+1684;28/03/2025;85;5;;99,90;15;Pix;Pago;Loja Física
+1685;19/07/2026;57;11;4;45,00;;Pix;Pago;Loja Física
+1686;04/06/2025;33;22;2;11,90;;Cartão de Crédito;Pago;Loja Física
+1687;02/11/2025;187;17;6;9,90;;Pix; CANCELADO ;Site
+1688;08/11/2025;35;26;1;79,90;10;Pix;Pago  ;Aplicativo
+1689;21/03/2026;122;2;2;199,90;15;Cartão de Débito;Pago;Site
+1690;10/02/2025;63;30;1;29,90;10;Cartão de Crédito;Pago;Site
+1691;14/03/2025;73;26;4;79,90;5;Cartão de Crédito;Pago;site
+1692;09/07/2026;182;19;6;27,90;;Cartão de Débito; PAGO ;Marketplace
+1693;15/01/2025;73;2;5;199,90;5;Cartão de Crédito;Pendente  ;Aplicativo
+1694;26/01/2026;26;7;2;69,90;;Pix;Pago;Marketplace
+1695;23/10/2025;144;21;1;6,90;;PIX;Pendente;Site
+1696;28/06/2026;181;30;2;29,90;;Boleto;Pago;Marketplace
+1697;10/06/2026;199;13;6;35,90;5;Cartão de Crédito;Pago  ;Site
+1698;11/03/2025;100;16;1;19,90;5;Pix;Pago;Loja Física
+1699;12/08/2026;154;19;6;27,90;5;Boleto;Pago;Aplicativo
+1700;01/02/2026;50;14;6;27,90;10;Cartão de Crédito;Pago;Marketplace
+1701;11/08/2026;37;7;4;69,90;;Pix;Pago  ;Loja Física
+1702;27/05/2026;171;24;4;13,90;5;Boleto;Pago;Site
+1703;23/02/2025;99;4;2;59,90;5;Cartão de Crédito;;Aplicativo
+1704;27/01/2026;91;28;2;89,90;;Pix;Pago;Marketplace
+1705;28/05/2025;52;25;5;24,90;;Cartão de Crédito;Pago;Loja Física
+1706;09/04/2026;6;27;3;64,90;; CARTÃO DE CRÉDITO ;Pendente;Marketplace
+1707;07/12/2025;188;7;5;69,90;;Cartão de Crédito;Pago;Marketplace
+1708;21/08/2026;198;9;6;32,00;;Cartão de Crédito;Pago;Site
+1709;06/06/2025;143;27;5;64,90;;Pix;Pago;Site
+1710;19/05/2026;77;30;1;29,90;5;  Boleto;Pago;Site
+1711;16/07/2026;12;9;6;32,00;;Cartão de Crédito;Pago;Site
+1712;28/06/2026;154;21;1;6,90;15;Pix;Cancelado;Marketplace
+1713;27/03/2026;171;28;3;89,90;;Cartão de Crédito;Pago;Site
+1714;01/10/2025;176;4;6;59,90;5;Cartão de Crédito;Pago; APLICATIVO 
+1715;11/10/2025;28;11;6;45,00;5;Cartão de Crédito;Pago;Loja Física
+1716;14/10/2025;43;1;6;129,90;;Cartão de Crédito;Pago;Loja Física
+1717;28/08/2026;55;15;2;34,90;10;Boleto;PAGO;Marketplace
+1718;31/05/2025;98;29;1;14,90;15;Pix;Pago;Site
+1719;28/05/2025;57;1;4;129,90;10;Cartão de Crédito;Pago;Site
+1720;06/02/2025;182;29;2;14,90;15;Cartão de Débito;Pago;Loja Física
+1721;15/10/2025;120;18;6;14,90;;Cartão de Crédito;Pago  ;Site
+1722;12/07/2026;139;7;5;69,90;5;Cartão de Crédito;Cancelado; SITE 
+1723;14/01/2026;131;3;3;79,90;5;Cartão de Débito;Pago;Aplicativo
+1724;09/06/2025;5;9;5;32,00;10;cartão de crédito;Pago;Aplicativo
+1725;08/12/2025;189;30;6;29,90;;Cartão de Crédito; PAGO ;Site
+1726;18/05/2025;7;21;4;6,90;10;Cartão de Débito  ;Pago;Aplicativo
+1727;31/05/2025;151;2;1;199,90;5;Pix;Pago;Loja Física
+1728;11/04/2026;12;17;6;9,90;;Cartão de Crédito  ;Pago;Site
+1729;29/12/2025;177;17;6;9,90;;Pix;Cancelado;Loja Física
+1730;15/12/2025;162;26;6;79,90;;Cartão de Crédito;Pago;Marketplace
+1731;16/08/2025;133;21;1;6,90;;Cartão de Crédito;  Pago;Marketplace
+1732;22/02/2025;167;4;1;59,90;10;Pix;Pago;Site
+1733;07/02/2026;199;2;2;199,90;5;Cartão de Crédito;Cancelado;Site
+1734;06/11/2025;200;20;4;22,90;10;Pix;Pendente;Site
+1735;10/03/2026;186;26;3;79,90;15;Cartão de Crédito;Pago  ;  Loja Física
+1736;02/05/2025;91;16;2;19,90;5;Boleto;Pago;Loja Física
+1737;27/07/2026;199;22;2;11,90;10; PIX ;Pago;Loja Física
+1738;21/08/2025;45;23;6;12,90;;Pix;Pago;Loja Física
+1739;25/01/2025;120;24;3;13,90;;Pix;Pago;Aplicativo
+1740;18/10/2025;167;24;1;13,90;;Boleto;Pago;Marketplace
+1741;19/06/2025;20;14;1;27,90;5;Cartão de Crédito;Pago;Site
+1742;07/05/2026;99;29;1;14,90;10;Cartão de Débito;Pago;Site
+1743;09/05/2025;138;26;4;79,90;;Pix;Pago;Loja Física
+1744;31/01/2025;148;26;2;79,90;10;Cartão de Crédito;Pendente;Loja Física
+1745;02/03/2026;106;14;4;27,90;;  Boleto;Pago;Marketplace
+1746;14/08/2025;69;26;1;79,90;5;cartão de crédito;Pago;Marketplace
+1747;01/05/2026;116;29;4;14,90;5;  Pix;;Loja Física
+1748;25/12/2025;17;9;3;32,00;;Pix;Pago;Marketplace  
+1749;12/05/2025;98;27;1;64,90;;Pix;Pago;Aplicativo
+1750;07/07/2025;125;29;5;14,90;10;Cartão de Crédito;Pago;Loja Física
+1751;15/07/2026;83;1;2;129,90;;Boleto;Cancelado;Loja Física
+1752;17/07/2026;103;7;3;69,90;;Pix;Pendente;Site
+1753;10/10/2025;97;25;2;24,90;10;Cartão de Crédito  ;Pago;APLICATIVO
+1754;23/04/2026;151;4;3;59,90;15;PIX;Pago;Site
+1755;23/02/2025;179;15;4;34,90;5;Cartão de Débito; PAGO ;Site
+1756;14/09/2025;59;10;2;24,90;;Cartão de Crédito;Pago; MARKETPLACE 
+1757;22/06/2026;82;3;5;79,90;;Pix;Pago;Loja Física
+1758;22/07/2025;63;21;1;6,90;15;Cartão de Crédito;Pago;Aplicativo
+1759;30/05/2026;111;13;1;35,90;15;Pix;Pago;  Marketplace
+1760;07/06/2025;7;30;2;29,90;;  Cartão de Crédito;  Pago;Aplicativo
+1761;30/07/2025;190;1;1;129,90;5;pix;Pago;Loja Física
+1762;22/01/2026;36;28;5;89,90;10;Pix;Pago;Aplicativo
+1763;14/04/2025;50;4;2;59,90;;Cartão de Crédito;Pago;marketplace
+1764;26/02/2026;174;6;2;6,50;;Pix;Pago;Site
+1765;21/08/2026;132;10;5;24,90;;Cartão de Crédito;Pago;Aplicativo
+1766;06/09/2025;71;12;2;38,50;10;Cartão de Crédito;Pago;Site
+1767;28/01/2026;104;12;4;38,50;;Cartão de Débito;Pago  ;Aplicativo
+1768;03/03/2026;107;6;3;6,50;;Pix;Pendente;Loja Física
+1769;05/10/2025;196;19;6;27,90;;Cartão de Crédito;Pago;Loja Física
+1770;14/08/2026;142;23;6;12,90;;Cartão de Crédito;Pago;Marketplace
+1771;02/05/2026;21;13;4;35,90;;Cartão de Crédito;Pago;Site
+1772;21/10/2025;106;21;5;6,90;5;Pix;Pago;Site
+1773;28/08/2026;164;4;4;59,90;;Cartão de Crédito;Pago;APLICATIVO
+1774;12/06/2026;168;12;2;38,50;;cartão de crédito;pago;Site
+1775;08/04/2025;71;16;6;19,90;5;Cartão de Crédito;;Marketplace
+1776;01/08/2025;31;1;5;129,90;;Boleto;Pago;Loja Física
+1777;28/05/2025;192;26;4;79,90;5;Boleto;Pago;Aplicativo
+1778;23/05/2025;192;13;2;35,90;5;Cartão de Débito;Pago;Loja Física
+1779;23/04/2025;47;19;3;27,90;10;Cartão de Crédito;Pago;Site  
+1780;12/08/2025;85;15;6;34,90;;Cartão de Crédito  ;  Pago;Aplicativo
+1781;23/08/2026;9;4;4;59,90;15;Cartão de Débito;Pago;Marketplace
+1782;08/10/2025;137;30;6;29,90;15; PIX ;Pago;APLICATIVO
+1783;15/09/2025;140;3;4;79,90;;  Pix;Pago;Aplicativo
+1784;15/06/2025;10;3;1;79,90;;Cartão de Crédito;Pago; SITE 
+1785;10/09/2025;75;2;6;199,90;;Pix;Pendente;Site
+1786;03/08/2025;82;11;3;45,00;;Pix  ;Pendente;Aplicativo
+1787;23/03/2025;83;30;5;29,90;15;Cartão de Crédito;Pendente;aplicativo
+1788;17/01/2025;35;26;6;79,90;;Boleto; PAGO ;Site
+1789;03/11/2025;82;10;1;24,90;;Boleto; PAGO ;Loja Física
+1790;12/07/2025;155;28;5;89,90;;Pix;Pago  ;Loja Física
+1791;13/09/2025;165;22;4;11,90;;Pix;pago;Loja Física
+1792;09/07/2025;100;11;1;45,00;;Cartão de Crédito;Pago;Loja Física
+1793;23/05/2025;163;25;6;24,90;;Pix;Pago  ;Site
+1794;04/02/2026;155;20;3;22,90;;Cartão de Crédito;Pendente;MARKETPLACE
+1795;16/02/2026;54;19;6;27,90;;Pix;Pago;Marketplace
+1796;06/01/2026;104;21;6;6,90;;Pix;PAGO;  Aplicativo
+1797;08/03/2026;47;4;;59,90;;Pix;Pago;Aplicativo
+1798;02/03/2025;173;1;6;129,90;;Boleto;pago;Site  
+1799;15/06/2025;36;6;2;6,50;;pix;Pago;Loja Física
+1800;29/08/2026;153;16;3;19,90;;Pix; PAGO ;Loja Física
+1801;10/09/2025;89;4;2;59,90;10;Pix;Pago;Loja Física
+1802;08/01/2025;112;15;2;34,90;;Pix;Pago;Marketplace
+1803;08/07/2026;5;2;5;199,90;15;Pix;;Loja Física
+1804;07/12/2025;195;28;6;89,90;;Cartão de Débito;Pago;Marketplace
+1805;12/05/2025;141;16;5;19,90;;Pix;Pago;Marketplace
+1806;26/01/2025;173;13;2;35,90;;Cartão de Crédito;pago;Loja Física
+1807;03/09/2025;185;20;6;22,90;;  Cartão de Crédito;Pago;Marketplace
+1808;12/07/2026;195;26;3;79,90;;Pix;Pago  ;Site
+1809;11/07/2026;110;21;1;6,90;;Pix;Pago;Site
+1810;22/11/2025;37;15;3;34,90;;Cartão de Crédito;Pendente;Site
+1811;09/06/2026;72;29;5;14,90;;Cartão de Crédito;Pago;Site
+1812;04/07/2025;83;10;3;24,90;15;  Cartão de Débito;Pago;  Loja Física
+1813;23/03/2025;117;6;2;6,50;10;  Pix;Pago;Marketplace
+1814;22/08/2026;8;4;3;59,90;;Pix;Pago;Loja Física
+1815;28/05/2025;159;12;4;38,50;15;Pix;Cancelado;Marketplace
+1816;20/08/2025;12;11;6;45,00;;Pix;Pago;Site
+1817;30/10/2025;41;23;5;12,90;5;  Pix;Pago  ;Site
+1818;20/02/2026;98;29;1;14,90;5;Pix;Pago;Site
+1819;25/08/2025;151;27;3;64,90;;Cartão de Crédito;Cancelado;aplicativo
+1820;03/09/2025;165;2;4;199,90;;Pix;Pago;Site
+1821;16/12/2025;111;1;1;129,90;;Pix;Pago;Aplicativo
+1822;13/11/2025;1;23;4;12,90;10;Cartão de Crédito;Pago;  Loja Física
+1823;25/04/2026;120;24;2;13,90;15;  Cartão de Crédito;Pago;Site
+1824;28/12/2025;51;8;0;54,90;10;Cartão de Crédito;Pago;Aplicativo
+1825;28/04/2026;166;14;4;27,90;15; CARTÃO DE CRÉDITO ;Pago;Loja Física
+1826;03/03/2025;40;11;4;45,00;;Pix;Pago;Site
+1827;29/07/2025;86;15;1;34,90;;Pix;Pago;Site
+1828;09/06/2026;95;3;2;79,90;;Pix;pago;Site
+1829;09/09/2025;146;2;1;199,90;15;Cartão de Crédito;pago;aplicativo
+1830;25/01/2026;98;9;4;32,00;5;Pix;Pago;Site
+1831;17/12/2025;146;16;6;19,90;;Cartão de Débito;Pago;SITE
+1832;28/12/2025;42;25;3;24,90;10;Cartão de Crédito;Pago;Marketplace
+1833;14/10/2025;81;28;3;89,90;;Pix;Pago;Marketplace
+1834;25/02/2026;67;13;3;35,90;5;Cartão de Crédito;Pago;Loja Física
+1835;21/02/2026;161;19;3;27,90;;Pix;;Site
+1836;27/05/2025;173;14;3;27,90;;Cartão de Débito;Pendente;Marketplace
+1837;28/03/2026;150;6;5;6,50;15;Pix;Pago;LOJA FÍSICA
+1838;10/07/2025;38;10;4;24,90;15;Pix;Pago;Marketplace
+1839;20/12/2025;127;28;6;89,90;10;Cartão de Crédito;PAGO;Marketplace
+1840;27/06/2026;35;21;1;6,90;;Pix;Pago;Marketplace
+1841;27/02/2025;146;25;2;24,90;10;Cartão de Crédito;Pago;Site
+1842;24/05/2025;134;24;0;13,90;;pix;Pago;APLICATIVO
+1843;10/05/2025;100;29;6;14,90;15;Pix;Pago;Loja Física
+1844;06/06/2026;43;14;4;27,90;10;Cartão de Crédito;Pago;Site
+1845;20/10/2025;112;13;1;35,90;5;Pix;Pago;Site
+1846;14/01/2026;196;27;1;64,90;15;Pix;Pago;Loja Física
+1847;23/04/2025;122;29;1;14,90;;Cartão de Débito;Pendente;APLICATIVO
+1848;06/02/2025;74;7;5;69,90;;CARTÃO DE CRÉDITO;Pago;Loja Física
+1849;15/07/2025;134;29;5;14,90;10;Cartão de Crédito;Pago;Site
+1850;16/04/2025;104;12;5;38,50;5;Boleto;Pago;Site
+1851;08/06/2025;119;18;3;14,90;15; BOLETO ;Cancelado;Site
+1852;03/02/2026;109;16;6;19,90;15;Cartão de Crédito; PAGO ;Site
+1853;23/07/2025;41;15;3;34,90;;Pix;Pago;Marketplace
+1854;10/03/2025;151;18;2;14,90;;Cartão de Crédito;  Pago;Loja Física
+1855;17/10/2025;41;8;5;54,90;;Cartão de Crédito  ;Pago;Aplicativo
+1856;12/03/2026;110;2;1;199,90;5;Cartão de Crédito;pago;Loja Física
+1857;29/01/2026;111;11;2;45,00;5;Cartão de Crédito;Pago;Loja Física
+1858;15/01/2026;77;24;6;13,90;;Pix;Pago;Site
+1859;09/01/2025;164;30;1;29,90;;Cartão de Débito;Pago;Aplicativo
+1860;29/04/2025;31;26;4;79,90;15;cartão de crédito;Pendente;Site
+1861;30/05/2025;19;13;0;35,90;;Cartão de Débito;Pago;Loja Física
+1862;11/05/2026;178;16;2;19,90;10;Cartão de Crédito;Cancelado;Aplicativo
+1863;02/05/2026;28;29;4;14,90;;Pix;Pago;Site
+1864;21/06/2026;61;14;3;27,90;;Pix;  Pago;Loja Física
+1865;09/01/2026;51;27;3;64,90;15;Cartão de Crédito;Cancelado;LOJA FÍSICA
+1866;22/01/2025;93;25;3;24,90;10;Pix;;Site
+1867;03/12/2025;10;11;4;45,00;10;Cartão de Crédito  ;Pago;Marketplace
+1868;02/08/2025;172;1;5;129,90;;Cartão de Débito;Pago;Marketplace
+1869;02/01/2026;126;7;2;69,90;; CARTÃO DE CRÉDITO ;Pago;Site
+1870;01/02/2026;73;13;2;35,90;10;Cartão de Débito;pago;Loja Física
+1871;30/05/2025;200;16;6;19,90;5;Pix;Pago;Marketplace
+1872;05/02/2025;177;6;6;6,50;10; CARTÃO DE CRÉDITO ;;  Site
+1873;25/01/2025;144;22;6;11,90;15;Pix;PAGO;Site
+1874;29/08/2025;82;24;1;13,90;;Cartão de Débito;Pago;Aplicativo
+1875;27/08/2026;14;7;1;69,90;5;Cartão de Débito;Pago  ;Site
+1876;24/06/2026;165;26;3;79,90;;Pix; PAGO ;Marketplace
+1877;26/09/2025;181;6;5;6,50;;Cartão de Crédito;Pago  ;Site
+1878;21/05/2025;173;21;1;6,90;10; CARTÃO DE CRÉDITO ;Pago;Site
+1879;14/08/2025;19;9;4;32,00;15;  Cartão de Débito;Pendente;Marketplace
+1880;04/04/2026;159;24;;13,90;5; PIX ;Pago;Loja Física
+1881;31/12/2025;166;22;4;11,90;;Cartão de Débito  ;Pago;Aplicativo  
+1882;10/08/2025;105;16;4;19,90;;Cartão de Crédito;Pago;Site  
+1883;12/06/2025;48;29;6;14,90;;Cartão de Crédito;Pendente;Site
+1884;29/11/2025;44;23;2;12,90;;Cartão de Crédito;Pago;Aplicativo
+1885;03/08/2026;138;1;4;129,90;;Pix;Pago;Site
+1886;25/07/2026;95;20;4;22,90;10;Cartão de Crédito;Pago;Marketplace
+1887;01/02/2026;85;10;1;24,90;;Cartão de Crédito;pago;Site
+1888;24/03/2025;166;12;4;38,50;;Cartão de Débito;Pago;Loja Física
+1889;05/07/2025;134;25;0;24,90;;Cartão de Crédito;Pago;site
+1890;15/04/2025;188;21;1;6,90;; PIX ;;Site
+1891;19/12/2025;39;16;3;19,90;;Pix;;Site
+1892;14/01/2025;128;4;6;59,90;10;Pix;Pago;Aplicativo
+1893;08/04/2026;94;21;6;6,90;;Cartão de Crédito;Pago;Marketplace
+1894;11/10/2025;79;11;4;45,00;;Boleto;Pago;Site
+1895;02/08/2025;93;16;3;19,90;10;Pix;Pago;Loja Física  
+1896;05/03/2026;91;21;4;6,90;15;Cartão de Crédito;Cancelado;Site
+1897;15/07/2026;110;18;6;14,90;10;Pix;Pago;Site
+1898;17/04/2026;122;10;5;24,90;; CARTÃO DE CRÉDITO ;Pago;Loja Física
+1899;15/09/2025;77;29;6;14,90;;Cartão de Débito;Pago;Aplicativo
+1900;03/03/2025;93;2;3;199,90;10;Pix;Pago;Site
+1901;20/07/2025;146;1;1;129,90;;Cartão de Crédito;Pago; SITE 
+1902;05/01/2025;62;11;3;45,00;5;boleto;Pendente;MARKETPLACE
+1903;18/12/2025;6;22;2;11,90;10;Pix;Pago;Loja Física
+1904;27/08/2025;58;5;4;99,90;15;Cartão de Crédito;Pago;Loja Física
+1905;30/01/2025;71;24;1;13,90;15;Pix;Pago;Aplicativo  
+1906;24/04/2025;178;27;6;64,90;;Cartão de Crédito;Pago;Site
+1907;18/03/2026;11;12;3;38,50;15;Cartão de Crédito;pago;  Loja Física
+1908;02/02/2025;196;12;3;38,50;;Pix;Pago;Site
+1909;30/03/2025;171;15;3;34,90;;Cartão de Débito;Cancelado;Aplicativo
+1910;30/01/2025;132;6;4;6,50;;Cartão de Crédito;Pago;Site
+1911;18/03/2026;62;19;5;27,90;;Cartão de Débito;Pago;Loja Física  
+1912;28/08/2026;139;2;3;199,90;;Boleto  ;Pago;aplicativo
+1913;24/07/2026;136;25;2;24,90;;Pix;Pago;Aplicativo
+1914;11/01/2026;12;2;2;199,90;15;Cartão de Crédito;Pago;Loja Física
+1915;09/07/2025;156;5;4;99,90;5;Pix;Pago;Loja Física
+1916;03/11/2025;64;9;2;32,00;;Cartão de Débito;Pago;loja física
+1917;25/11/2025;5;22;5;11,90;;Pix;Pago;Marketplace
+1918;15/06/2025;131;13;3;35,90;; CARTÃO DE DÉBITO ;PENDENTE;Aplicativo
+1919;11/02/2026;146;27;5;64,90;;Cartão de Débito;Pago;Site
+1920;15/05/2026;1;25;1;24,90;;Cartão de Crédito;Pago;Site
+1921;01/07/2025;2;12;2;38,50;;Cartão de Débito;Pago;Loja Física
+1922;21/12/2025;15;20;1;22,90;;Cartão de Crédito;Pago;Site
+1923;30/07/2025;70;25;1;24,90;;Cartão de Crédito;Pago;Site
+1924;15/02/2025;20;24;2;13,90;;Cartão de Débito;Pago;Loja Física
+1925;13/07/2026;80;11;1;45,00;; PIX ;Pago;Loja Física
+1926;20/03/2025;193;6;1;6,50;10;Pix  ;Pago;Aplicativo
+1927;06/05/2026;63;19;6;27,90;10; PIX ;Pago;Loja Física
+1928;21/09/2025;179;16;2;19,90;10;Pix  ;Pago;Site
+1929;30/06/2026;156;9;5;32,00;;Pix;  Pago; LOJA FÍSICA 
+1930;23/09/2025;94;25;1;24,90;;Cartão de Crédito  ;Pago;site
+1931;30/04/2025;177;15;4;34,90;15;Cartão de Crédito;Pago;Aplicativo
+1932;26/01/2026;199;12;4;38,50;;Cartão de Crédito;Pago;Site
+1933;17/02/2025;43;7;5;69,90;10;Pix;Pago;Aplicativo
+1934;30/06/2025;127;13;1;35,90;;Pix;Pago;Aplicativo  
+1935;19/01/2026;48;14;1;27,90;;Cartão de Crédito  ;Pago;Aplicativo
+1936;17/11/2025;97;30;4;29,90;5;Boleto;Pago;Site  
+1937;09/07/2026;57;18;5;14,90;;Cartão de Crédito;;Loja Física
+1938;29/05/2025;200;23;1;12,90;10;Boleto;Pago;Loja Física
+1939;28/09/2025;13;13;3;35,90;;Cartão de Crédito;Pago;Loja Física
+1940;21/01/2025;23;5;5;99,90;5;Pix;Pago;Marketplace
+1941;18/06/2026;168;28;4;89,90;;Cartão de Débito;Pago;Site
+1942;08/05/2025;29;2;3;199,90;;Cartão de Crédito;Pendente;Site
+1943;10/01/2025;111;4;5;59,90;;Cartão de Crédito;Pago;Marketplace
+1944;22/06/2025;153;14;2;27,90;;Boleto;Pago;Aplicativo
+1945;12/08/2025;125;25;4;24,90;5;cartão de crédito;Pago;Aplicativo
+1946;18/02/2025;30;19;5;27,90;15;Pix;Pago;Site
+1947;19/07/2025;108;7;6;69,90;;Cartão de Débito;Pago;Marketplace
+1948;27/02/2025;63;19;1;27,90;;Cartão de Crédito;Pago;Site
+1949;29/08/2025;175;17;2;9,90;5;Boleto;Pago;Loja Física
+1950;17/12/2025;28;24;2;13,90;; CARTÃO DE DÉBITO ;Pago;Loja Física
+1951;18/09/2025;127;29;1;14,90;15;Cartão de Crédito;Pago;Aplicativo
+1952;09/02/2026;60;23;2;12,90;5;Cartão de Crédito;pago;Aplicativo
+1953;06/09/2025;3;11;2;45,00;15;Cartão de Débito;Pago;Aplicativo
+1954;07/01/2026;149;20;1;22,90;5;Cartão de Crédito;Pago;Loja Física
+1955;12/07/2025;85;20;5;22,90;10;Boleto;Pago;site
+1956;05/05/2026;178;7;5;69,90;;Pix;Cancelado;Marketplace
+1957;04/10/2025;25;6;3;6,50;10;Cartão de Crédito;Pago;Loja Física
+1958;17/11/2025;79;14;6;27,90;;Pix;Pago;Loja Física
+1959;01/02/2025;41;10;5;24,90;10;Pix;Pago;Loja Física
+1960;12/06/2026;110;15;4;34,90;10;Pix;Pendente;Loja Física
+1961;08/03/2025;50;10;1;24,90;;Pix;Pago;Loja Física
+1962;03/07/2025;99;3;6;79,90;15;Pix;Pago;Loja Física
+1963;29/06/2025;10;13;3;35,90;10;Boleto;Pago;Site
+1964;28/08/2025;60;30;4;29,90;5;Pix;PAGO;Site
+1965;25/08/2025;79;25;2;24,90;;Pix;PAGO;Site
+1966;04/11/2025;173;17;6;9,90;5;Cartão de Crédito;Pago;Loja Física
+1967;08/02/2025;130;24;5;13,90;;Cartão de Débito;Pendente;Loja Física
+1968;18/12/2025;6;6;4;6,50;;Pix;Cancelado;Site
+1969;18/01/2026;156;25;5;24,90;;Cartão de Débito;Cancelado;Marketplace
+1970;27/11/2025;154;14;5;27,90;;Cartão de Débito;Pago; LOJA FÍSICA 
+1971;12/04/2026;55;17;;9,90;;Boleto;Pago;Site
+1972;13/04/2026;5;14;4;27,90;;Cartão de Crédito;Pago;Site
+1973;27/03/2026;22;28;4;89,90;;Pix;Pago;Loja Física
+1974;05/03/2026;111;23;4;12,90;10;Pix; PAGO ;SITE
+1975;05/07/2025;53;13;4;35,90;;Cartão de Crédito;Pago;Marketplace
+1976;12/10/2025;83;19;5;27,90;15;Boleto;Pendente;Site
+1977;28/09/2025;46;26;2;79,90;15; CARTÃO DE CRÉDITO ;Pago;Marketplace
+1978;04/09/2025;138;4;3;59,90;;Cartão de Débito;Pago;Loja Física
+1979;13/09/2025;133;27;3;64,90;10;Pix;Pago;Marketplace
+1980;28/03/2025;6;22;4;11,90;15;Pix;Pago;Site
+1981;31/05/2026;95;3;5;79,90;;Boleto;Pago;Site
+1982;22/02/2025;50;16;1;19,90;10;Cartão de Crédito;Pago;Loja Física
+1983;08/09/2025;60;13;5;35,90;;Cartão de Crédito;Pago;Loja Física
+1984;05/04/2026;57;14;1;27,90;15;Pix;Pago;Site
+1985;06/02/2026;114;14;2;27,90;5; PIX ;Pendente;Site
+1986;19/01/2026;157;16;4;19,90;;Cartão de Crédito;Pago;Aplicativo
+1987;17/09/2025;8;5;5;99,90;15;Cartão de Débito;Pago;Site
+1988;30/12/2025;21;9;2;32,00;;Cartão de Crédito;Pendente;Loja Física
+1989;01/03/2025;9;25;2;24,90;10;Cartão de Crédito;Pago;Loja Física
+1990;27/09/2025;88;13;3;35,90;;Cartão de Crédito;Pago;Aplicativo
+1991;26/02/2026;111;11;2;45,00;;Cartão de Crédito;Pendente;Loja Física
+1992;13/03/2025;16;9;4;32,00;10;Pix;Cancelado;Aplicativo
+1993;29/08/2026;189;3;1;79,90;;Cartão de Débito;PAGO;Aplicativo
+1994;13/03/2026;20;7;6;69,90;;Cartão de Crédito;Pago;Loja Física
+1995;18/04/2026;188;21;4;6,90;5;Cartão de Crédito;Pago;Aplicativo
+1996;13/01/2026;104;5;6;99,90;;Boleto; PAGO ;Loja Física
+1997;10/07/2025;128;23;2;12,90;;Boleto;Pago;Aplicativo
+1998;26/02/2025;91;20;5;22,90;;Pix  ;Pendente;Loja Física
+1999;10/04/2026;188;28;2;89,90;10;Cartão de Crédito;Pago;Marketplace
+2000;20/06/2025;185;1;2;129,90;;Cartão de Débito;Pago;Site  
+2001;08/04/2025;53;14;3;27,90;;Boleto;pendente;Loja Física
+2002;22/11/2025;137;12;2;38,50;15;Pix;Cancelado;Site
+2003;18/12/2025;160;21;2;6,90;15;Cartão de Crédito;Pago;Aplicativo
+2004;05/01/2026;133;3;2;79,90;15;Cartão de Débito;Pago;Loja Física
+2005;15/11/2025;137;7;5;69,90;15;BOLETO;Pendente;Marketplace
+2006;27/06/2025;80;3;3;79,90;;Pix;Pago;Site
+2007;06/03/2025;132;25;1;24,90;;Pix;Pago;Marketplace
+2008;31/12/2025;93;13;1;35,90;;Cartão de Débito;Pago;  Loja Física
+2009;13/04/2025;13;10;1;24,90;5;Boleto;Pago;Site
+2010;01/09/2025;192;11;3;45,00;15;Pix;Pago;Aplicativo
+2011;01/10/2025;88;6;5;6,50;;Pix; PAGO ;Marketplace
+2012;25/01/2026;177;1;4;129,90;5; PIX ;Pendente;Loja Física
+2013;31/05/2026;33;26;6;79,90;;Cartão de Crédito;Pago;Marketplace
+2014;30/05/2025;8;21;4;6,90;5;Pix;Pago;MARKETPLACE
+2015;27/12/2025;127;1;3;129,90;;Cartão de Débito;Pago;Aplicativo
+2016;01/10/2025;144;1;1;129,90;;Cartão de Crédito;Pago;Loja Física
+2017;15/02/2025;85;4;2;59,90;10;Boleto;Pago;Loja Física
+2018;14/02/2025;74;30;6;29,90;5;Pix;Pago;Loja Física
+2019;13/02/2026;178;12;3;38,50;5; BOLETO ;PAGO;Site
+2020;29/07/2025;10;19;5;27,90;;Boleto;Pago; SITE 
+2021;26/01/2026;89;18;4;14,90;;Cartão de Crédito;Pendente;Aplicativo  
+2022;29/08/2026;6;22;1;11,90;;Boleto;Pago;  Site
+2023;23/03/2025;193;16;5;19,90;5;Cartão de Crédito;  Pago;Loja Física
+2024;09/09/2025;144;9;5;32,00;;Boleto;Cancelado;Site
+2025;27/08/2025;79;9;4;32,00;;Pix;Pago;Loja Física
+2026;15/08/2025;33;16;2;19,90;10;Cartão de Crédito;Pago;Loja Física
+2027;06/12/2025;98;17;4;9,90;10;Cartão de Crédito;Pago;Aplicativo
+2028;18/06/2025;184;18;6;14,90;5;Boleto;pendente;Loja Física
+2029;02/11/2025;175;2;4;199,90;15;Cartão de Crédito;Pago;Site
+2030;03/10/2025;188;13;3;35,90;;Cartão de Crédito;Pago;Loja Física
+2031;04/12/2025;154;21;2;6,90;10;Pix;Pago;Loja Física
+2032;24/06/2026;99;9;1;32,00;10;Cartão de Débito;Pago;LOJA FÍSICA
+2033;02/10/2025;157;26;5;79,90;;Pix;Pago;Aplicativo
+2034;01/09/2025;185;29;1;14,90;;boleto;Pago;Site
+2035;02/12/2025;148;27;1;64,90;;Cartão de Crédito;Pago;Loja Física
+2036;21/06/2025;123;25;5;24,90;; CARTÃO DE CRÉDITO ;Pago;Site
+2037;28/07/2025;51;3;6;79,90;;  Cartão de Crédito;Cancelado;Site
+2038;21/12/2025;84;26;5;79,90;;Pix;Cancelado;Site
+2039;17/02/2026;163;2;5;199,90;10;  Pix;Pago;Site
+2040;06/06/2025;182;26;3;79,90;5;Cartão de Débito;Pago;Site
+2041;01/01/2026;83;26;5;79,90;10;Cartão de Débito;Pago;Loja Física
+2042;23/05/2025;23;1;6;129,90;;Pix;Pago;Site
+2043;29/07/2026;157;21;5;6,90;15;Cartão de Débito;; APLICATIVO 
+2044;10/05/2026;96;23;5;12,90;;Pix;Pago;Loja Física
+2045;10/10/2025;159;20;2;22,90;5;Pix;Pago;Site
+2046;24/01/2026;200;22;5;11,90;;CARTÃO DE CRÉDITO;Pago;Loja Física
+2047;19/03/2026;138;21;6;6,90;;Cartão de Crédito  ;Pago;LOJA FÍSICA
+2048;14/05/2026;104;27;5;64,90;10;Pix;Pago;Site
+2049;16/09/2025;119;4;1;59,90;;Cartão de Débito;Pago;Loja Física
+2050;27/12/2025;94;27;6;64,90;;Boleto;Pago;Loja Física
+2051;19/01/2026;120;24;6;13,90;;Cartão de Crédito;Pago;Loja Física
+2052;20/08/2026;89;12;3;38,50;;Cartão de Crédito;Pago;Marketplace  
+2053;26/09/2025;161;13;1;35,90;10;Pix;Pendente;Loja Física
+2054;15/04/2025;65;26;6;79,90;;Cartão de Débito;;Site
+2055;09/09/2025;75;9;6;32,00;;Cartão de Crédito;Pago;Marketplace
+2056;07/02/2025;32;7;4;69,90;;Pix;Pago;Loja Física
+2057;25/03/2026;192;20;6;22,90;;Boleto;Pago; LOJA FÍSICA 
+2058;11/04/2025;102;14;6;27,90;10;Pix;Cancelado;Aplicativo
+2059;22/07/2025;110;18;5;14,90;;Boleto;Pago;Site
+2060;06/07/2026;55;14;1;27,90;;Cartão de Débito;Pago;loja física
+2061;14/11/2025;43;20;1;22,90;;Cartão de Crédito;Pago;Site
+2062;29/03/2026;197;8;3;54,90;15;Cartão de Débito;Pago;Marketplace
+2063;22/08/2025;94;25;0;24,90;15;Cartão de Crédito;Pendente;Loja Física
+2064;02/03/2026;61;17;2;9,90;10;Cartão de Crédito;Pago; APLICATIVO 
+2065;10/05/2025;173;28;5;89,90;;Boleto;Cancelado;Loja Física
+2066;16/05/2026;165;11;2;45,00;5;Cartão de Crédito;Pago;Aplicativo
+2067;22/01/2026;96;13;3;35,90;10;Pix;Pago;Loja Física
+2068;17/12/2025;22;4;5;59,90;;Pix;Pago;Loja Física
+2069;31/08/2026;56;2;2;199,90;;Cartão de Débito;Pago;Aplicativo
+2070;18/05/2025;43;29;3;14,90;;Boleto;Cancelado;Loja Física
+2071;03/02/2026;3;2;1;199,90;;Pix;Pago;Marketplace
+2072;10/05/2026;112;16;1;19,90;;Boleto;Pago;Loja Física
+2073;03/03/2026;48;1;4;129,90;; CARTÃO DE CRÉDITO ;Pago;Site
+2074;15/02/2025;58;22;3;11,90;15;Cartão de Crédito;Pago;Loja Física
+2075;15/02/2026;10;20;4;22,90;;Cartão de Crédito;Pago;Aplicativo
+2076;14/05/2026;166;30;3;29,90;;PIX;Pago;Site
+2077;13/04/2025;49;4;5;59,90;;Boleto  ;Pendente;Loja Física
+2078;12/02/2026;187;4;3;59,90;;Cartão de Débito;Pago;APLICATIVO
+2079;07/06/2026;117;14;5;27,90;;Cartão de Débito; PAGO ;Loja Física
+2080;26/03/2025;2;12;5;38,50;;Pix;Pago;Marketplace
+2081;20/12/2025;32;11;3;45,00;;Cartão de Débito;Pago;Marketplace
+2082;10/06/2026;163;5;5;99,90;5;Cartão de Crédito;pago;Loja Física
+2083;13/05/2026;180;20;4;22,90;;Pix;Pendente;Marketplace
+2084;05/01/2025;85;10;1;24,90;;Boleto;Pendente;Aplicativo
+2085;29/04/2025;194;19;3;27,90;5;Cartão de Crédito;Pago;Marketplace
+2086;25/08/2026;184;2;1;199,90;;Cartão de Crédito;Pago;Loja Física
+2087;07/03/2026;192;25;2;24,90;15;Cartão de Crédito;Pago;Marketplace
+2088;01/07/2026;12;9;3;32,00;5;Pix;Pago;Aplicativo
+2089;24/10/2025;42;18;1;14,90;;Pix;Pago;Marketplace
+2090;01/05/2025;27;19;6;27,90;;Pix;Pago;Site
+2091;03/06/2025;132;12;3;38,50;5;Cartão de Débito;Pago;Site
+2092;17/08/2026;3;11;3;45,00;5;Cartão de Crédito;Pago;Marketplace
+2093;22/02/2026;18;1;4;129,90;;Cartão de Crédito;Pago;Site
+2094;19/01/2026;120;28;4;89,90;;Cartão de Débito;Pendente;aplicativo
+2095;31/03/2026;18;16;4;19,90;10;Cartão de Débito  ;Pendente; MARKETPLACE 
+2096;07/07/2026;168;20;4;22,90;;Pix;Pago;Marketplace
+2097;14/10/2025;98;26;2;79,90;;Cartão de Débito;Pago;Aplicativo
+2098;03/01/2025;103;13;5;35,90;5;  Pix;Pago;Marketplace
+2099;09/05/2026;184;5;5;99,90;15;Pix;Pago;Loja Física
+2100;15/12/2025;63;27;5;64,90;;Pix;Pago;Aplicativo
+2101;27/06/2026;2;9;2;32,00;;Pix;Cancelado;  Loja Física
+2102;18/07/2026;136;26;1;79,90;10;Boleto;pendente;Loja Física
+2103;05/02/2025;24;5;2;99,90;5;Boleto;Pendente;Marketplace
+2104;22/06/2026;199;19;5;27,90;;Pix;Pago;Aplicativo
+2105;27/06/2025;148;9;2;32,00;15;Pix;Pago;LOJA FÍSICA
+2106;28/04/2026;2;8;2;54,90;;Pix;Pago;Site
+2107;04/01/2025;22;3;2;79,90;10;Cartão de Débito;Pago;Loja Física
+2108;26/02/2025;69;17;4;9,90;;Cartão de Crédito;Pago;Aplicativo
+2109;10/10/2025;44;12;2;38,50;15;Pix;Pago;Site
+2110;26/07/2025;4;11;3;45,00;5;Boleto;Cancelado;Marketplace
+2111;01/04/2025;67;7;4;69,90;;Cartão de Crédito;Pago; SITE 
+2112;08/04/2025;94;11;5;45,00;;Cartão de Crédito;Pago;Marketplace
+2113;14/05/2025;12;22;2;11,90;;Cartão de Débito;Pago;Site
+2114;03/10/2025;148;23;2;12,90;10;Cartão de Débito;;Site
+2115;16/01/2026;83;19;1;27,90;15;Pix;Cancelado;Site
+2116;09/12/2025;118;10;5;24,90;;  Cartão de Crédito;Pago;Loja Física
+2117;23/03/2025;133;27;2;64,90;5;  Pix;Pago;Marketplace
+2118;21/03/2026;182;30;4;29,90;15;Cartão de Crédito;Pago;Loja Física
+2119;19/04/2026;133;7;6;69,90;;Pix;Pendente;Site
+2120;14/02/2025;41;13;6;35,90;5;boleto;Pago;  Site
+2121;01/02/2025;185;5;3;99,90;;CARTÃO DE CRÉDITO;Pendente;Site
+2122;22/05/2025;33;14;2;27,90;;Pix;Pago  ;Aplicativo
+2123;02/03/2025;26;20;1;22,90;10;Pix;PAGO;Aplicativo
+2124;03/12/2025;108;6;4;6,50;5;BOLETO;Pago; SITE 
+2125;07/10/2025;115;26;2;79,90;15;Pix;Pago;Loja Física
+2126;08/05/2026;123;25;6;24,90;15;Boleto;Pago;Site
+2127;30/08/2025;104;6;4;6,50;;Pix; PAGO ;LOJA FÍSICA
+2128;16/11/2025;78;14;3;27,90;;Cartão de Crédito;Pago;Aplicativo
+2129;08/05/2025;103;22;1;11,90;5;CARTÃO DE CRÉDITO;Pago;Site
+2130;25/08/2025;176;28;3;89,90;5;  Cartão de Crédito;Pago;Aplicativo
+2131;26/04/2026;143;28;2;89,90;10;Pix;Pago;Aplicativo
+2132;15/12/2025;64;29;2;14,90;10;Cartão de Débito;cancelado;site
+2133;07/08/2026;138;5;3;99,90;;Pix;;Loja Física
+2134;12/09/2025;34;12;1;38,50;;PIX;Pago;Site
+2135;23/02/2025;70;16;1;19,90;;Pix;Cancelado;Loja Física
+2136;17/01/2026;23;10;1;24,90;;Pix;Pago;Marketplace
+2137;20/12/2025;6;3;5;79,90;;Cartão de Crédito;Pago;Site
+2138;25/05/2026;194;25;1;24,90;;Pix;Pendente;Site
+2139;09/09/2025;5;6;5;6,50;15;Cartão de Débito  ;PAGO;Aplicativo
+2140;15/05/2025;3;22;3;11,90;15;Cartão de Débito;Pago;Loja Física
+2141;03/01/2026;171;2;3;199,90;10;Cartão de Crédito;Pago;Loja Física
+2142;31/08/2026;10;23;4;12,90;;Pix;Cancelado;SITE
+2143;28/05/2026;143;24;2;13,90;;Cartão de Crédito;Pago;Marketplace
+2144;05/06/2026;122;4;4;59,90;10;Cartão de Crédito;Pago;Aplicativo
+2145;29/08/2026;98;30;5;29,90;;Boleto;Pago;Loja Física
+2146;02/01/2025;186;17;0;9,90;10;  Boleto;Pago;Site
+2147;30/01/2025;137;12;4;38,50;;Pix;Pago;Marketplace
+2148;21/12/2025;73;19;6;27,90;5;Cartão de Crédito;Pago;Loja Física
+2149;04/03/2026;116;19;1;27,90;;Pix;Pago;  Marketplace
+2150;16/02/2026;54;12;4;38,50;;Pix;Pago;Marketplace
+2151;24/12/2025;136;7;5;69,90;15;Boleto;Pago;Loja Física
+2152;12/04/2025;97;23;4;12,90;;Cartão de Crédito;Pago;Loja Física
+2153;16/04/2025;37;12;3;38,50;;  Cartão de Crédito;;Marketplace
+2154;02/02/2025;130;11;1;45,00;10;Cartão de Crédito;Cancelado;Site
+2155;05/05/2026;35;28;4;89,90;;Pix;  Pago;Loja Física
+2156;17/11/2025;41;22;1;11,90;5;Pix;Pago;Site
+2157;27/02/2026;81;9;1;32,00;;Cartão de Crédito;Pago;Site
+2158;08/06/2025;116;4;5;59,90;15;Pix;pago;  Loja Física
+2159;15/04/2025;48;2;3;199,90;;Pix;Pago;Loja Física
+2160;13/01/2025;87;30;5;29,90;;Cartão de Crédito;Pago;Aplicativo
+2161;10/10/2025;125;7;5;69,90;10;Cartão de Crédito;Pago;loja física
+2162;16/10/2025;78;16;4;19,90;;  Pix;Pago;Loja Física
+2163;29/08/2025;119;27;4;64,90;;PIX;Pago;Marketplace
+2164;05/05/2025;68;2;6;199,90;15;Pix;Pago;Site
+2165;29/05/2026;146;1;3;129,90;15;Cartão de Crédito;Pago;Aplicativo
+2166;27/05/2025;78;24;3;13,90;10;Cartão de Crédito;Pago;LOJA FÍSICA
+2167;13/06/2026;27;8;3;54,90;;Boleto;Pago;  Loja Física
+2168;29/04/2025;114;30;1;29,90;15;  Cartão de Crédito;Pago;Site
+2169;31/01/2026;117;19;6;27,90;;Pix;Pago;LOJA FÍSICA
+2170;09/05/2025;196;9;3;32,00;;Cartão de Crédito;Pago;  Loja Física
+2171;22/09/2025;159;1;2;129,90;10;Cartão de Crédito;Cancelado;Loja Física
+2172;23/10/2025;23;8;5;54,90;;Cartão de Débito;Pago;Loja Física
+2173;08/03/2025;180;8;2;54,90;10;Cartão de Crédito;Pago;SITE
+2174;30/10/2025;105;3;1;79,90;15;Pix;Pago;Site
+2175;04/11/2025;144;2;3;199,90;;Cartão de Débito;Cancelado;Site
+2176;20/04/2025;7;17;1;9,90;;Boleto;Pendente;Aplicativo
+2177;22/07/2025;52;25;2;24,90;15; BOLETO ;PAGO;Site
+2178;25/01/2025;44;25;4;24,90;;Pix;Cancelado;Aplicativo
+2179;16/06/2026;78;19;4;27,90;10;Cartão de Crédito;Pago;Loja Física
+2180;05/08/2025;187;8;5;54,90;;Pix;Pago;Aplicativo
+2181;23/12/2025;55;23;5;12,90;10; PIX ;Pago;Aplicativo
+2182;08/06/2025;70;15;2;34,90;5;Cartão de Crédito;Pendente;Loja Física
+2183;07/09/2025;160;18;3;14,90;;Cartão de Débito;Pago;SITE
+2184;09/05/2026;156;30;2;29,90;;CARTÃO DE CRÉDITO;Pago;site
+2185;05/05/2025;100;27;3;64,90;;Pix;Pago;Site
+2186;30/08/2026;137;29;3;14,90;10;  Cartão de Crédito;Pago;Site
+2187;14/09/2025;170;16;1;19,90;;Cartão de Crédito; PAGO ;Marketplace
+2188;26/02/2025;85;24;5;13,90;;Cartão de Crédito;Pago;Loja Física
+2189;01/12/2025;109;26;1;79,90;;Cartão de Crédito;Pago;Site
+2190;31/03/2025;60;25;6;24,90;;Pix;Pago;Aplicativo
+2191;22/02/2025;196;28;3;89,90;10;Cartão de Crédito;Pago;Site
+2192;26/09/2025;136;5;2;99,90;;Cartão de Crédito;Pago;Marketplace
+2193;22/05/2025;33;14;3;27,90;;Cartão de Débito;pago;Loja Física
+2194;08/05/2026;99;3;5;79,90;;Cartão de Crédito;Pago;Aplicativo
+2195;02/09/2025;109;14;3;27,90;5;Pix;Pago;Loja Física
+2196;11/03/2025;183;14;0;27,90;5;Cartão de Crédito;Pago;Loja Física
+2197;29/06/2025;98;5;6;99,90;5;Pix;Pago;Site
+2198;01/03/2026;195;28;2;89,90;;Pix;Pago;Marketplace
+2199;04/06/2026;29;24;6;13,90;15;  Boleto;Pago;  Loja Física
+2200;06/05/2026;22;1;5;129,90;15;Pix;Pago;Aplicativo
+2201;09/05/2026;136;25;6;24,90;;  Boleto;Pago;  Aplicativo
+2202;11/02/2026;102;13;2;35,90;10;  Pix;Pago;Loja Física
+2203;17/05/2026;120;6;5;6,50;15;Pix;Pago;Site
+2204;01/08/2026;165;12;4;38,50;15;Pix;Pago;loja física
+2205;20/04/2026;111;13;;35,90;;Pix;Pago;Aplicativo
+2206;13/09/2025;9;7;1;69,90;10;Boleto;Pago;Loja Física
+2207;25/06/2025;29;21;5;6,90;;Cartão de Débito;Pago;Loja Física
+2208;25/10/2025;140;15;2;34,90;;pix; CANCELADO ;  Site
+2209;14/06/2025;126;5;5;99,90;5;Cartão de Crédito;Pago; SITE 
+2210;20/01/2025;5;24;6;13,90;;CARTÃO DE DÉBITO;Pago;Aplicativo
+2211;18/02/2025;4;23;2;12,90;;Cartão de Crédito;pendente;Loja Física
+2212;06/10/2025;175;21;5;6,90;;Cartão de Débito;Pago;Site
+2213;28/07/2026;8;19;1;27,90;15;Cartão de Crédito;Pago;Loja Física
+2214;09/11/2025;3;29;4;14,90;;  Pix;Pago;Loja Física
+2215;01/02/2025;176;13;1;35,90;5;Pix;Pago;Loja Física
+2216;27/02/2026;178;21;1;6,90;;Cartão de Crédito;Pago;LOJA FÍSICA
+2217;02/03/2026;26;21;5;6,90;10;Cartão de Crédito;Pago;Loja Física
+2218;20/07/2026;13;6;6;6,50;;Cartão de Crédito;Pago;Site
+2219;10/11/2025;128;8;3;54,90;;Pix;Pago;Loja Física
+2220;29/11/2025;82;25;1;24,90;5;Cartão de Crédito;Pendente;Aplicativo
+2221;29/06/2026;151;6;4;6,50;;  Boleto;Pago;Site
+2222;19/03/2026;18;1;6;129,90;15;Cartão de Débito;Pago;Loja Física
+2223;30/10/2025;170;29;2;14,90;10;Pix;  Pago;Site
+2224;12/07/2025;1105;15;4;34,90;5;Cartão de Débito;Cancelado;Aplicativo
+2225;17/04/2025;23;5;4;99,90;;Pix;Pago;Site
+2226;21/06/2025;47;15;1;34,90;;Cartão de Débito;Pago;Site
+2227;14/03/2025;34;1;5;129,90;10;Cartão de Crédito;Pago;Site
+2228;10/09/2025;188;22;4;11,90;15;Cartão de Crédito;Pendente;Marketplace
+2229;08/02/2026;13;5;4;99,90;15;Cartão de Débito;Pendente;Site
+2230;29/07/2026;158;17;6;9,90;5;Pix;Pago;Aplicativo
+2231;06/08/2026;3;19;4;27,90;10;Pix;Pago;Site
+2232;19/04/2026;176;28;6;89,90;10;Cartão de Crédito;Pago;Loja Física
+2233;19/05/2025;99;15;4;34,90;10;Cartão de Débito;Pago;Loja Física
+2234;23/09/2025;64;12;5;38,50;;Cartão de Crédito;Pago;Site
+2235;10/08/2026;110;21;6;6,90;;Cartão de Crédito;Pago;Loja Física
+2236;04/05/2026;135;11;4;45,00;;Boleto;Pago;Loja Física
+2237;23/04/2026;120;23;2;12,90;;Pix;Pago;Loja Física
+2238;15/07/2025;51;21;0;6,90;10;Cartão de Crédito;pago;Site
+2239;11/07/2025;58;11;2;45,00;;Cartão de Débito;Pago;Aplicativo
+2240;05/12/2025;31;7;2;69,90;;Cartão de Crédito;Pago;loja física
+2241;04/12/2025;9;8;3;54,90;5;Pix;Pago;Aplicativo
+2242;17/03/2025;50;2;2;199,90;;Boleto;Pago;Site
+2243;13/09/2025;170;16;4;19,90;5;Pix;Pago;Aplicativo
+2244;07/06/2025;44;27;4;64,90;15;Pix;Pago;Aplicativo
+2245;12/09/2025;172;12;4;38,50;;Boleto;Pago;Marketplace
+2246;07/01/2025;128;2;2;199,90;;Cartão de Crédito;Pago;Loja Física
+2247;14/08/2026;186;8;6;54,90;5;Pix;Pago;Loja Física
+2248;26/05/2025;109;24;2;13,90;5;Pix;Pago;Loja Física
+2249;08/02/2025;111;11;6;45,00;10;Boleto;Pago;Loja Física
+2250;16/09/2025;80;4;2;59,90;5;Pix;Pago;loja física
+2251;25/08/2025;151;24;1;13,90;10;Cartão de Crédito;Pago;Loja Física
+2252;18/08/2025;7;26;6;79,90;;Pix;Pago;Marketplace
+2253;14/10/2025;47;5;2;99,90;;Cartão de Débito;Pago;Loja Física
+2254;05/03/2025;103;18;4;14,90;;Pix;Pendente;Aplicativo
+2255;26/10/2025;67;3;2;79,90;;Cartão de Crédito;Pago;Loja Física
+2256;13/03/2026;68;16;;19,90;;Pix;Pago;Marketplace
+2257;22/05/2026;141;15;2;34,90;5;Pix;Pago;Aplicativo
+2258;21/03/2026;23;11;4;45,00;;Boleto;Pago;Marketplace
+2259;09/06/2026;38;10;2;24,90;;Cartão de Crédito  ;Pago;site
+2260;09/12/2025;100;28;4;89,90;10;Cartão de Crédito;pago;Loja Física
+2261;15/08/2026;95;21;4;6,90;10;Pix;Cancelado;Marketplace
+2262;18/01/2026;173;25;3;24,90;10;Pix;Pago;Loja Física
+2263;03/01/2025;180;20;5;22,90;;Cartão de Crédito;Pago;Aplicativo
+2264;16/04/2025;186;29;1;14,90;;Cartão de Crédito;Pago;Loja Física
+2265;05/06/2025;166;19;3;27,90;;Cartão de Crédito;Pago; LOJA FÍSICA 
+2266;24/05/2026;143;30;1;29,90;10;Pix;PAGO;Loja Física
+2267;29/06/2025;9;19;4;27,90;;Pix;Pago;Marketplace
+2268;08/12/2025;164;20;5;22,90;;Cartão de Débito;Pago;Aplicativo
+2269;22/09/2025;172;10;3;24,90;10;Pix;Pago;Loja Física
+2270;11/01/2026;24;7;4;69,90;;Pix;Cancelado;Aplicativo
+2271;04/04/2026;98;26;4;79,90;5;Pix;Pago;Marketplace
+2272;05/11/2025;154;11;3;45,00;10;Pix;Pago;Aplicativo
+2273;05/08/2025;87;3;3;79,90;5;Cartão de Crédito;  Pago;Site
+2274;22/09/2025;96;1;5;129,90;15;Pix  ;Pago;Loja Física
+2275;14/03/2025;137;3;6;79,90;;Cartão de Crédito;Pendente;Site
+2276;14/08/2026;106;11;5;45,00;;Cartão de Crédito;Pago;Site
+2277;10/02/2025;40;21;3;6,90;;Cartão de Crédito;;Loja Física
+2278;31/10/2025;140;16;6;19,90;15;Pix;Pago;Marketplace
+2279;16/10/2025;121;18;1;14,90;10;Pix;Pago;loja física
+2280;15/07/2026;65;19;2;27,90;10;Cartão de Crédito;Cancelado;loja física
+2281;28/05/2025;160;16;3;19,90;15;Cartão de Débito;Pago;Aplicativo
+2282;22/06/2026;119;17;5;9,90;;Pix;Pago;Marketplace
+2283;20/05/2025;185;3;2;79,90;5;Boleto;Pago;  Marketplace
+2284;07/03/2025;179;20;4;22,90;5;Pix;Pago;  Site
+2285;09/03/2026;185;27;5;64,90;15;Cartão de Crédito;Pago;Loja Física
+2286;05/03/2025;120;18;4;14,90;;Cartão de Crédito;Pago;Loja Física
+2287;03/11/2025;62;8;1;54,90;;Pix;Pago;Loja Física
+2288;15/06/2025;73;21;6;6,90;;Cartão de Crédito;Pago;Marketplace
+2289;19/05/2026;140;4;2;59,90;15;Pix;Pago;Aplicativo
+2290;07/06/2026;85;14;1;27,90;5;Cartão de Crédito;Pendente;Aplicativo
+2291;30/06/2025;87;17;1;9,90;;Pix;Pendente;Aplicativo
+2292;07/10/2025;100;19;1;27,90;5;Boleto;Pago;Loja Física
+2293;06/02/2025;85;6;6;6,50;;pix;Cancelado;Loja Física
+2294;03/08/2025;191;18;4;14,90;;Boleto;Pago;Site
+2295;13/07/2026;100;10;2;24,90;;Cartão de Crédito;Pendente;Loja Física
+2296;03/06/2025;2;17;4;9,90;5;Boleto;Cancelado;Aplicativo
+2297;16/08/2025;69;3;0;79,90;10;Cartão de Crédito;Pago;Marketplace
+2298;13/05/2025;116;12;4;38,50;;Cartão de Crédito;  Pendente;Loja Física
+2299;19/04/2026;57;23;5;12,90;10;Cartão de Crédito;Pago;Loja Física
+2300;06/06/2025;85;15;1;34,90;;Pix;Pago;Aplicativo
+2301;09/02/2025;76;8;5;54,90;;Pix;Pendente; MARKETPLACE 
+2302;17/04/2026;60;14;6;27,90;5;Pix;Pago;  Site
+2303;27/05/2026;192;17;6;9,90;;Pix;Pago;Loja Física
+2304;25/03/2026;8;10;5;24,90;;Cartão de Crédito;Pago;Aplicativo
+2305;13/06/2025;108;11;5;45,00;;Pix;Pago;Site
+2306;08/09/2025;148;3;2;79,90;5; PIX ;Pago;Marketplace
+2307;25/11/2025;141;18;2;14,90;15;BOLETO;Pago;Site
+2308;22/01/2025;34;15;3;34,90;10;Cartão de Crédito;Pago;Site
+2309;19/04/2026;179;30;4;29,90;5;Cartão de Crédito;Pago;Loja Física
+2310;03/09/2025;177;19;3;27,90;10;Pix;Pago;Site
+2311;14/06/2025;177;12;3;38,50;;Pix;Pago;Loja Física
+2312;18/03/2025;101;15;6;34,90;10;Pix;Pago;  Aplicativo
+2313;29/07/2025;11;16;3;19,90;15;Cartão de Débito  ;Pago;Marketplace
+2314;28/02/2025;49;1;5;129,90;15;Cartão de Crédito;Pago;aplicativo
+2315;27/06/2025;150;24;3;13,90;;Boleto;Pago;Aplicativo
+2316;19/07/2026;10;19;3;27,90;;Cartão de Crédito;Pago;Site
+2317;16/09/2025;23;2;6;199,90;;Cartão de Débito;Pendente;Loja Física
+2318;27/04/2025;53;3;5;79,90;15;Pix;Pago;Loja Física
+2319;19/03/2026;178;12;4;38,50;;Cartão de Débito;Pago;Loja Física
+2320;19/06/2025;159;27;2;64,90;;Cartão de Débito;;Site
+2321;16/06/2025;159;2;1;199,90;5; BOLETO ;Pendente;Aplicativo
+2322;10/08/2026;28;22;4;11,90;10;Cartão de Crédito;Pago;Loja Física
+2323;07/04/2025;114;11;4;45,00;;Pix;Pago;  Site
+2324;29/03/2025;3;30;6;29,90;15;Cartão de Crédito;Cancelado; LOJA FÍSICA 
+2325;25/04/2025;62;26;4;79,90;10;Pix;Pago;Marketplace
+2326;20/03/2025;66;26;3;79,90;5;Cartão de Crédito;Pago  ;Site
+2327;19/03/2025;97;5;3;99,90;15;CARTÃO DE CRÉDITO;Pago;Aplicativo
+2328;26/02/2025;81;17;6;9,90;15;Cartão de Débito;Pago;Marketplace
+2329;11/03/2026;103;25;5;24,90;15; CARTÃO DE CRÉDITO ;Pendente;Site
+2330;21/05/2025;197;27;4;64,90;;Pix;PAGO;Aplicativo
+2331;09/03/2025;71;27;1;64,90;10;Pix;Pago;Loja Física
+2332;20/10/2025;179;1;4;129,90;5;Cartão de Crédito;Pago;Aplicativo
+2333;26/05/2025;135;11;5;45,00;15;Cartão de Débito;Pago;Loja Física
+2334;05/08/2025;159;11;6;45,00;15;Pix;Pago;Loja Física
+2335;23/05/2026;139;10;5;24,90;5;Boleto;Pago;Site
+2336;22/09/2025;178;21;2;6,90;;Cartão de Crédito;;Site
+2337;30/09/2025;26;29;3;14,90;;Pix;Pago  ;Loja Física
+2338;24/09/2025;92;12;2;38,50;5;Pix;  Pago;Loja Física  
+2339;24/01/2026;18;6;5;6,50;;Cartão de Crédito;Pago  ;Marketplace
+2340;23/01/2025;86;29;4;14,90;;Pix;Pago;Site
+2341;19/09/2025;200;24;4;13,90;15;Boleto;  Pago;Aplicativo
+2342;13/12/2025;146;29;6;14,90;;Cartão de Crédito;pago;Marketplace
+2343;24/05/2026;199;3;5;79,90;;Boleto;Pago;Site
+2344;01/04/2026;191;22;2;11,90;15;Cartão de Débito;Pago;Site
+2345;07/04/2026;6;28;1;89,90;15;Cartão de Crédito;Pago;  Site
+2346;23/09/2025;193;2;5;199,90;15;Boleto;Pago;Site
+2347;07/03/2026;45;7;6;69,90;15;Cartão de Crédito;Pago;Site
+2348;19/10/2025;157;4;3;59,90;10;Pix;Pago;Aplicativo
+2349;22/03/2026;34;25;6;24,90;;Pix;Pago;Loja Física
+2350;05/10/2025;79;24;6;13,90;;Cartão de Crédito;Pago;Loja Física
+2351;22/08/2025;42;11;6;45,00;;Pix;Pago;Aplicativo
+2352;16/04/2025;33;22;1;11,90;10;Cartão de Crédito;Pago;Site
+2353;03/08/2026;78;24;6;13,90;5;Pix;Pendente;Loja Física
+2354;09/07/2026;52;21;2;6,90;10;Pix;Pago;Site
+2355;02/08/2025;13;13;6;35,90;;Cartão de Crédito;Cancelado;Site
+2356;08/03/2025;135;4;1;59,90;15;Boleto; PAGO ;Aplicativo
+2357;29/04/2025;107;30;6;29,90;;Pix;Pago;Site
+2358;14/04/2026;93;4;5;59,90;15;Pix;Pago;Marketplace
+2359;11/12/2025;182;24;6;13,90;;Pix;Pago;Marketplace
+2360;28/07/2026;31;27;6;64,90;10;Pix;Pago; LOJA FÍSICA 
+2361;10/05/2026;147;27;1;64,90;5;Pix;Pago;Aplicativo  
+2362;08/08/2026;166;12;6;38,50;;Cartão de Crédito;Pago;Aplicativo
+2363;29/04/2026;3;4;0;59,90;15;Cartão de Débito;Pago;Site
+2364;03/03/2026;183;16;5;19,90;10;Cartão de Débito;Pago;LOJA FÍSICA
+2365;22/03/2026;126;19;5;27,90;10;Pix;Pago;Aplicativo
+2366;03/10/2025;88;12;1;38,50;;Pix  ;Pago; APLICATIVO 
+2367;26/05/2026;123;17;2;9,90;5;Pix;Pago;Loja Física
+2368;20/08/2025;15;5;2;99,90;;Pix;Pago;Marketplace
+2369;03/02/2025;119;30;3;29,90;15;Cartão de Débito;;Aplicativo
+2370;02/06/2025;70;8;3;54,90;;Pix;  Pago;Aplicativo
+2371;02/01/2026;54;25;6;24,90;;Cartão de Crédito;Cancelado;Loja Física  
+2372;30/12/2025;179;8;2;54,90;;Pix;Pago;Site
+2373;17/08/2026;54;27;2;64,90;;Pix;Pago;Aplicativo
+2374;04/02/2025;53;23;;12,90;10;Cartão de Crédito;Pago;Marketplace
+2375;01/07/2026;72;4;6;59,90;;Pix;  Pendente;Site
+2376;21/06/2026;182;21;1;6,90;10;Cartão de Crédito;Pago;Loja Física
+2377;31/01/2026;76;19;6;27,90;;Cartão de Débito;Pago;  Aplicativo
+2378;11/06/2025;112;16;6;19,90;;Pix;Pago  ;Loja Física
+2379;16/05/2025;135;20;4;22,90;5;Pix; PAGO ;Site
+2380;24/03/2025;178;15;6;34,90;;Pix;Pendente;Site
+2381;31/01/2025;33;22;4;11,90;;Pix;Pago;Aplicativo
+2382;01/11/2025;127;21;6;6,90;;Cartão de Crédito;Pago;Site
+2383;01/01/2025;60;8;2;54,90;5;Pix;Pago;Site
+2384;29/03/2026;76;11;3;45,00;;Cartão de Crédito;Pago;Site
+2385;25/11/2025;191;30;5;29,90;;Cartão de Crédito;Pago;SITE
+2386;04/04/2025;5;17;4;9,90;10;Pix;Pago;Loja Física
+2387;18/04/2026;53;8;6;54,90;10;Cartão de Crédito;Pago;Loja Física
+2388;05/02/2026;2;15;3;34,90;15; PIX ; PAGO ;Site
+2389;07/06/2025;106;24;1;13,90;;Pix;Pago;Site
+2390;14/10/2025;24;23;2;12,90;;Boleto;Pago;site
+2391;10/01/2026;164;16;1;19,90;5;Pix;Pago;Aplicativo
+2392;21/05/2026;55;14;4;27,90;10;Boleto;Pago;  Site
+2393;24/03/2026;89;5;5;99,90;;Cartão de Crédito;Pago;Loja Física
+2394;01/04/2026;71;3;5;79,90;;Cartão de Débito;Pago;Site
+2395;03/06/2025;62;7;5;69,90;;Cartão de Crédito;Pago;Aplicativo
+2396;02/11/2025;199;26;5;79,90;15;Pix;Pago;Loja Física
+2397;01/06/2026;116;6;1;6,50;;Pix;Pago;Marketplace
+2398;02/03/2025;55;10;4;24,90;;Cartão de Crédito;Pendente;Aplicativo
+2399;29/04/2025;87;22;6;11,90;;Boleto;Pago;Aplicativo
+2400;13/03/2025;164;12;5;38,50;5;  Boleto; PAGO ;Site
+2401;15/02/2026;1;12;2;38,50;;Cartão de Débito;Pago;Loja Física
+2402;16/06/2026;3;6;5;6,50;;Boleto;  Pendente;Aplicativo
+2403;03/04/2025;154;4;5;59,90;;Cartão de Crédito;Pago  ;Site
+2404;31/08/2026;57;2;3;199,90;15;Boleto;Pago;Site
+2405;01/06/2025;153;16;1;19,90;15;Pix;Pago;Marketplace
+2406;09/03/2026;22;23;3;12,90;;Boleto;Pendente;Loja Física
+2407;29/09/2025;11;19;3;27,90;10;Pix;Pago;Marketplace  
+2408;05/04/2026;66;16;3;19,90;5;Pix;pago;Marketplace
+2409;02/02/2026;152;24;2;13,90;15;  Pix;Pago; LOJA FÍSICA 
+2410;05/05/2025;171;14;1;27,90;10;Pix;Pago;Loja Física
+2411;01/01/2026;150;28;5;89,90;15;Cartão de Crédito;Pago;marketplace
+2412;17/03/2026;143;8;1;54,90;10;Cartão de Crédito;Pago;Aplicativo
+2413;19/02/2026;141;29;5;14,90;;Boleto;Pago;LOJA FÍSICA
+2414;08/10/2025;199;27;2;64,90;;Boleto;Pago;Loja Física
+2415;27/05/2026;27;26;4;79,90;;Pix;Pendente;Loja Física
+2416;12/01/2025;152;9;3;32,00;10;Cartão de Débito;Pago;marketplace
+2417;14/08/2025;176;23;4;12,90;5;Cartão de Crédito;Pago;Aplicativo
+2418;17/01/2025;75;5;5;99,90;5;Pix;Pago;Site
+2419;20/02/2026;193;11;2;45,00;;Cartão de Crédito;Pago;  Loja Física
+2420;28/10/2025;173;16;2;19,90;10;Pix;Pago;Loja Física
+2421;28/03/2025;31;22;4;11,90;15; PIX ;Pago;Loja Física
+2422;16/07/2026;153;20;5;22,90;10;Boleto;Pago;Loja Física
+2423;30/10/2025;12;13;2;35,90;;Pix;Pago;Marketplace
+2424;15/12/2025;39;23;2;12,90;;Cartão de Débito; PAGO ;Loja Física
+2425;04/07/2025;28;27;5;64,90;;boleto;  Pago;Marketplace
+2426;06/10/2025;96;11;2;45,00;;Pix;Pago;Loja Física
+2427;29/03/2025;38;8;2;54,90;5;Pix;Pago;Aplicativo
+2428;06/07/2026;125;9;6;32,00;5;Pix;Pago;Loja Física
+2429;08/11/2025;12;15;4;34,90;15;Pix;Pago;Site
+2430;14/06/2026;21;7;4;69,90;5;PIX;Pago;Site
+2431;22/03/2026;56;10;2;24,90;10;Pix;Pago;Loja Física
+2432;20/06/2026;137;12;2;38,50;;Pix;Pago;Site
+2433;30/04/2025;18;10;6;24,90;;Boleto;Pago;Site
+2434;11/07/2025;131;8;3;54,90;;Pix;Pago;Site
+2435;23/05/2026;77;13;6;35,90;;Cartão de Crédito;Pago;Aplicativo  
+2436;04/02/2026;143;11;2;45,00;;cartão de crédito;Pago;Loja Física
+2437;27/09/2025;57;16;3;19,90;;Cartão de Crédito  ;  Cancelado;Site
+2438;16/11/2025;70;28;5;89,90;;Pix;Pago;Site
+2439;18/08/2026;116;22;3;11,90;;Cartão de Crédito;Pago;Loja Física
+2440;24/05/2026;94;24;2;13,90;10;Cartão de Crédito;Pago;Aplicativo
+2441;09/06/2026;104;24;5;13,90;;Boleto;Pago;Loja Física
+2442;13/08/2025;132;19;2;27,90;;Cartão de Crédito;Pago;Marketplace
+2443;28/09/2025;143;4;2;59,90;;Boleto;Pago;  Loja Física
+2444;23/07/2026;119;24;6;13,90;;Cartão de Crédito;Pago;Loja Física  
+2445;13/01/2025;1;13;4;35,90;10;Boleto;Cancelado;Loja Física
+2446;06/07/2026;33;28;2;89,90;;Cartão de Crédito;Cancelado;Site
+2447;17/05/2025;110;18;2;14,90;;Cartão de Crédito;Pago;Marketplace
+2448;20/06/2025;170;24;3;13,90;15;Pix;Cancelado;Site
+2449;28/09/2025;53;18;3;14,90;;Cartão de Crédito;Pago; MARKETPLACE 
+2450;07/06/2025;67;22;3;11,90;;Pix;Pago;Site
+2451;19/08/2025;97;16;6;19,90;;Cartão de Crédito;Pago  ;Aplicativo
+2452;17/01/2026;147;30;3;29,90;;Pix;Pago;Aplicativo
+2453;24/05/2026;46;7;4;69,90;;Pix;Pago;Site
+2454;02/04/2025;125;12;5;38,50;;  Boleto;Pago;Aplicativo
+2455;19/05/2026;34;18;6;14,90;;Pix;Pago;Site
+2456;19/04/2025;86;12;1;38,50;;  Cartão de Crédito;Pago;Loja Física
+2457;14/01/2025;23;16;5;19,90;;Cartão de Débito;Pago;Aplicativo
+2458;08/08/2026;23;27;3;64,90;;Boleto;;Site
+2459;25/08/2025;100;13;4;35,90;;Pix  ;pago;Aplicativo
+2460;01/02/2026;146;14;3;27,90;5;Cartão de Crédito;Pago;Site
+2461;31/03/2026;159;4;6;59,90;;Pix;Pago;Loja Física
+2462;27/05/2026;53;10;6;24,90;10;Cartão de Débito;Pago;Loja Física
+2463;18/07/2026;108;14;5;27,90;15;Pix;Pago;Aplicativo
+2464;29/08/2026;76;12;5;38,50;15;Pix;Cancelado;Marketplace
+2465;10/02/2026;127;29;4;14,90;10;Cartão de Crédito;Pago;Site
+2466;01/02/2026;99;26;3;79,90;5;Pix;Pago;  Site
+2467;16/09/2025;82;27;6;64,90;10;Pix;Pago;Aplicativo
+2468;21/06/2026;157;16;2;19,90;;Pix;Pago;Loja Física  
+2469;09/05/2026;135;26;3;79,90;;Pix;Pendente;Site
+2470;24/01/2026;78;19;2;27,90;10;Cartão de Crédito;Pago;Aplicativo
+2471;27/12/2025;1;15;2;34,90;10;Cartão de Débito;Pago;Aplicativo
+2472;05/01/2026;133;11;1;45,00;;Cartão de Débito;Pago;Loja Física
+2473;08/02/2026;111;30;4;29,90;10;Pix;Pago;Loja Física
+2474;31/05/2025;14;27;5;64,90;10;Boleto;Pago;Loja Física
+2475;01/07/2026;29;1;2;129,90;10;Cartão de Débito;Pago;Marketplace
+2476;21/07/2025;61;29;4;14,90;15;Cartão de Débito;Pago;Loja Física
+2477;28/08/2026;54;28;6;89,90;15;Pix;Pago;Aplicativo
+2478;18/02/2026;136;22;2;11,90;;Pix;PAGO;Site
+2479;02/09/2025;185;18;6;14,90;;Boleto;Cancelado;Loja Física
+2480;15/04/2025;180;9;3;32,00;10;Boleto;Pago;Site
+2481;17/05/2026;149;1;3;129,90;;Cartão de Débito;Pago;Aplicativo
+2482;11/04/2026;136;29;1;14,90;;Cartão de Débito;Pago;Site
+2483;19/04/2026;55;7;1;69,90;;Boleto;Pago;Aplicativo
+2484;11/01/2025;49;29;3;14,90;;Cartão de Débito;Pago;Loja Física
+2485;16/06/2026;84;13;3;35,90;10;Cartão de Crédito;Cancelado;Marketplace
+2486;25/08/2026;56;18;5;14,90;;Pix;Pendente;Site
+2487;25/02/2025;32;14;1;27,90;10;Pix;Pago; LOJA FÍSICA 
+2488;19/06/2025;63;22;5;11,90;;Cartão de Débito;;loja física
+2489;09/10/2025;16;1;4;129,90;15;Pix;Pago; LOJA FÍSICA 
+2490;23/01/2025;75;12;2;38,50;;Pix;Cancelado;Aplicativo
+2491;05/11/2025;136;23;4;12,90;15;Pix;Pago;  Marketplace
+2492;03/01/2026;114;10;5;24,90;15;Cartão de Débito;Pago;Site
+2493;02/12/2025;61;24;2;13,90;5;Cartão de Débito;pago;Site
+2494;15/05/2025;151;7;5;69,90;;  Cartão de Débito;Pago;Site
+2495;23/03/2025;87;22;4;11,90;;Cartão de Crédito;Pago;Loja Física
+2496;10/04/2026;100;24;5;13,90;;Cartão de Crédito;Pago;Aplicativo
+2497;01/02/2025;131;10;5;24,90;5;Pix;Pendente;Loja Física
+2498;05/01/2026;89;11;1;45,00;15;Pix;Pendente;Loja Física
+2499;18/05/2025;170;17;5;9,90;;Cartão de Crédito;Pago;Aplicativo
+2500;18/10/2025;182;16;4;19,90;;Pix;  Pago;Aplicativo
+2501;05/03/2025;182;8;4;54,90;;Cartão de Débito;;Site
+2502;29/09/2025;185;27;3;64,90;15;Cartão de Débito; PAGO ;Loja Física
+2503;18/12/2025;8;28;4;89,90;;Cartão de Débito;Pago;  Aplicativo
+2504;10/05/2026;102;4;2;59,90;;  Pix;Cancelado;Marketplace
+2505;20/02/2025;15;7;3;69,90;;Pix;Pendente;Aplicativo
+2506;11/07/2025;32;20;3;22,90;;Boleto;Pago;Loja Física
+2507;01/03/2026;131;30;6;29,90;;Cartão de Crédito;Cancelado;Loja Física
+2508;22/02/2025;76;24;5;13,90;;  Pix;Pago;Site
+2509;05/02/2026;143;3;6;79,90;;Cartão de Débito;Pago;Marketplace
+2510;15/06/2026;130;22;6;11,90;5;Pix;Pago;Loja Física
+2511;29/07/2025;45;25;5;24,90;;Pix;pago;Aplicativo
+2512;13/02/2025;48;23;2;12,90;;Cartão de Crédito;Pago;Site
+2513;18/10/2025;116;21;1;6,90;5;Pix;Pago;Site
+2514;11/07/2026;60;29;3;14,90;;  Cartão de Crédito;Pago;Aplicativo
+2515;31/01/2025;66;16;3;19,90;;Cartão de Crédito;Pago;Loja Física
+2516;02/12/2025;133;27;4;64,90;;Cartão de Crédito;Pago;Marketplace
+2517;10/11/2025;66;19;2;27,90;;Cartão de Débito;Pago;Site
+2518;28/05/2025;51;3;3;79,90;5;Pix;Pago;Aplicativo
+2519;27/08/2026;100;1;5;129,90;;Cartão de Crédito;Pago; MARKETPLACE 
+2520;20/05/2025;69;6;2;6,50;;CARTÃO DE CRÉDITO;Pago;Loja Física
+2521;28/07/2025;132;18;3;14,90;;Cartão de Crédito;Pago;Site
+2522;22/08/2026;99;17;2;9,90;10;Cartão de Débito;Pago;Site
+2523;17/04/2026;129;27;6;64,90;;  Cartão de Crédito;Cancelado;Aplicativo  
+2524;28/09/2025;55;21;6;6,90;;Boleto;Pago  ;Loja Física
+2525;04/03/2025;75;12;2;38,50;;Pix;Pago;Loja Física
+2526;12/08/2026;24;28;3;89,90;5;Boleto;Pago;Loja Física
+2527;15/07/2026;82;12;6;38,50;;Cartão de Crédito;Pago;Marketplace
+2528;25/02/2026;182;23;5;12,90;;Pix;Pendente;Aplicativo
+2529;02/06/2026;158;5;2;99,90;;Cartão de Crédito;pago;  Loja Física
+2530;30/10/2025;149;12;4;38,50;15;Cartão de Débito;Pago;LOJA FÍSICA
+2531;26/04/2025;75;23;2;12,90;;Pix;Pago;Loja Física
+2532;11/01/2026;32;1;6;129,90;; PIX ;Pago;Marketplace
+2533;25/07/2025;118;4;4;59,90;;Pix;Pago;Loja Física
+2534;03/07/2025;106;3;5;79,90;;Cartão de Crédito;pago;Loja Física  
+2535;10/04/2026;84;12;3;38,50;;Pix;Pago;Marketplace
+2536;18/11/2025;29;13;6;35,90;;Pix;Pago;Aplicativo
+2537;23/11/2025;119;30;4;29,90;;Cartão de Débito; PAGO ;Loja Física
+2538;09/01/2026;49;28;6;89,90;5;Cartão de Débito;Pago;Loja Física
+2539;25/03/2025;108;9;5;32,00;;Cartão de Crédito  ;Pago;Loja Física
+2540;29/09/2025;106;23;5;12,90;10;Cartão de Crédito;Pago;LOJA FÍSICA
+2541;08/03/2025;83;5;6;99,90;10;Pix;Pago;Loja Física
+2542;03/03/2026;52;7;3;69,90;15;Pix;Pago;Site
+2543;16/10/2025;31;15;6;34,90;;Cartão de Débito;Pago;Site
+2544;04/10/2025;113;5;1;99,90;;Pix;Pago;Marketplace
+2545;02/08/2026;191;29;6;14,90;;Pix;Pago;Site
+2546;07/04/2025;127;15;4;34,90;10;Pix;Pago;Loja Física
+2547;27/03/2025;199;2;6;199,90;;Cartão de Crédito;Pago;Aplicativo
+2548;21/09/2025;186;7;4;69,90;;Pix;Pago;Site
+2549;27/07/2025;95;28;3;89,90;;Pix;Cancelado;Site
+2550;25/11/2025;109;19;3;27,90;;Cartão de Crédito;Pendente;Site
+2551;28/01/2026;190;14;1;27,90;15;Boleto  ;Cancelado;Marketplace
+2552;04/01/2025;151;1;5;129,90;10;Pix;Pago;Aplicativo  
+2553;20/02/2026;171;2;1;199,90;;Cartão de Crédito;Cancelado;Aplicativo
+2554;28/03/2025;72;15;4;34,90;10;Cartão de Crédito  ;Pendente; MARKETPLACE 
+2555;15/02/2026;79;11;4;45,00;;Pix;Pago;Loja Física
+2556;21/06/2025;39;13;6;35,90;;Pix;Pago;Marketplace
+2557;17/10/2025;188;8;6;54,90;5;Cartão de Débito;Cancelado;Loja Física
+2558;03/03/2026;164;14;4;27,90;;Pix;Pendente;Aplicativo
+2559;07/04/2026;156;16;3;19,90;;Pix;Cancelado;Aplicativo
+2560;16/08/2026;152;21;5;6,90;;Cartão de Débito;PAGO;Aplicativo
+2561;07/05/2025;39;2;6;199,90;;CARTÃO DE DÉBITO;Pago;Marketplace
+2562;09/09/2025;196;7;3;69,90;5;Cartão de Crédito;Pago;Site  
+2563;25/06/2025;14;12;2;38,50;;Cartão de Crédito;Pago;Site
+2564;27/08/2026;51;4;1;59,90;;cartão de crédito;Pago; LOJA FÍSICA 
+2565;09/01/2025;63;8;1;54,90;5;Cartão de Crédito;Pago;Site
+2566;22/05/2026;186;21;6;6,90;;Cartão de Débito;Pago;Loja Física
+2567;11/09/2025;129;22;3;11,90;10;Pix;Pago;Loja Física
+2568;12/07/2025;98;29;4;14,90;5;Cartão de Crédito;Pago;Marketplace
+2569;22/01/2026;118;20;3;22,90;;Cartão de Débito;Pago;Site
+2570;03/03/2025;184;8;5;54,90;;Pix  ;Pago;Site
+2571;02/01/2025;28;7;3;69,90;15; CARTÃO DE CRÉDITO ;Pago;Site
+2572;24/08/2026;63;20;6;22,90;;Cartão de Crédito;Cancelado;Loja Física
+2573;13/07/2025;77;21;1;6,90;;PIX;Pago;Aplicativo
+2574;09/12/2025;83;30;6;29,90;;Cartão de Crédito;Pago;Marketplace
+2575;23/06/2025;37;11;6;45,00;10;Pix;Pago;Marketplace
+2576;05/03/2025;160;8;6;54,90;;Cartão de Débito;Pago;APLICATIVO
+2577;22/02/2025;114;26;2;79,90;5;Boleto;Pago;LOJA FÍSICA
+2578;15/05/2026;87;24;0;13,90;;Pix;Pago;Loja Física
+2579;05/05/2025;50;27;1;64,90;;Cartão de Crédito;Cancelado;  Aplicativo
+2580;24/11/2025;142;20;1;22,90;;Cartão de Crédito;Pago;Aplicativo
+2581;30/08/2026;46;19;1;27,90;;Pix;PAGO;Aplicativo
+2582;08/01/2025;193;19;5;27,90;;Pix;Pago;Aplicativo
+2583;26/11/2025;40;19;2;27,90;;Boleto;Pago;Loja Física
+2584;06/11/2025;180;29;1;14,90;;Cartão de Crédito;Pago;Site
+2585;11/07/2025;154;20;3;22,90;;Pix;Pago;Loja Física
+2586;07/05/2025;81;4;4;59,90;;Cartão de Débito;Pago;loja física
+2587;17/02/2026;137;2;5;199,90;15;Pix;Pago;Site
+2588;15/09/2025;102;1;6;129,90;;Boleto;pendente;Marketplace
+2589;17/09/2025;41;5;3;99,90;;Cartão de Crédito;Pago  ;site
+2590;28/08/2026;193;20;6;22,90;5;Cartão de Crédito;Cancelado;Aplicativo
+2591;27/05/2026;125;10;1;24,90;15;  Pix;Pago;Loja Física
+2592;15/01/2026;19;1;2;129,90;;Cartão de Crédito;Pago;Aplicativo
+2593;19/12/2025;71;30;2;29,90;;Cartão de Crédito; PAGO ;Site
+2594;28/08/2025;149;6;4;6,50;5;Pix;Pago;Loja Física
+2595;20/06/2025;199;26;5;79,90;15;Cartão de Crédito;Pendente;Site
+2596;13/04/2026;198;30;1;29,90;10;Pix;Pago;SITE
+2597;15/07/2025;82;24;4;13,90;;Pix;PAGO;Aplicativo
+2598;19/07/2026;199;21;1;6,90;;Cartão de Crédito;Pago;Aplicativo
+2599;01/03/2026;33;26;3;79,90;15;Pix;  Pago;Marketplace
+2600;25/06/2025;42;20;3;22,90;;Cartão de Crédito;Pago;Aplicativo
+2601;19/08/2026;106;2;6;199,90;;Cartão de Crédito;Pago;Aplicativo
+2602;24/08/2025;110;1;5;129,90;;Cartão de Crédito;Pago;Marketplace
+2603;26/05/2025;37;1;3;129,90;;Pix;Pago;Aplicativo
+2604;26/06/2025;56;15;1;34,90;10; CARTÃO DE DÉBITO ;PAGO;Marketplace
+2605;11/11/2025;173;27;5;64,90;;Cartão de Crédito;Pago;Loja Física
+2606;08/09/2025;194;3;2;79,90;15;Cartão de Crédito;  Pago;Site
+2607;15/06/2025;62;8;1;54,90;;Cartão de Débito;Cancelado;Marketplace
+2608;06/06/2026;5;22;1;11,90;;Cartão de Crédito;Pago;Aplicativo
+2609;16/09/2025;7;30;1;29,90;5; PIX ;Pago;Site
+2610;08/07/2025;195;18;4;14,90;;Pix;Pago;marketplace
+2611;07/08/2025;186;1;3;129,90;;PIX;Pago;LOJA FÍSICA
+2612;05/05/2025;61;10;0;24,90;;Pix;Pago;Loja Física  
+2613;01/01/2026;109;25;2;24,90;15;Cartão de Débito;PAGO;Site
+2614;27/07/2026;150;3;6;79,90;5;Cartão de Crédito;Pago;Site
+2615;07/05/2026;119;24;4;13,90;10;Pix;Pendente;Loja Física
+2616;12/10/2025;130;8;5;54,90;;Pix;  Pago;Loja Física
+2617;13/04/2026;186;14;5;27,90;;Pix;Pago;Loja Física
+2618;11/09/2025;161;19;6;27,90;10;Cartão de Débito;Pago;Loja Física
+2619;02/09/2025;170;7;5;69,90;;  Cartão de Crédito;Cancelado;Site
+2620;01/02/2025;106;19;2;27,90;;Cartão de Crédito;Pago;Loja Física
+2621;15/04/2026;144;24;4;13,90;10;  Pix;Pago;Site
+2622;06/02/2025;116;25;2;24,90;15;Boleto;Pago;Site
+2623;18/06/2025;165;17;5;9,90;10;CARTÃO DE DÉBITO;Pago;loja física
+2624;14/11/2025;127;22;;11,90;15;Boleto;Pago;Loja Física  
+2625;14/10/2025;25;12;6;38,50;;Boleto;Pago;Site  
+2626;04/11/2025;128;9;3;32,00;;Cartão de Crédito;Pago;Loja Física
+2627;10/06/2025;84;4;5;59,90;;Cartão de Débito;Pago;Loja Física
+2628;27/06/2026;145;15;2;34,90;5;Cartão de Débito;Pago;Aplicativo
+2629;22/08/2025;132;25;2;24,90;;Cartão de Débito;Pago;Aplicativo
+2630;24/04/2026;6;19;2;27,90;;cartão de débito; PAGO ;Site
+2631;24/01/2026;96;8;2;54,90;;Cartão de Crédito  ;Pago;Loja Física
+2632;05/10/2025;51;2;1;199,90;10;Cartão de Débito;Pago;Aplicativo
+2633;08/06/2025;53;27;6;64,90;;Pix;PAGO;Loja Física
+2634;15/04/2025;64;29;1;14,90;10;Cartão de Crédito;;loja física
+2635;11/03/2026;113;6;1;6,50;10;Boleto;Pago;Aplicativo
+2636;24/02/2026;28;22;2;11,90;10;Pix;Pago;Site
+2637;04/12/2025;81;5;4;99,90;;Cartão de Crédito;Pago;Site
+2638;20/04/2025;70;17;2;9,90;15;Cartão de Crédito;Pago;Marketplace
+2639;23/12/2025;131;7;2;69,90;;Cartão de Crédito;Pago;Site
+2640;23/05/2026;81;6;5;6,50;;Cartão de Débito;Pago;Site
+2641;29/10/2025;34;21;4;6,90;;Pix;Pago;Site
+2642;04/02/2025;79;25;3;24,90;;Pix  ; PAGO ;Site
+2643;14/04/2026;94;5;4;99,90;15;Pix;Pago;Loja Física
+2644;24/01/2026;6;18;3;14,90;5;  Pix;pendente;Marketplace
+2645;21/03/2026;16;12;6;38,50;5;Cartão de Débito;Pago;Loja Física
+2646;20/05/2025;93;24;3;13,90;10;Boleto;Pago;Loja Física  
+2647;25/08/2025;192;25;1;24,90;10;Boleto;Pago;Aplicativo
+2648;25/07/2026;147;30;5;29,90;;Pix;Pago;Aplicativo
+2649;10/11/2025;155;30;3;29,90;10;Cartão de Crédito;Pago;Aplicativo
+2650;20/05/2026;182;29;1;14,90;15;Pix;Pago;Loja Física
+2651;25/01/2025;42;17;2;9,90;;Cartão de Crédito;Pago;Marketplace
+2652;11/10/2025;11;4;4;59,90;;Cartão de Crédito;Pago;Loja Física
+2653;25/12/2025;2;13;2;35,90;;Cartão de Crédito;Cancelado;  Site
+2654;23/06/2026;184;22;6;11,90;;Cartão de Crédito;Pago;Site
+2655;23/08/2025;164;7;5;69,90;;Pix;Pago;Site
+2656;03/05/2025;11;14;6;27,90;;Pix  ;Pago;Loja Física
+2657;06/08/2026;171;21;6;6,90;15;Pix;Cancelado;Loja Física
+2658;05/07/2025;2;12;3;38,50;5;Cartão de Crédito;;Site
+2659;27/08/2025;120;22;5;11,90;;Cartão de Débito;pago;Site
+2660;22/02/2025;197;29;3;14,90;;Cartão de Crédito;Pago;Site
+2661;19/01/2025;1;29;6;14,90;5;Pix;Pago  ;Loja Física
+2662;22/12/2025;47;25;1;24,90;;Cartão de Crédito;Pago;site
+2663;13/06/2026;185;7;1;69,90;;  Boleto;Pago;Site
+2664;21/03/2026;1;7;1;69,90;5;  Pix;  Pago;Loja Física
+2665;24/12/2025;1107;1;1;129,90;10;Cartão de Débito;Pago;Loja Física
+2666;31/10/2025;159;19;3;27,90;15;Boleto;Pago;Site
+2667;17/04/2025;139;13;2;35,90;;Pix;pago;Aplicativo
+2668;15/02/2026;38;22;3;11,90;;Cartão de Crédito;Pago;Marketplace
+2669;22/01/2026;115;7;5;69,90;;Boleto;Pago;Site
+2670;04/01/2026;137;14;5;27,90;;Cartão de Crédito;Pago;Loja Física
+2671;04/04/2025;130;26;4;79,90;;Cartão de Crédito;Pago;Site
+2672;06/08/2025;29;15;4;34,90;;Cartão de Crédito;Cancelado;  Site
+2673;10/02/2025;124;8;4;54,90;10;Cartão de Crédito;;Loja Física
+2674;27/08/2026;36;15;3;34,90;15;Pix;Pago;Marketplace
+2675;24/05/2026;31;24;2;13,90;;Pix;Pago;Marketplace
+2676;03/06/2026;148;8;1;54,90;;cartão de débito;  Pago;Loja Física
+2677;18/05/2026;138;13;0;35,90;;Cartão de Crédito;Pendente;Loja Física
+2678;20/02/2026;87;30;3;29,90;10;Pix;Pendente;Aplicativo
+2679;28/03/2026;8;20;6;22,90;10;CARTÃO DE CRÉDITO;  Pendente;  Marketplace
+2680;12/10/2025;188;26;2;79,90;5;Pix;Pago;Loja Física
+2681;26/01/2026;62;7;4;69,90;5;Boleto;Pago;Loja Física
+2682;29/11/2025;66;16;6;19,90;;Cartão de Débito;; LOJA FÍSICA 
+2683;06/01/2026;60;24;4;13,90;10; PIX ;Pago;Site
+2684;20/05/2025;53;23;3;12,90;10;Pix;Pago;Site
+2685;18/04/2026;179;30;2;29,90;15;Pix;;Loja Física
+2686;26/12/2025;108;10;6;24,90;;Boleto;Pago;Aplicativo
+2687;20/11/2025;107;24;4;13,90;5;Cartão de Crédito;;  Loja Física
+2688;06/04/2026;193;12;4;38,50;15;Pix;Pago;Site
+2689;09/01/2025;129;9;4;32,00;10;Cartão de Crédito;Pago;Site
+2690;22/10/2025;147;29;3;14,90;5;Cartão de Crédito; PAGO ;Site
+2691;18/03/2026;20;15;3;34,90;10;Cartão de Crédito; PAGO ;Loja Física
+2692;10/10/2025;9;15;6;34,90;;Pix;Pago;Marketplace
+2693;11/09/2025;15;19;1;27,90;;Pix;Pago;Aplicativo
+2694;05/06/2026;68;27;1;64,90;10;Pix;Pago;Loja Física
+2695;07/02/2026;27;11;3;45,00;;Pix;Pago;Marketplace
+2696;09/08/2026;140;23;5;12,90;;Cartão de Crédito;Pago;Aplicativo
+2697;28/07/2025;139;13;4;35,90;10;Cartão de Débito;Pago;Site
+2698;01/02/2026;12;3;4;79,90;10;Pix;Pendente;Loja Física
+2699;10/11/2025;163;24;4;13,90;;Cartão de Crédito;Pendente;Site
+2700;30/04/2025;125;30;5;29,90;5;Cartão de Crédito;Pago;Aplicativo
+2701;22/05/2026;20;2;1;199,90;5;Cartão de Débito;Pago;Loja Física
+2702;11/04/2026;41;22;2;11,90;;  Boleto;Pago;Site
+2703;05/10/2025;107;29;3;14,90;10;Pix  ;Pago;Site
+2704;09/06/2025;74;8;5;54,90;;Cartão de Crédito;Pago;  Aplicativo
+2705;24/06/2026;73;1;2;129,90;;Cartão de Crédito;  Pago;Site
+2706;06/08/2025;189;12;1;38,50;15;Pix; PAGO ;Site
+2707;27/07/2025;23;20;4;22,90;;Boleto  ;;Loja Física
+2708;13/05/2025;194;8;6;54,90;15;Cartão de Crédito;Pago;Site
+2709;19/08/2025;87;15;4;34,90;;Pix;Pago;Marketplace
+2710;18/08/2026;56;13;4;35,90;15;Cartão de Débito;  Pago;Loja Física
+2711;11/04/2025;54;27;2;64,90;;Cartão de Débito;Pago;Loja Física
+2712;01/06/2026;47;20;6;22,90;;Cartão de Débito;Pago;Marketplace
+2713;06/04/2026;29;27;2;64,90;10;Cartão de Crédito  ;Pago;Loja Física
+2714;05/07/2025;22;12;3;38,50;15;Cartão de Crédito;Pendente;Marketplace  
+2715;04/01/2025;184;28;6;89,90;;Cartão de Débito;Pago;Loja Física
+2716;05/03/2026;151;9;2;32,00;;Pix;Pago;MARKETPLACE
+2717;12/02/2026;184;15;6;34,90;5;Pix;Pendente;Aplicativo
+2718;27/02/2025;155;29;4;14,90;;Pix;Pago;Loja Física
+2719;17/12/2025;132;29;1;14,90;10;Cartão de Débito;Pago;Site
+2720;13/11/2025;119;13;3;35,90;10;Pix;Pago;Site
+2721;28/02/2026;136;23;3;12,90;;Boleto;Pago;Aplicativo
+2722;11/03/2025;132;11;1;45,00;;Pix;Pago;Site
+2723;02/12/2025;106;12;6;38,50;;Pix;Pago;Marketplace
+2724;09/02/2026;189;8;4;54,90;;Cartão de Crédito; PAGO ;Loja Física
+2725;25/08/2026;163;5;3;99,90;;Cartão de Débito;Pago;Loja Física
+2726;08/08/2025;15;2;3;199,90;;Cartão de Crédito;Pago;Loja Física
+2727;25/07/2025;93;6;5;6,50;10;Cartão de Débito;Pago;Loja Física
+2728;09/11/2025;146;20;6;22,90;;Cartão de Débito;Pago  ;Aplicativo
+2729;06/07/2026;55;26;3;79,90;10;Boleto;Pago;Site
+2730;06/02/2026;97;2;4;199,90;5;Pix;Pago; APLICATIVO 
+2731;31/12/2025;187;21;3;6,90;;Cartão de Crédito;Pago;Aplicativo
+2732;30/05/2025;54;19;4;27,90;15;Boleto  ;Pago;Loja Física
+2733;19/06/2025;122;10;6;24,90;;Cartão de Crédito;Pago;Aplicativo
+2734;12/02/2026;27;9;6;32,00;;Pix;Pendente;Aplicativo
+2735;30/05/2026;141;18;1;14,90;;Cartão de Débito;Pendente;Marketplace
+2736;18/09/2025;5;20;2;22,90;15;Pix;Pago;Aplicativo
+2737;30/03/2025;59;3;5;79,90;10; PIX ;Pago;Loja Física
+2738;17/08/2026;190;28;1;89,90;;Pix;pago;Site
+2739;19/07/2026;1;7;4;69,90;;Cartão de Débito;Pago;aplicativo
+2740;06/06/2025;62;4;5;59,90;5;Pix;;Loja Física
+2741;26/10/2025;197;27;4;64,90;;Cartão de Crédito;Pago;Loja Física
+2742;26/04/2025;47;18;5;14,90;5;pix;Pago  ;Site
+2743;18/04/2025;168;29;5;14,90;5;Cartão de Crédito;Pago  ;Site
+2744;13/11/2025;136;29;2;14,90;;Pix;Pago;Marketplace
+2745;29/04/2025;30;12;1;38,50;; BOLETO ;Pago;loja física
+2746;17/06/2026;3;29;1;14,90;15;Cartão de Débito;Pago;Site
+2747;13/01/2025;7;4;2;59,90;;Cartão de Débito;Pago;loja física
+2748;29/01/2026;42;5;6;99,90;;Pix;Pago;Loja Física  
+2749;09/08/2025;43;15;5;34,90;;CARTÃO DE CRÉDITO;Pago;Site  
+2750;19/05/2025;154;30;4;29,90;;pix;Pago;Marketplace
+2751;11/08/2026;77;14;4;27,90;;Cartão de Crédito;Pago;Loja Física
+2752;18/03/2025;16;10;0;24,90;10;Pix;Pago;Loja Física
+2753;05/03/2025;60;11;2;45,00;15;Cartão de Crédito;Pago;Site
+2754;07/02/2026;70;18;6;14,90;10; PIX ;Cancelado;Loja Física
+2755;30/03/2026;63;3;4;79,90;10;Pix; PAGO ;  Marketplace
+2756;29/01/2025;110;4;1;59,90;;Cartão de Débito; PAGO ;Site
+2757;26/04/2026;164;6;3;6,50;10;Cartão de Débito;Pago;LOJA FÍSICA
+2758;27/03/2026;146;22;4;11,90;;Boleto;Pago;  Site
+2759;01/11/2025;140;27;1;64,90;10;Pix;;Marketplace
+2760;08/10/2025;86;19;1;27,90;10;Cartão de Crédito;Pago;Site
+2761;09/04/2025;124;19;3;27,90;;Cartão de Crédito;Pago;Loja Física  
+2762;30/07/2025;143;28;4;89,90;;Pix;Pago;Loja Física
+2763;02/06/2025;16;6;4;6,50;5;Boleto;Pago;Loja Física
+2764;26/05/2026;45;19;5;27,90;;Boleto;Pago;Loja Física
+2765;19/09/2025;8;11;6;45,00;15;Cartão de Crédito;;Site
+2766;01/07/2026;74;23;5;12,90;;Pix;Pago;Loja Física
+2767;21/07/2026;188;13;6;35,90;5;Cartão de Crédito;Pago;Marketplace
+2768;04/02/2026;162;11;2;45,00;;Pix  ;Pendente;  Loja Física
+2769;18/12/2025;46;23;2;12,90;15;Cartão de Crédito;Pago;Site
+2770;30/09/2025;94;29;2;14,90;;  Cartão de Débito;Pago;Marketplace
+2771;29/09/2025;76;3;1;79,90;5;Pix;Pago;Aplicativo
+2772;23/01/2026;61;18;6;14,90;5;Pix;Pendente;Loja Física
+2773;15/09/2025;170;14;3;27,90;;Pix;Pago;Marketplace
+2774;25/06/2026;127;15;6;34,90;;Cartão de Débito;pago;  Marketplace
+2775;26/06/2026;57;26;1;79,90;15;Pix;Cancelado;Aplicativo
+2776;21/07/2025;1103;11;4;45,00;;  Cartão de Crédito;Pago;Loja Física
+2777;22/06/2025;79;24;4;13,90;;Cartão de Crédito;Pago;Marketplace
+2778;28/01/2025;97;1;4;129,90;15;Cartão de Débito;Pago;Site
+2779;18/05/2026;154;4;2;59,90;10;Cartão de Crédito;PAGO;Aplicativo
+2780;23/11/2025;1;3;3;79,90;;Cartão de Crédito;Pago;Loja Física
+2781;09/07/2026;107;2;2;199,90;15;Boleto;Pago;site
+2782;16/07/2026;76;2;5;199,90;;Pix;Pago;Aplicativo
+2783;17/06/2025;9;27;6;64,90;;Cartão de Crédito;Pago;Loja Física
+2784;01/07/2026;109;1;6;129,90;;Cartão de Crédito;Pago;Site
+2785;28/11/2025;169;11;6;45,00;;Cartão de Crédito;Pendente;Site
+2786;05/05/2026;148;17;2;9,90;;Cartão de Crédito;Pago;Aplicativo
+2787;13/01/2026;151;14;1;27,90;;Cartão de Crédito;Pago;Loja Física
+2788;21/03/2026;190;27;2;64,90;;Cartão de Débito;Cancelado;Site
+2789;01/01/2026;79;13;4;35,90;10;Cartão de Crédito;Pendente  ;loja física
+2790;21/05/2025;98;3;1;79,90;;Cartão de Débito;PAGO;  Marketplace
+2791;28/08/2025;83;12;5;38,50;;Pix;Pago;Site
+2792;04/03/2026;175;15;6;34,90;;Cartão de Débito;Pago;Site
+2793;08/06/2025;85;18;6;14,90;;Pix;Pago;Aplicativo
+2794;19/05/2026;84;14;4;27,90;15;Pix;Pago;Aplicativo
+2795;02/12/2025;42;20;3;22,90;;Cartão de Débito;Pago;Marketplace
+2796;14/06/2026;87;19;5;27,90;; PIX ;Pago;Loja Física
+2797;27/04/2026;82;3;2;79,90;;Cartão de Débito;pago;Aplicativo
+2798;04/03/2026;19;16;4;19,90;;Pix;Pago;Loja Física
+2799;22/02/2026;20;5;1;99,90;;Cartão de Crédito;Pago;Site
+2800;13/07/2025;169;21;4;6,90;;CARTÃO DE CRÉDITO;Cancelado;Site
+2801;25/08/2025;16;26;4;79,90;5;Cartão de Débito;  Pago;Loja Física
+2802;23/07/2025;23;28;4;89,90;;Cartão de Crédito;;Loja Física
+2803;28/02/2026;128;30;1;29,90;;Cartão de Débito;Pago;Loja Física
+2804;01/03/2025;54;13;3;35,90;;Cartão de Débito;Pago;Aplicativo
+2805;21/02/2025;36;7;3;69,90;;Cartão de Crédito;Pago; LOJA FÍSICA 
+2806;26/03/2025;53;24;2;13,90;;Cartão de Crédito;Pago;Aplicativo
+2807;19/03/2026;36;24;1;13,90;15;Cartão de Débito  ;Pago;Loja Física
+2808;24/03/2026;41;4;6;59,90;;Boleto;Pago;Loja Física
+2809;16/08/2026;117;24;3;13,90;;Pix; PAGO ;Loja Física
+2810;05/01/2026;130;6;3;6,50;5;Pix;  Pago;Site
+2811;27/08/2026;77;17;5;9,90;15;Cartão de Crédito;Pago;Aplicativo
+2812;08/02/2026;169;3;6;79,90;;Boleto;Pago;Loja Física
+2813;09/06/2025;189;1;1;129,90;5;Pix;Cancelado;SITE
+2814;16/02/2025;32;17;5;9,90;10;Pix; PAGO ;Aplicativo
+2815;12/05/2025;129;16;2;19,90;10;Pix;Cancelado;Loja Física
+2816;10/03/2026;11;23;1;12,90;10;Pix;Pago;Loja Física
+2817;02/10/2025;90;19;5;27,90;;Pix;Pago;Site
+2818;14/02/2026;126;23;6;12,90;10;Cartão de Débito;  Pendente;Aplicativo
+2819;25/04/2026;29;29;4;14,90;10;Pix;Pago;Loja Física
+2820;07/03/2026;192;18;5;14,90;;Pix; CANCELADO ;Marketplace
+2821;25/08/2026;86;23;4;12,90;;Boleto;Pendente;site
+2822;29/05/2025;165;12;4;38,50;10;Cartão de Crédito;Pago;Marketplace
+2823;23/06/2026;124;25;6;24,90;5;Cartão de Débito;Pago;Site
+2824;22/02/2025;67;19;4;27,90;10;Pix;Pago;Loja Física
+2825;05/01/2025;31;27;5;64,90;;Cartão de Crédito;Pago;Aplicativo  
+2826;12/03/2026;63;7;1;69,90;;Boleto;Pago;Site
+2827;13/07/2025;90;26;0;79,90;;Cartão de Crédito;;Site
+2828;13/11/2025;17;13;5;35,90;;Cartão de Débito;Pago;Aplicativo
+2829;12/11/2025;197;24;2;13,90;5;Pix;Pago;Marketplace
+2830;28/02/2026;21;26;3;79,90;;Cartão de Crédito;Pago;Marketplace
+2831;20/08/2026;85;18;1;14,90;5;Cartão de Crédito;PAGO;Site
+2832;17/06/2025;129;21;6;6,90;15;Pix;Pago;Aplicativo
+2833;08/11/2025;123;13;4;35,90;;Cartão de Crédito;Pago;Marketplace
+2834;19/05/2026;157;17;3;9,90;;Cartão de Crédito;Pago;marketplace
+2835;21/04/2025;169;16;3;19,90;;Pix;Pago;Aplicativo
+2836;17/12/2025;13;23;3;12,90;15;Cartão de Débito;Pago;Site
+2837;12/02/2026;85;18;1;14,90;;Pix;Pago;  Site
+2838;23/06/2025;2;6;6;6,50;10; PIX ;Pago;Site
+2839;28/03/2026;106;3;2;79,90;15;Pix;Pago;Marketplace
+2840;03/10/2025;182;26;4;79,90;5;cartão de crédito;Pago;Site
+2841;24/11/2025;118;25;3;24,90;;Cartão de Débito;Pendente;Loja Física
+2842;17/01/2025;199;30;5;29,90;10;Boleto;Pago;  Site
+2843;26/05/2025;54;20;3;22,90;5;Cartão de Crédito;Pago;Site
+2844;19/10/2025;23;19;2;27,90;;Cartão de Crédito  ;  Pago;Aplicativo
+2845;20/05/2025;1;23;5;12,90;10;Pix;Pago;Marketplace
+2846;15/08/2026;159;18;5;14,90;;Pix;;Marketplace
+2847;31/05/2026;58;1;2;129,90;;Pix;Pago;Loja Física
+2848;21/10/2025;50;1;3;129,90;5;Cartão de Crédito;Pendente;Site
+2849;28/08/2026;191;20;2;22,90;;Pix;Pago;Site
+2850;30/05/2026;110;8;6;54,90;5;Pix;Pago; MARKETPLACE 
+2851;06/10/2025;127;26;2;79,90;15;CARTÃO DE CRÉDITO;Pendente;Site
+2852;24/04/2026;197;28;1;89,90;10; PIX ;Pago;Marketplace
+2853;28/03/2026;195;15;2;34,90;10;Pix;Cancelado;Loja Física
+2854;10/10/2025;27;19;2;27,90;;Pix;Pago;site
+2855;09/07/2026;164;5;1;99,90;;Cartão de Crédito;Pago; LOJA FÍSICA 
+2856;15/01/2025;148;21;1;6,90;;Pix;pago;Loja Física
+2857;23/05/2025;64;20;6;22,90;5;Cartão de Crédito;Pago;Site
+2858;15/08/2026;82;2;6;199,90;15;Pix;Pago;Loja Física
+2859;18/04/2026;74;19;5;27,90;;Cartão de Crédito;PAGO;Site
+2860;04/04/2026;181;6;6;6,50;;Pix;Pago;LOJA FÍSICA
+2861;17/08/2025;27;12;3;38,50;;Cartão de Débito;Pago  ;Aplicativo
+2862;27/07/2026;142;15;4;34,90;5;pix;pago;Site
+2863;10/07/2025;61;15;3;34,90;10;Cartão de Débito;Pago  ;Site
+2864;29/06/2025;97;20;6;22,90;;Pix;Pago  ;Loja Física
+2865;20/11/2025;59;16;3;19,90;;Pix;Pago;Loja Física
+2866;06/03/2026;168;22;5;11,90;15;Boleto;CANCELADO;Aplicativo
+2867;13/09/2025;60;4;1;59,90;5;Cartão de Débito  ;Pago;Aplicativo
+2868;29/06/2026;3;2;6;199,90;5;Cartão de Crédito;Pago;Loja Física
+2869;24/11/2025;131;9;4;32,00;;Pix;Pago;Aplicativo
+2870;04/06/2025;63;7;6;69,90;;Cartão de Crédito;  Pago;Site
+2871;17/05/2025;104;11;3;45,00;;cartão de crédito;Pendente;Marketplace
+2872;04/02/2026;198;24;2;13,90;;Cartão de Crédito;Pago;Site
+2873;09/08/2025;162;24;3;13,90;;Pix;Pago;Marketplace
+2874;09/04/2025;147;25;4;24,90;15; PIX ;Pago;Aplicativo
+2875;23/05/2025;131;3;6;79,90;15;Cartão de Crédito;Cancelado;Marketplace
+2876;29/05/2026;93;8;6;54,90;;Pix;Pendente;Site
+2877;04/01/2025;14;29;5;14,90;;Pix;Pendente;Marketplace
+2878;10/01/2025;79;14;4;27,90;;Cartão de Crédito;Pago; SITE 
+2879;11/01/2026;16;19;6;27,90;5;Cartão de Crédito;Pago;Site
+2880;21/06/2026;138;21;2;6,90;;Pix;Pago;Site
+2881;07/08/2025;101;20;6;22,90;;Pix; PAGO ;Loja Física  
+2882;15/01/2025;61;6;6;6,50;;Cartão de Crédito;Pendente;Site
+2883;20/03/2026;62;26;6;79,90;;Cartão de Débito;Pago;Aplicativo
+2884;29/08/2025;197;4;1;59,90;;Cartão de Crédito;Pago;Site
+2885;06/12/2025;117;11;3;45,00;5;Boleto;Pago;Loja Física
+2886;23/03/2025;10;3;1;79,90;;Cartão de Crédito;Pago;Aplicativo
+2887;17/04/2025;114;6;4;6,50;;Cartão de Crédito;Pago;Site  
+2888;03/03/2026;100;29;2;14,90;10;Cartão de Crédito;Pago;Site
+2889;01/07/2025;175;28;2;89,90;;Pix;Pago;Loja Física
+2890;16/01/2025;176;9;1;32,00;;Cartão de Débito;Pago;Loja Física
+2891;21/03/2026;114;1;3;129,90;;Pix;Pago;Aplicativo
+2892;19/09/2025;189;16;1;19,90;15;Pix;Pago;Site
+2893;04/06/2026;172;25;5;24,90;5;Pix;Pago;Site
+2894;15/07/2026;1;22;3;11,90;;Boleto;Pago;Loja Física
+2895;20/05/2025;72;28;3;89,90;10; BOLETO ;Pago;Loja Física
+2896;14/09/2025;154;23;2;12,90;;Cartão de Débito;Pago;Loja Física
+2897;26/08/2025;124;10;1;24,90;10;Pix;Cancelado;Site
+2898;19/08/2025;7;24;5;13,90;5;Cartão de Crédito;;Loja Física
+2899;23/11/2025;6;21;2;6,90;;Boleto;Pago;Aplicativo
+2900;25/07/2026;33;22;1;11,90;;Cartão de Crédito;PAGO;Site
+2901;28/04/2026;32;16;5;19,90;;Boleto;pago;Aplicativo
+2902;27/06/2026;102;17;6;9,90;;Cartão de Crédito;Pago;Loja Física
+2903;08/02/2026;97;13;4;35,90;10;Pix;Pago;SITE
+2904;04/08/2025;129;18;1;14,90;10;Pix; PAGO ;Aplicativo
+2905;30/04/2025;103;10;1;24,90;;Pix;Pago;Site
+2906;27/07/2026;14;5;6;99,90;;cartão de crédito;Pago;Site
+2907;07/09/2025;125;5;3;99,90;;Cartão de Débito;Pago;Marketplace
+2908;11/02/2026;11;20;;22,90;5;Cartão de Crédito;Pago;Site
+2909;18/09/2025;159;15;2;34,90;15;Cartão de Crédito;Pendente;Marketplace
+2910;07/02/2025;71;16;2;19,90;15;Cartão de Crédito;Pago;Site
+2911;11/12/2025;148;20;3;22,90;;Boleto;Pago;aplicativo
+2912;16/02/2026;139;25;6;24,90;15;CARTÃO DE CRÉDITO;Pago;Aplicativo
+2913;12/10/2025;55;4;6;59,90;;Cartão de Crédito;Cancelado;Loja Física
+2914;11/03/2026;148;22;5;11,90;5;Pix;Pago;Loja Física
+2915;27/03/2026;143;25;1;24,90;10;Cartão de Crédito;pago;Site
+2916;24/08/2026;31;23;2;12,90;;Cartão de Débito;Pago;Aplicativo
+2917;07/03/2025;160;30;6;29,90;;Pix;  Pago;Aplicativo
+2918;12/10/2025;55;11;3;45,00;;Cartão de Débito;Pago;Site
+2919;19/09/2025;66;16;1;19,90;5;Cartão de Crédito;Pago;  Loja Física
+2920;06/05/2025;14;2;4;199,90;10;Cartão de Crédito; PAGO ;Site
+2921;05/12/2025;192;17;6;9,90;15;Pix;Pago;Loja Física
+2922;19/01/2026;30;23;4;12,90;15;Cartão de Débito;Pago;Loja Física
+2923;05/06/2026;119;21;3;6,90;15;Cartão de Crédito;Pago;Aplicativo
+2924;25/08/2026;191;16;1;19,90;10;Pix;Pago;Aplicativo
+2925;03/01/2025;197;16;4;19,90;10;Pix;Pago;loja física
+2926;25/07/2025;26;12;4;38,50;;Cartão de Crédito;Pago;Loja Física
+2927;25/04/2026;27;1;4;129,90;;Cartão de Crédito;Pago;Site
+2928;25/01/2025;177;10;2;24,90;;Pix;Pago  ;site
+2929;15/03/2025;102;28;4;89,90;10;Boleto; PAGO ;Loja Física
+2930;29/01/2026;120;29;4;14,90;5;Pix;Pago;SITE
+2931;09/07/2025;101;11;6;45,00;; PIX ;Pago;site
+2932;26/03/2026;112;5;6;99,90;;Boleto;pago;Aplicativo
+2933;02/08/2026;72;6;6;6,50;;Pix;Pago;Site
+2934;11/03/2025;62;3;4;79,90;5;Pix;Pago;Loja Física
+2935;28/07/2026;99;26;4;79,90;;Pix;PAGO;LOJA FÍSICA
+2936;10/06/2025;160;24;3;13,90;;Pix;;Site
+2937;24/08/2026;150;10;1;24,90;15;Cartão de Débito;Pago;Aplicativo
+2938;18/11/2025;111;11;5;45,00;;Pix;Pago;Loja Física
+2939;19/03/2025;150;16;5;19,90;;Cartão de Crédito;Pago;Loja Física
+2940;09/12/2025;136;6;4;6,50;10;Pix  ;Pago;Loja Física
+2941;20/03/2025;82;9;4;32,00;;Boleto;Pago;Loja Física
+2942;06/04/2026;11;5;2;99,90;10;CARTÃO DE CRÉDITO; PAGO ;Aplicativo
+2943;23/07/2026;154;24;4;13,90;10;Pix;Pago;Loja Física
+2944;20/05/2025;103;30;6;29,90;5;Pix;Pago;LOJA FÍSICA
+2945;04/12/2025;168;11;5;45,00;5;PIX;Pago;Loja Física
+2946;19/02/2025;87;11;1;45,00;;Boleto;Pago;Site
+2947;08/07/2025;28;22;4;11,90;15;Pix  ;Pago;Site
+2948;25/10/2025;111;29;2;14,90;;Cartão de Débito;PAGO;Loja Física
+2949;12/06/2025;14;24;3;13,90;;Cartão de Débito;Pendente;Site
+2950;03/02/2026;2;19;6;27,90;15;cartão de crédito;  Pago;Aplicativo
+2951;06/03/2026;101;22;3;11,90;;Cartão de Crédito;Pendente; LOJA FÍSICA 
+2952;07/08/2026;173;20;3;22,90;15;Pix;Pago;Site
+2953;14/05/2025;197;5;6;99,90;;cartão de débito;Pago;Marketplace
+2954;12/04/2025;56;18;4;14,90;10;Cartão de Débito;Pago;Aplicativo
+2955;27/11/2025;130;11;5;45,00;;Cartão de Crédito;;Marketplace
+2956;01/05/2026;132;12;3;38,50;5;Pix;Pendente; SITE 
+2957;01/03/2026;37;13;3;35,90;;Cartão de Crédito;Pago;site
+2958;19/12/2025;87;16;3;19,90;10;Boleto;Pago;aplicativo
+2959;28/01/2025;108;29;5;14,90;;Cartão de Crédito;Pendente;Loja Física
+2960;07/08/2025;72;25;5;24,90;;Boleto;Pago;loja física
+2961;14/03/2026;120;6;2;6,50;15;Cartão de Crédito  ;Pago;Site
+2962;10/04/2025;21;16;4;19,90;10;Cartão de Débito;Pago;Site
+2963;14/07/2026;115;15;5;34,90;;Cartão de Crédito;Pago;Site
+2964;29/08/2026;58;30;6;29,90;5;Pix;Pago;Aplicativo
+2965;14/12/2025;13;25;2;24,90;;Boleto;Pago;Marketplace
+2966;23/01/2026;49;4;3;59,90;5;Pix;Pago;Site
+2967;20/10/2025;119;17;3;9,90;;Boleto;Pago;Aplicativo
+2968;27/02/2025;99;22;5;11,90;5;Cartão de Crédito;Pago;Site
+2969;21/11/2025;80;8;2;54,90;;Pix;Pago;Site
+2970;11/03/2025;134;10;4;24,90;15;Cartão de Crédito;Pago;Site
+2971;02/12/2025;150;28;2;89,90;; CARTÃO DE CRÉDITO ;Pago;Site
+2972;17/04/2026;55;21;3;6,90;;Cartão de Crédito;Pago;Loja Física
+2973;31/07/2026;160;19;4;27,90;;Cartão de Crédito;Pago;Site
+2974;24/01/2025;8;26;2;79,90;;Cartão de Crédito;Pago;Aplicativo
+2975;15/12/2025;28;13;2;35,90;;Cartão de Débito;Pago;Site
+2976;08/06/2026;3;4;6;59,90;;Cartão de Crédito;Pago;Aplicativo
+2977;28/10/2025;185;9;2;32,00;10;Cartão de Crédito;Pago;Aplicativo
+2978;28/04/2025;117;27;5;64,90;;Cartão de Crédito;Pago;Loja Física
+2979;19/03/2026;119;30;3;29,90;;Cartão de Crédito;Cancelado;Loja Física
+2980;09/05/2026;83;26;2;79,90;;  Pix;Pago;Site
+2981;06/07/2025;131;9;1;32,00;;Boleto;Pago;Marketplace
+2982;27/02/2026;155;16;3;19,90;15;Cartão de Crédito;Pago;Aplicativo
+2983;24/08/2025;95;24;1;13,90;;Cartão de Crédito;Pago;marketplace
+2984;16/01/2026;184;12;2;38,50;;Cartão de Débito;Cancelado;Aplicativo
+2985;06/04/2025;192;7;3;69,90;;Cartão de Crédito;Pago;Aplicativo
+2986;15/03/2025;47;15;4;34,90;10;Pix;Pago;Aplicativo
+2987;30/06/2025;113;13;6;35,90;;Pix;Pago;  Marketplace
+2988;15/02/2026;56;3;6;79,90;;Pix;Pago;APLICATIVO
+2989;19/04/2026;190;12;6;38,50;15;Cartão de Crédito;Pago;Aplicativo
+2990;20/07/2025;177;3;2;79,90;10;Cartão de Crédito;Pago;Loja Física
+2991;21/11/2025;149;30;2;29,90;10;Cartão de Crédito;Pago;Loja Física
+2992;06/07/2025;178;17;5;9,90;5;Boleto;Pago;Marketplace
+2993;20/02/2025;169;23;5;12,90;;Cartão de Crédito;Pago;Loja Física
+2994;21/01/2025;41;13;5;35,90;;Pix;Pago;Loja Física
+2995;23/06/2026;69;16;1;19,90;;Cartão de Crédito; PAGO ;Site
+2996;26/07/2026;154;3;4;79,90;;Pix;Cancelado;Loja Física
+2997;19/07/2025;2;18;4;14,90;15;Cartão de Crédito;Pendente;Marketplace
+2998;26/03/2026;135;30;2;29,90;5;Cartão de Crédito;Pago;Site
+2999;14/11/2025;189;21;4;6,90;;Pix;Cancelado;Loja Física
+3000;06/05/2025;141;29;5;14,90;; CARTÃO DE CRÉDITO ; PAGO ;Site
+1802;08/01/2025;112;15;2;34,90;;Pix;Pago;Marketplace
+1191;18/12/2025;170;2;1;199,90;10;Boleto;Pago;Loja Física
+1818;20/02/2026;98;29;1;14,90;5;Pix;Pago;Site
+252;27/04/2025;181;21;6;6,90;;Cartão de Crédito  ;Pago;Marketplace
+2506;11/07/2025;32;20;3;22,90;;Boleto;Pago;Loja Física
+1118;08/03/2025;75;20;1;22,90;;Cartão de Crédito;Cancelado;Site
+1412;05/08/2026;198;4;3;59,90;15;Cartão de Crédito  ;Cancelado;Site
+2114;03/10/2025;148;23;2;12,90;10;Cartão de Débito;;Site
+409;29/09/2025;88;10;3;24,90;15;Cartão de Débito; PAGO ;Loja Física
+2580;24/11/2025;142;20;1;22,90;;Cartão de Crédito;Pago;Aplicativo
+2255;26/10/2025;67;3;2;79,90;;Cartão de Crédito;Pago;Loja Física
+53;26/12/2025;110;3;1;79,90;;Cartão de Débito;Pago;Loja Física

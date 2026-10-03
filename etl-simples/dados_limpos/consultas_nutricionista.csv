@@ -1,0 +1,222 @@
+﻿id_consulta;data_consulta;paciente;nutricionista;tipo_consulta;status;realizada;horario_inicio;horario_fim;inicio_datahora;fim_datahora;duracao_min;turno;peso_kg;altura_m;imc;valor
+1;2026-03-02;Mariana Figueiredo;Dra. Luiza Martins;Primeira Consulta;Realizada;1;08:00:00;08:50:00;2026-03-02 08:00:00;2026-03-02 08:50:00;50;Manhã;68,4;1,65;25,1;250,0
+2;2026-03-02;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-02 09:00:00;2026-03-02 09:30:00;30;Manhã;92,1;1,78;29,1;150,0
+3;2026-03-02;Helena Duarte;Dr. André Tavares;Primeira Consulta;Realizada;1;08:30:00;09:20:00;2026-03-02 08:30:00;2026-03-02 09:20:00;50;Manhã;74,0;1,6;28,9;250,0
+4;2026-03-02;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Faltou;0;10:00:00;10:30:00;2026-03-02 10:00:00;2026-03-02 10:30:00;30;Manhã;;;;0,0
+5;2026-03-03;Sofia Rezende;Dra. Luiza Martins;Primeira Consulta;Realizada;1;14:00:00;14:50:00;2026-03-03 14:00:00;2026-03-03 14:50:00;50;Tarde;55,8;1,58;22,4;250,0
+6;2026-03-03;Eduardo Ramos;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:00:00;15:40:00;2026-03-03 15:00:00;2026-03-03 15:40:00;40;Tarde;81,3;1,82;24,5;300,0
+7;2026-03-03;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;16:00:00;16:30:00;2026-03-03 16:00:00;2026-03-03 16:30:00;30;Tarde;63,7;1,67;22,8;150,0
+8;2026-03-04;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Cancelada;0;08:00:00;08:30:00;2026-03-04 08:00:00;2026-03-04 08:30:00;30;Manhã;;;;0,0
+9;2026-03-04;Leonardo Batista;Dr. André Tavares;Primeira Consulta;Realizada;1;09:00:00;09:50:00;2026-03-04 09:00:00;2026-03-04 09:50:00;50;Manhã;101,5;1,75;33,1;250,0
+10;2026-03-04;Isabela Monteiro;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;10:30:00;11:20:00;2026-03-04 10:30:00;2026-03-04 11:20:00;50;Manhã;58,2;1,63;21,9;300,0
+11;2026-03-05;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;13:30:00;14:00:00;2026-03-05 13:30:00;2026-03-05 14:00:00;30;Tarde;91,4;1,78;28,8;150,0
+12;2026-03-05;Carolina Freitas;Dr. André Tavares;Primeira Consulta;Realizada;1;14:00:00;14:50:00;2026-03-05 14:00:00;2026-03-05 14:50:00;50;Tarde;70,9;1,7;24,5;250,0
+13;2026-03-05;Daniel Machado;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:30:00;16:20:00;2026-03-05 15:30:00;2026-03-05 16:20:00;50;Tarde;77,6;1,8;24,0;300,0
+14;2026-03-06;Helena Duarte;Dr. André Tavares;Retorno;Realizada;1;08:30:00;09:00:00;2026-03-06 08:30:00;2026-03-06 09:00:00;30;Manhã;73,2;1,6;28,6;150,0
+15;2026-03-06;Vanessa Cordeiro;Dra. Luiza Martins;Primeira Consulta;Realizada;1;09:00:00;09:50:00;2026-03-06 09:00:00;2026-03-06 09:50:00;50;Manhã;84,0;1,62;32,0;250,0
+16;2026-03-06;Ricardo Pacheco;Dra. Camila Nogueira;Avaliação Esportiva;Faltou;0;11:00:00;11:40:00;2026-03-06 11:00:00;2026-03-06 11:40:00;40;Manhã;;;;0,0
+17;2026-03-09;Sofia Rezende;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-03-09 14:00:00;2026-03-09 14:30:00;30;Tarde;55,1;1,58;22,1;150,0
+18;2026-03-09;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-03-09 15:00:00;2026-03-09 15:30:00;30;Tarde;80,5;1,82;24,3;150,0
+19;2026-03-09;Fábio Lacerda;Dr. André Tavares;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-03-09 16:00:00;2026-03-09 16:50:00;50;Tarde;88,8;1,73;29,7;250,0
+20;2026-03-10;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-10 09:00:00;2026-03-10 09:30:00;30;Manhã;99,7;1,75;32,6;150,0
+21;2026-03-10;Isabela Monteiro;Dra. Camila Nogueira;Retorno;Realizada;1;10:30:00;11:00:00;2026-03-10 10:30:00;2026-03-10 11:00:00;30;Manhã;57,9;1,63;21,8;150,0
+22;2026-03-10;Amanda Sampaio;Dra. Luiza Martins;Primeira Consulta;Realizada;1;13:00:00;13:50:00;2026-03-10 13:00:00;2026-03-10 13:50:00;50;Tarde;66,3;1,68;23,5;250,0
+23;2026-03-11;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;14:00:00;14:30:00;2026-03-11 14:00:00;2026-03-11 14:30:00;30;Tarde;70,1;1,7;24,3;150,0
+24;2026-03-11;Daniel Machado;Dra. Camila Nogueira;Retorno;Cancelada;0;15:30:00;16:00:00;2026-03-11 15:30:00;2026-03-11 16:00:00;30;Tarde;;;;0,0
+25;2026-03-12;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;16:00:00;16:30:00;2026-03-12 16:00:00;2026-03-12 16:30:00;30;Tarde;63,0;1,67;22,6;150,0
+26;2026-03-13;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-13 11:30:00;2026-03-13 12:00:00;30;Manhã;69,6;1,7;24,1;150,0
+27;2026-03-13;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;14:00:00;14:30:00;2026-03-13 14:00:00;2026-03-13 14:30:00;30;Tarde;99,6;1,75;32,5;150,0
+28;2026-03-13;Isabela Monteiro;Dra. Camila Nogueira;Avaliação Esportiva;Faltou;0;13:00:00;13:50:00;2026-03-13 13:00:00;2026-03-13 13:50:00;50;Tarde;;;;0,0
+29;2026-03-16;Carolina Freitas;Dr. André Tavares;Retorno;Cancelada;0;15:00:00;15:30:00;2026-03-16 15:00:00;2026-03-16 15:30:00;30;Tarde;;;;0,0
+30;2026-03-16;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Cancelada;0;10:30:00;11:00:00;2026-03-16 10:30:00;2026-03-16 11:00:00;30;Manhã;;;;0,0
+31;2026-03-16;Isabela Monteiro;Dra. Camila Nogueira;Retorno;Realizada;1;16:00:00;16:30:00;2026-03-16 16:00:00;2026-03-16 16:30:00;30;Tarde;56,6;1,63;21,3;150,0
+32;2026-03-16;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-16 09:00:00;2026-03-16 09:30:00;30;Manhã;83,9;1,62;32,0;150,0
+33;2026-03-16;Juliana Paiva;Dra. Luiza Martins;Primeira Consulta;Realizada;1;10:30:00;11:20:00;2026-03-16 10:30:00;2026-03-16 11:20:00;50;Manhã;78,4;1,64;29,1;250,0
+34;2026-03-17;Ricardo Pacheco;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;11:30:00;12:20:00;2026-03-17 11:30:00;2026-03-17 12:20:00;50;Manhã;93,6;1,79;29,2;300,0
+35;2026-03-18;Gustavo Henrique Prado;Dr. André Tavares;Primeira Consulta;Realizada;1;13:00:00;13:50:00;2026-03-18 13:00:00;2026-03-18 13:50:00;50;Tarde;73,7;1,66;26,7;250,0
+36;2026-03-18;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-18 11:30:00;2026-03-18 12:00:00;30;Manhã;91,5;1,78;28,9;150,0
+37;2026-03-19;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-19 11:30:00;2026-03-19 12:00:00;30;Manhã;61,9;1,67;22,2;150,0
+38;2026-03-19;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;14:00:00;14:30:00;2026-03-19 14:00:00;2026-03-19 14:30:00;30;Tarde;79,9;1,82;24,1;150,0
+39;2026-03-20;Helena Duarte;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-03-20 16:00:00;2026-03-20 16:30:00;30;Tarde;73,1;1,6;28,6;150,0
+40;2026-03-20;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;10:30:00;11:00:00;2026-03-20 10:30:00;2026-03-20 11:00:00;30;Manhã;79,1;1,82;23,9;150,0
+41;2026-03-20;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;10:30:00;11:00:00;2026-03-20 10:30:00;2026-03-20 11:00:00;30;Manhã;77,3;1,64;28,7;150,0
+42;2026-03-20;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-20 11:30:00;2026-03-20 12:00:00;30;Manhã;83,8;1,62;31,9;150,0
+43;2026-03-23;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-23 11:30:00;2026-03-23 12:00:00;30;Manhã;98,4;1,75;32,1;150,0
+44;2026-03-23;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-03-23 08:00:00;2026-03-23 08:30:00;30;Manhã;78,6;1,82;23,7;150,0
+45;2026-03-23;Amanda Sampaio;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-23 11:30:00;2026-03-23 12:00:00;30;Manhã;65,2;1,68;23,1;150,0
+46;2026-03-24;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Realizada;1;08:00:00;08:30:00;2026-03-24 08:00:00;2026-03-24 08:30:00;30;Manhã;72,5;1,66;26,3;150,0
+47;2026-03-24;Eduardo Ramos;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;10:30:00;11:20:00;2026-03-24 10:30:00;2026-03-24 11:20:00;50;Manhã;78,6;1,82;23,7;300,0
+48;2026-03-24;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-03-24 15:00:00;2026-03-24 15:30:00;30;Tarde;83,9;1,62;32,0;150,0
+49;2026-03-24;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;16:00:00;16:30:00;2026-03-24 16:00:00;2026-03-24 16:30:00;30;Tarde;91,6;1,78;28,9;150,0
+50;2026-03-25;Helena Duarte;Dr. André Tavares;Retorno;Realizada;1;08:00:00;08:30:00;2026-03-25 08:00:00;2026-03-25 08:30:00;30;Manhã;72,1;1,6;28,2;150,0
+51;2026-03-25;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;13:00:00;13:30:00;2026-03-25 13:00:00;2026-03-25 13:30:00;30;Tarde;97,7;1,75;31,9;150,0
+52;2026-03-25;Isabela Monteiro;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-25 09:00:00;2026-03-25 09:30:00;30;Manhã;55,8;1,63;21,0;150,0
+53;2026-03-26;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-26 09:00:00;2026-03-26 09:30:00;30;Manhã;89,1;1,73;29,8;150,0
+54;2026-03-26;Carolina Freitas;Dr. André Tavares;Retorno;Faltou;0;16:00:00;16:30:00;2026-03-26 16:00:00;2026-03-26 16:30:00;30;Tarde;;;;0,0
+55;2026-03-26;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-26 09:00:00;2026-03-26 09:30:00;30;Manhã;77,4;1,64;28,8;150,0
+56;2026-03-26;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-03-26 14:00:00;2026-03-26 14:30:00;30;Tarde;83,1;1,62;31,7;150,0
+57;2026-03-27;Helena Duarte;Dr. André Tavares;Retorno;Faltou;0;10:30:00;11:00:00;2026-03-27 10:30:00;2026-03-27 11:00:00;30;Manhã;;;;0,0
+58;2026-03-27;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;13:00:00;13:30:00;2026-03-27 13:00:00;2026-03-27 13:30:00;30;Tarde;93,9;1,79;29,3;150,0
+59;2026-03-27;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-27 11:30:00;2026-03-27 12:00:00;30;Manhã;91,5;1,78;28,9;150,0
+60;2026-03-30;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-03-30 15:00:00;2026-03-30 15:30:00;30;Tarde;69,2;1,7;23,9;150,0
+61;2026-03-30;Daniel Machado;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-03-30 09:00:00;2026-03-30 09:30:00;30;Manhã;76,9;1,8;23,7;150,0
+62;2026-03-30;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;10:30:00;11:00:00;2026-03-30 10:30:00;2026-03-30 11:00:00;30;Manhã;91,4;1,78;28,8;150,0
+63;2026-03-31;Helena Duarte;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-03-31 11:30:00;2026-03-31 12:00:00;30;Manhã;71,0;1,6;27,7;150,0
+64;2026-04-01;Fábio Lacerda;Dr. André Tavares;Retorno;Cancelada;0;10:30:00;11:00:00;2026-04-01 10:30:00;2026-04-01 11:00:00;30;Manhã;;;;0,0
+65;2026-04-01;Marcelo Tavares Lins;Dr. André Tavares;Primeira Consulta;Realizada;1;14:00:00;14:50:00;2026-04-01 14:00:00;2026-04-01 14:50:00;50;Tarde;103,2;1,81;31,5;250,0
+66;2026-04-01;Bianca Moraes;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;13:00:00;13:50:00;2026-04-01 13:00:00;2026-04-01 13:50:00;50;Tarde;60,3;1,69;21,1;300,0
+67;2026-04-01;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-01 11:30:00;2026-04-01 12:00:00;30;Manhã;68,3;1,65;25,1;150,0
+68;2026-04-02;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-04-02 16:00:00;2026-04-02 16:30:00;30;Tarde;97,2;1,75;31,7;150,0
+69;2026-04-02;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;13:00:00;13:30:00;2026-04-02 13:00:00;2026-04-02 13:30:00;30;Tarde;77,3;1,64;28,7;150,0
+70;2026-04-03;Ricardo Pacheco;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;10:30:00;11:20:00;2026-04-03 10:30:00;2026-04-03 11:20:00;50;Manhã;93,3;1,79;29,1;300,0
+71;2026-04-03;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Faltou;0;13:00:00;13:30:00;2026-04-03 13:00:00;2026-04-03 13:30:00;30;Tarde;;;;0,0
+72;2026-04-06;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-04-06 14:00:00;2026-04-06 14:30:00;30;Tarde;83,5;1,62;31,8;150,0
+73;2026-04-07;Paulo Roberto Dias;Dr. André Tavares;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-04-07 16:00:00;2026-04-07 16:50:00;50;Tarde;95,0;1,72;32,1;250,0
+74;2026-04-07;Thiago Rezende;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;11:30:00;12:20:00;2026-04-07 11:30:00;2026-04-07 12:20:00;50;Manhã;83,3;1,77;26,6;300,0
+75;2026-04-08;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-04-08 09:00:00;2026-04-08 09:30:00;30;Manhã;68,9;1,7;23,8;150,0
+76;2026-04-08;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;13:00:00;13:30:00;2026-04-08 13:00:00;2026-04-08 13:30:00;30;Tarde;88,3;1,73;29,5;150,0
+77;2026-04-08;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-04-08 09:00:00;2026-04-08 09:30:00;30;Manhã;93,2;1,79;29,1;150,0
+78;2026-04-09;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-09 11:30:00;2026-04-09 12:00:00;30;Manhã;87,9;1,73;29,4;150,0
+79;2026-04-09;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Faltou;0;13:00:00;13:30:00;2026-04-09 13:00:00;2026-04-09 13:30:00;30;Tarde;;;;0,0
+80;2026-04-09;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;08:00:00;08:30:00;2026-04-09 08:00:00;2026-04-09 08:30:00;30;Manhã;83,2;1,62;31,7;150,0
+81;2026-04-09;Letícia Barros;Dra. Luiza Martins;Primeira Consulta;Cancelada;0;16:00:00;16:50:00;2026-04-09 16:00:00;2026-04-09 16:50:00;50;Tarde;;;;0,0
+82;2026-04-10;Daniel Machado;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-04-10 08:00:00;2026-04-10 08:30:00;30;Manhã;76,9;1,8;23,7;150,0
+83;2026-04-13;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;08:00:00;08:30:00;2026-04-13 08:00:00;2026-04-13 08:30:00;30;Manhã;87,0;1,73;29,1;150,0
+84;2026-04-13;Bianca Moraes;Dra. Camila Nogueira;Retorno;Realizada;1;13:00:00;13:30:00;2026-04-13 13:00:00;2026-04-13 13:30:00;30;Tarde;59,9;1,69;21,0;150,0
+85;2026-04-15;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-04-15 09:00:00;2026-04-15 09:30:00;30;Manhã;92,4;1,79;28,8;150,0
+86;2026-04-15;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-04-15 09:00:00;2026-04-15 09:30:00;30;Manhã;67,9;1,65;24,9;150,0
+87;2026-04-15;Amanda Sampaio;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-15 11:30:00;2026-04-15 12:00:00;30;Manhã;64,0;1,68;22,7;150,0
+88;2026-04-16;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;10:30:00;11:00:00;2026-04-16 10:30:00;2026-04-16 11:00:00;30;Manhã;93,8;1,72;31,7;150,0
+89;2026-04-16;Bianca Moraes;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-16 15:00:00;2026-04-16 15:30:00;30;Tarde;59,9;1,69;21,0;150,0
+90;2026-04-16;Cláudia Menezes;Dra. Luiza Martins;Primeira Consulta;Realizada;1;11:30:00;12:20:00;2026-04-16 11:30:00;2026-04-16 12:20:00;50;Manhã;73,1;1,57;29,7;250,0
+91;2026-04-16;Cláudia Menezes;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-16 15:00:00;2026-04-16 15:30:00;30;Tarde;72,0;1,57;29,2;150,0
+92;2026-04-17;Bianca Moraes;Dra. Camila Nogueira;Retorno;Realizada;1;10:30:00;11:00:00;2026-04-17 10:30:00;2026-04-17 11:00:00;30;Manhã;60,0;1,69;21,0;150,0
+93;2026-04-17;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;14:00:00;14:30:00;2026-04-17 14:00:00;2026-04-17 14:30:00;30;Tarde;60,7;1,67;21,8;150,0
+94;2026-04-20;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;10:30:00;11:00:00;2026-04-20 10:30:00;2026-04-20 11:00:00;30;Manhã;102,5;1,81;31,3;150,0
+95;2026-04-20;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-04-20 08:00:00;2026-04-20 08:30:00;30;Manhã;78,2;1,82;23,6;150,0
+96;2026-04-20;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-20 15:00:00;2026-04-20 15:30:00;30;Tarde;91,4;1,79;28,5;150,0
+97;2026-04-20;Cláudia Menezes;Dra. Luiza Martins;Retorno;Faltou;0;15:00:00;15:30:00;2026-04-20 15:00:00;2026-04-20 15:30:00;30;Tarde;;;;0,0
+98;2026-04-21;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-21 11:30:00;2026-04-21 12:00:00;30;Manhã;102,4;1,81;31,3;150,0
+99;2026-04-21;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-04-21 16:00:00;2026-04-21 16:30:00;30;Tarde;97,4;1,75;31,8;150,0
+100;2026-04-21;Cláudia Menezes;Dra. Luiza Martins;Retorno;Cancelada;0;08:00:00;08:30:00;2026-04-21 08:00:00;2026-04-21 08:30:00;30;Manhã;;;;0,0
+101;2026-04-21;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Faltou;0;09:00:00;09:30:00;2026-04-21 09:00:00;2026-04-21 09:30:00;30;Manhã;;;;0,0
+102;2026-04-22;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;16:00:00;16:30:00;2026-04-22 16:00:00;2026-04-22 16:30:00;30;Tarde;67,6;1,65;24,8;150,0
+103;2026-04-23;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-23 11:30:00;2026-04-23 12:00:00;30;Manhã;67,1;1,65;24,6;150,0
+104;2026-04-24;Bianca Moraes;Dra. Camila Nogueira;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-24 11:30:00;2026-04-24 12:00:00;30;Manhã;58,7;1,69;20,6;150,0
+105;2026-04-24;Bianca Moraes;Dra. Camila Nogueira;Retorno;Faltou;0;15:00:00;15:30:00;2026-04-24 15:00:00;2026-04-24 15:30:00;30;Tarde;;;;0,0
+106;2026-04-27;Fábio Lacerda;Dr. André Tavares;Retorno;Faltou;0;11:30:00;12:00:00;2026-04-27 11:30:00;2026-04-27 12:00:00;30;Manhã;;;;0,0
+107;2026-04-27;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-04-27 16:00:00;2026-04-27 16:30:00;30;Tarde;86,5;1,73;28,9;150,0
+108;2026-04-27;Cláudia Menezes;Dra. Luiza Martins;Retorno;Realizada;1;10:30:00;11:00:00;2026-04-27 10:30:00;2026-04-27 11:00:00;30;Manhã;72,3;1,57;29,3;150,0
+109;2026-04-27;Letícia Barros;Dra. Luiza Martins;Primeira Consulta;Realizada;1;14:00:00;14:50:00;2026-04-27 14:00:00;2026-04-27 14:50:00;50;Tarde;58,7;1,61;22,6;250,0
+110;2026-04-28;Gabriel Antunes;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:00:00;15:50:00;2026-04-28 15:00:00;2026-04-28 15:50:00;50;Tarde;75,0;1,79;23,4;300,0
+111;2026-04-28;Cláudia Menezes;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-28 15:00:00;2026-04-28 15:30:00;30;Tarde;71,4;1,57;29,0;150,0
+112;2026-04-29;Daniel Machado;Dra. Camila Nogueira;Retorno;Realizada;1;16:00:00;16:30:00;2026-04-29 16:00:00;2026-04-29 16:30:00;30;Tarde;76,1;1,8;23,5;150,0
+113;2026-04-29;Sofia Rezende;Dra. Luiza Martins;Retorno;Realizada;1;13:00:00;13:30:00;2026-04-29 13:00:00;2026-04-29 13:30:00;30;Tarde;54,1;1,58;21,7;150,0
+114;2026-04-29;Letícia Barros;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-29 15:00:00;2026-04-29 15:30:00;30;Tarde;59,0;1,61;22,8;150,0
+115;2026-04-30;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-04-30 11:30:00;2026-04-30 12:00:00;30;Manhã;96,4;1,75;31,5;150,0
+116;2026-04-30;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-04-30 15:00:00;2026-04-30 15:30:00;30;Tarde;93,9;1,72;31,7;150,0
+117;2026-05-01;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-05-01 16:00:00;2026-05-01 16:30:00;30;Tarde;102,0;1,81;31,1;150,0
+118;2026-05-01;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-05-01 11:30:00;2026-05-01 12:00:00;30;Manhã;66,5;1,65;24,4;150,0
+119;2026-05-04;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-05-04 08:00:00;2026-05-04 08:30:00;30;Manhã;60,8;1,67;21,8;150,0
+120;2026-05-05;Carolina Freitas;Dr. André Tavares;Retorno;Cancelada;0;11:30:00;12:00:00;2026-05-05 11:30:00;2026-05-05 12:00:00;30;Manhã;;;;0,0
+121;2026-05-05;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-05-05 16:00:00;2026-05-05 16:30:00;30;Tarde;101,8;1,81;31,1;150,0
+122;2026-05-05;Daniel Machado;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;08:00:00;08:50:00;2026-05-05 08:00:00;2026-05-05 08:50:00;50;Manhã;76,3;1,8;23,5;300,0
+123;2026-05-05;Letícia Barros;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-05-05 09:00:00;2026-05-05 09:30:00;30;Manhã;58,3;1,61;22,5;150,0
+124;2026-05-05;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-05-05 14:00:00;2026-05-05 14:30:00;30;Tarde;83,3;1,62;31,7;150,0
+125;2026-05-06;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-05-06 11:30:00;2026-05-06 12:00:00;30;Manhã;93,0;1,72;31,4;150,0
+126;2026-05-06;Ricardo Pacheco;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;14:00:00;14:50:00;2026-05-06 14:00:00;2026-05-06 14:50:00;50;Tarde;90,5;1,79;28,2;300,0
+127;2026-05-06;Thiago Rezende;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:00:00;15:50:00;2026-05-06 15:00:00;2026-05-06 15:50:00;50;Tarde;82,2;1,77;26,2;300,0
+128;2026-05-06;Amanda Sampaio;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-05-06 14:00:00;2026-05-06 14:30:00;30;Tarde;64,1;1,68;22,7;150,0
+129;2026-05-07;Rafael Cunha;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;16:00:00;16:50:00;2026-05-07 16:00:00;2026-05-07 16:50:00;50;Tarde;88,5;1,84;26,1;300,0
+130;2026-05-08;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-05-08 15:00:00;2026-05-08 15:30:00;30;Tarde;100,8;1,81;30,8;150,0
+131;2026-05-08;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-05-08 16:00:00;2026-05-08 16:30:00;30;Tarde;67,7;1,7;23,4;150,0
+132;2026-05-08;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Cancelada;0;15:00:00;15:30:00;2026-05-08 15:00:00;2026-05-08 15:30:00;30;Tarde;;;;0,0
+133;2026-05-08;Sofia Rezende;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-05-08 11:30:00;2026-05-08 12:00:00;30;Manhã;54,4;1,58;21,8;150,0
+134;2026-05-11;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-05-11 15:00:00;2026-05-11 15:30:00;30;Tarde;89,8;1,79;28,0;150,0
+135;2026-05-12;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-05-12 15:00:00;2026-05-12 15:30:00;30;Tarde;67,8;1,7;23,5;150,0
+136;2026-05-12;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Cancelada;0;14:00:00;14:30:00;2026-05-12 14:00:00;2026-05-12 14:30:00;30;Tarde;;;;0,0
+137;2026-05-12;Letícia Barros;Dra. Luiza Martins;Retorno;Cancelada;0;14:00:00;14:30:00;2026-05-12 14:00:00;2026-05-12 14:30:00;30;Tarde;;;;0,0
+138;2026-05-12;Letícia Barros;Dra. Luiza Martins;Retorno;Realizada;1;16:00:00;16:30:00;2026-05-12 16:00:00;2026-05-12 16:30:00;30;Tarde;57,2;1,61;22,1;150,0
+139;2026-05-13;Gabriel Antunes;Dra. Camila Nogueira;Avaliação Esportiva;Faltou;0;09:00:00;09:50:00;2026-05-13 09:00:00;2026-05-13 09:50:00;50;Manhã;;;;0,0
+140;2026-05-13;Rafael Cunha;Dra. Camila Nogueira;Retorno;Faltou;0;10:30:00;11:00:00;2026-05-13 10:30:00;2026-05-13 11:00:00;30;Manhã;;;;0,0
+141;2026-05-14;Helena Duarte;Dr. André Tavares;Retorno;Faltou;0;08:00:00;08:30:00;2026-05-14 08:00:00;2026-05-14 08:30:00;30;Manhã;;;;0,0
+142;2026-05-14;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Cancelada;0;13:00:00;13:30:00;2026-05-14 13:00:00;2026-05-14 13:30:00;30;Tarde;;;;0,0
+143;2026-05-14;Eduardo Ramos;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;08:00:00;08:50:00;2026-05-14 08:00:00;2026-05-14 08:50:00;50;Manhã;77,1;1,82;23,3;300,0
+144;2026-05-14;Thiago Rezende;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-05-14 15:00:00;2026-05-14 15:30:00;30;Tarde;81,2;1,77;25,9;150,0
+145;2026-05-15;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-05-15 09:00:00;2026-05-15 09:30:00;30;Manhã;95,5;1,75;31,2;150,0
+146;2026-05-15;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-05-15 14:00:00;2026-05-15 14:30:00;30;Tarde;65,4;1,65;24,0;150,0
+147;2026-05-18;Beatriz Lacerda;Dr. André Tavares;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-05-18 16:00:00;2026-05-18 16:50:00;50;Tarde;70,1;1,66;25,4;250,0
+148;2026-05-18;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Faltou;0;15:00:00;15:30:00;2026-05-18 15:00:00;2026-05-18 15:30:00;30;Tarde;;;;0,0
+149;2026-05-19;Eduardo Ramos;Dra. Camila Nogueira;Retorno;Realizada;1;13:00:00;13:30:00;2026-05-19 13:00:00;2026-05-19 13:30:00;30;Tarde;77,1;1,82;23,3;150,0
+150;2026-05-19;Sofia Rezende;Dra. Luiza Martins;Retorno;Faltou;0;15:00:00;15:30:00;2026-05-19 15:00:00;2026-05-19 15:30:00;30;Tarde;;;;0,0
+151;2026-05-21;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;14:00:00;14:30:00;2026-05-21 14:00:00;2026-05-21 14:30:00;30;Tarde;89,0;1,79;27,8;150,0
+152;2026-05-21;Cláudia Menezes;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-05-21 09:00:00;2026-05-21 09:30:00;30;Manhã;70,1;1,57;28,4;150,0
+153;2026-05-21;Letícia Barros;Dra. Luiza Martins;Retorno;Faltou;0;10:30:00;11:00:00;2026-05-21 10:30:00;2026-05-21 11:00:00;30;Manhã;;;;0,0
+154;2026-05-22;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-05-22 11:30:00;2026-05-22 12:00:00;30;Manhã;86,0;1,73;28,7;150,0
+155;2026-05-22;Eduardo Ramos;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;09:00:00;09:50:00;2026-05-22 09:00:00;2026-05-22 09:50:00;50;Manhã;77,2;1,82;23,3;300,0
+156;2026-05-25;Helena Duarte;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-05-25 16:00:00;2026-05-25 16:30:00;30;Tarde;70,0;1,6;27,3;150,0
+157;2026-05-25;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Faltou;0;10:30:00;11:00:00;2026-05-25 10:30:00;2026-05-25 11:00:00;30;Manhã;;;;0,0
+158;2026-05-25;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-05-25 15:00:00;2026-05-25 15:30:00;30;Tarde;76,1;1,64;28,3;150,0
+159;2026-05-26;Sérgio Pimentel;Dr. André Tavares;Primeira Consulta;Realizada;1;09:00:00;09:50:00;2026-05-26 09:00:00;2026-05-26 09:50:00;50;Manhã;109,3;1,75;35,7;250,0
+160;2026-05-26;Vitor Hugo Salles;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;09:00:00;09:50:00;2026-05-26 09:00:00;2026-05-26 09:50:00;50;Manhã;92,2;1,86;26,7;300,0
+161;2026-05-26;Rafael Cunha;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;11:30:00;12:20:00;2026-05-26 11:30:00;2026-05-26 12:20:00;50;Manhã;88,6;1,84;26,2;300,0
+162;2026-05-27;Fernanda Guedes;Dr. André Tavares;Primeira Consulta;Realizada;1;13:00:00;13:50:00;2026-05-27 13:00:00;2026-05-27 13:50:00;50;Tarde;74,7;1,63;28,1;250,0
+163;2026-05-27;Otávio Brandão;Dr. André Tavares;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-05-27 16:00:00;2026-05-27 16:50:00;50;Tarde;98,2;1,78;31,0;250,0
+164;2026-05-27;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;08:00:00;08:30:00;2026-05-27 08:00:00;2026-05-27 08:30:00;30;Manhã;82,8;1,62;31,6;150,0
+165;2026-05-27;Aline Rocha Faria;Dra. Luiza Martins;Primeira Consulta;Realizada;1;14:00:00;14:50:00;2026-05-27 14:00:00;2026-05-27 14:50:00;50;Tarde;66,7;1,7;23,1;250,0
+166;2026-05-28;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-05-28 08:00:00;2026-05-28 08:30:00;30;Manhã;88,2;1,79;27,5;150,0
+167;2026-05-28;Isabela Monteiro;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:00:00;15:50:00;2026-05-28 15:00:00;2026-05-28 15:50:00;50;Tarde;55,4;1,63;20,9;300,0
+168;2026-05-28;Mônica Queiroz;Dra. Luiza Martins;Primeira Consulta;Faltou;0;15:00:00;15:50:00;2026-05-28 15:00:00;2026-05-28 15:50:00;50;Tarde;;;;0,0
+169;2026-05-29;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Faltou;0;10:30:00;11:00:00;2026-05-29 10:30:00;2026-05-29 11:00:00;30;Manhã;;;;0,0
+170;2026-05-29;Eduardo Ramos;Dra. Camila Nogueira;Avaliação Esportiva;Faltou;0;14:00:00;14:50:00;2026-05-29 14:00:00;2026-05-29 14:50:00;50;Tarde;;;;0,0
+171;2026-06-01;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-01 15:00:00;2026-06-01 15:30:00;30;Tarde;76,0;1,64;28,3;150,0
+172;2026-06-02;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-02 09:00:00;2026-06-02 09:30:00;30;Manhã;76,4;1,64;28,4;150,0
+173;2026-06-02;Mônica Queiroz;Dra. Luiza Martins;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-06-02 16:00:00;2026-06-02 16:50:00;50;Tarde;81,5;1,59;32,2;250,0
+174;2026-06-03;Otávio Brandão;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-03 09:00:00;2026-06-03 09:30:00;30;Manhã;97,3;1,78;30,7;150,0
+175;2026-06-03;Fernanda Guedes;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-03 15:00:00;2026-06-03 15:30:00;30;Tarde;74,1;1,63;27,9;150,0
+176;2026-06-03;Vitor Hugo Salles;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-03 09:00:00;2026-06-03 09:30:00;30;Manhã;92,0;1,86;26,6;150,0
+177;2026-06-05;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;10:30:00;11:00:00;2026-06-05 10:30:00;2026-06-05 11:00:00;30;Manhã;92,7;1,72;31,3;150,0
+178;2026-06-05;Patrícia Albuquerque;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-05 09:00:00;2026-06-05 09:30:00;30;Manhã;59,7;1,67;21,4;150,0
+179;2026-06-08;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;14:00:00;14:30:00;2026-06-08 14:00:00;2026-06-08 14:30:00;30;Tarde;85,4;1,73;28,5;150,0
+180;2026-06-09;Gustavo Henrique Prado;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-09 15:00:00;2026-06-09 15:30:00;30;Tarde;71,4;1,66;25,9;150,0
+181;2026-06-09;Aline Rocha Faria;Dra. Luiza Martins;Retorno;Faltou;0;09:00:00;09:30:00;2026-06-09 09:00:00;2026-06-09 09:30:00;30;Manhã;;;;0,0
+182;2026-06-10;Paulo Roberto Dias;Dr. André Tavares;Retorno;Faltou;0;14:00:00;14:30:00;2026-06-10 14:00:00;2026-06-10 14:30:00;30;Tarde;;;;0,0
+183;2026-06-10;Mônica Queiroz;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-10 09:00:00;2026-06-10 09:30:00;30;Manhã;80,7;1,59;31,9;150,0
+184;2026-06-11;Sérgio Pimentel;Dr. André Tavares;Retorno;Faltou;0;11:30:00;12:00:00;2026-06-11 11:30:00;2026-06-11 12:00:00;30;Manhã;;;;0,0
+185;2026-06-11;Leonardo Batista;Dr. André Tavares;Retorno;Realizada;1;13:00:00;13:30:00;2026-06-11 13:00:00;2026-06-11 13:30:00;30;Tarde;94,7;1,75;30,9;150,0
+186;2026-06-11;Isabela Monteiro;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;10:30:00;11:20:00;2026-06-11 10:30:00;2026-06-11 11:20:00;50;Manhã;55,4;1,63;20,9;300,0
+187;2026-06-15;Vanessa Cordeiro;Dra. Luiza Martins;Retorno;Realizada;1;10:30:00;11:00:00;2026-06-15 10:30:00;2026-06-15 11:00:00;30;Manhã;81,8;1,62;31,2;150,0
+188;2026-06-15;Lívia Castanheira;Dra. Luiza Martins;Primeira Consulta;Faltou;0;14:00:00;14:50:00;2026-06-15 14:00:00;2026-06-15 14:50:00;50;Tarde;;;;0,0
+189;2026-06-16;Beatriz Lacerda;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-06-16 11:30:00;2026-06-16 12:00:00;30;Manhã;70,2;1,66;25,5;150,0
+190;2026-06-16;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-16 15:00:00;2026-06-16 15:30:00;30;Tarde;75,6;1,64;28,1;150,0
+191;2026-06-17;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-17 15:00:00;2026-06-17 15:30:00;30;Tarde;99,6;1,81;30,4;150,0
+192;2026-06-17;Beatriz Lacerda;Dr. André Tavares;Retorno;Faltou;0;16:00:00;16:30:00;2026-06-17 16:00:00;2026-06-17 16:30:00;30;Tarde;;;;0,0
+193;2026-06-17;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;10:30:00;11:00:00;2026-06-17 10:30:00;2026-06-17 11:00:00;30;Manhã;88,1;1,79;27,5;150,0
+194;2026-06-17;Letícia Barros;Dra. Luiza Martins;Retorno;Realizada;1;11:30:00;12:00:00;2026-06-17 11:30:00;2026-06-17 12:00:00;30;Manhã;57,5;1,61;22,2;150,0
+195;2026-06-18;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-18 15:00:00;2026-06-18 15:30:00;30;Tarde;99,0;1,81;30,2;150,0
+196;2026-06-18;Aline Rocha Faria;Dra. Luiza Martins;Retorno;Realizada;1;16:00:00;16:30:00;2026-06-18 16:00:00;2026-06-18 16:30:00;30;Tarde;66,9;1,7;23,1;150,0
+197;2026-06-19;Fábio Lacerda;Dr. André Tavares;Retorno;Realizada;1;11:30:00;12:00:00;2026-06-19 11:30:00;2026-06-19 12:00:00;30;Manhã;85,5;1,73;28,6;150,0
+198;2026-06-19;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;14:00:00;14:30:00;2026-06-19 14:00:00;2026-06-19 14:30:00;30;Tarde;92,0;1,72;31,1;150,0
+199;2026-06-19;Vitor Hugo Salles;Dra. Camila Nogueira;Retorno;Realizada;1;11:30:00;12:00:00;2026-06-19 11:30:00;2026-06-19 12:00:00;30;Manhã;91,4;1,86;26,4;150,0
+200;2026-06-19;Mônica Queiroz;Dra. Luiza Martins;Retorno;Faltou;0;10:30:00;11:00:00;2026-06-19 10:30:00;2026-06-19 11:00:00;30;Manhã;;;;0,0
+201;2026-06-19;Mariana Figueiredo;Dra. Luiza Martins;Retorno;Realizada;1;14:00:00;14:30:00;2026-06-19 14:00:00;2026-06-19 14:30:00;30;Tarde;64,3;1,65;23,6;150,0
+202;2026-06-22;Carolina Freitas;Dr. André Tavares;Retorno;Faltou;0;14:00:00;14:30:00;2026-06-22 14:00:00;2026-06-22 14:30:00;30;Tarde;;;;0,0
+203;2026-06-22;Beatriz Lacerda;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-06-22 16:00:00;2026-06-22 16:30:00;30;Tarde;69,2;1,66;25,1;150,0
+204;2026-06-22;Thiago Rezende;Dra. Camila Nogueira;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-22 09:00:00;2026-06-22 09:30:00;30;Manhã;81,0;1,77;25,9;150,0
+205;2026-06-22;Rafael Cunha;Dra. Camila Nogueira;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-22 15:00:00;2026-06-22 15:30:00;30;Tarde;88,0;1,84;26,0;150,0
+206;2026-06-23;Otávio Brandão;Dr. André Tavares;Retorno;Realizada;1;13:00:00;13:30:00;2026-06-23 13:00:00;2026-06-23 13:30:00;30;Tarde;96,3;1,78;30,4;150,0
+207;2026-06-23;Roberto Carlos Silva;Dra. Luiza Martins;Retorno;Realizada;1;15:00:00;15:30:00;2026-06-23 15:00:00;2026-06-23 15:30:00;30;Tarde;91,6;1,78;28,9;150,0
+208;2026-06-24;Fernanda Guedes;Dr. André Tavares;Retorno;Faltou;0;16:00:00;16:30:00;2026-06-24 16:00:00;2026-06-24 16:30:00;30;Tarde;;;;0,0
+209;2026-06-24;Gabriel Antunes;Dra. Camila Nogueira;Avaliação Esportiva;Realizada;1;15:00:00;15:50:00;2026-06-24 15:00:00;2026-06-24 15:50:00;50;Tarde;75,1;1,79;23,4;300,0
+210;2026-06-25;Carolina Freitas;Dr. André Tavares;Retorno;Realizada;1;08:00:00;08:30:00;2026-06-25 08:00:00;2026-06-25 08:30:00;30;Manhã;66,7;1,7;23,1;150,0
+211;2026-06-25;Otávio Brandão;Dr. André Tavares;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-25 09:00:00;2026-06-25 09:30:00;30;Manhã;95,6;1,78;30,2;150,0
+212;2026-06-25;Vitor Hugo Salles;Dra. Camila Nogueira;Retorno;Faltou;0;10:30:00;11:00:00;2026-06-25 10:30:00;2026-06-25 11:00:00;30;Manhã;;;;0,0
+213;2026-06-26;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Faltou;0;15:00:00;15:30:00;2026-06-26 15:00:00;2026-06-26 15:30:00;30;Tarde;;;;0,0
+214;2026-06-26;Paulo Roberto Dias;Dr. André Tavares;Retorno;Realizada;1;16:00:00;16:30:00;2026-06-26 16:00:00;2026-06-26 16:30:00;30;Tarde;90,8;1,72;30,7;150,0
+215;2026-06-29;Rafael Cunha;Dra. Camila Nogueira;Retorno;Realizada;1;11:30:00;12:00:00;2026-06-29 11:30:00;2026-06-29 12:00:00;30;Manhã;88,2;1,84;26,1;150,0
+216;2026-06-29;Lívia Castanheira;Dra. Luiza Martins;Primeira Consulta;Realizada;1;16:00:00;16:50:00;2026-06-29 16:00:00;2026-06-29 16:50:00;50;Tarde;62,7;1,55;26,1;250,0
+217;2026-06-30;Marcelo Tavares Lins;Dr. André Tavares;Retorno;Realizada;1;10:30:00;11:00:00;2026-06-30 10:30:00;2026-06-30 11:00:00;30;Manhã;98,2;1,81;30,0;150,0
+218;2026-06-30;Ricardo Pacheco;Dra. Camila Nogueira;Retorno;Realizada;1;08:00:00;08:30:00;2026-06-30 08:00:00;2026-06-30 08:30:00;30;Manhã;86,9;1,79;27,1;150,0
+219;2026-06-30;Thiago Rezende;Dra. Camila Nogueira;Retorno;Realizada;1;16:00:00;16:30:00;2026-06-30 16:00:00;2026-06-30 16:30:00;30;Tarde;79,8;1,77;25,5;150,0
+220;2026-06-30;Sofia Rezende;Dra. Luiza Martins;Retorno;Realizada;1;08:00:00;08:30:00;2026-06-30 08:00:00;2026-06-30 08:30:00;30;Manhã;54,5;1,58;21,8;150,0
+221;2026-06-30;Juliana Paiva;Dra. Luiza Martins;Retorno;Realizada;1;09:00:00;09:30:00;2026-06-30 09:00:00;2026-06-30 09:30:00;30;Manhã;75,5;1,64;28,1;150,0

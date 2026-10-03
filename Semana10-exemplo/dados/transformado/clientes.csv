@@ -1,0 +1,201 @@
+﻿id_cliente;nome;cpf;email;telefone;cidade;estado;regiao;sexo;data_nascimento;idade;faixa_etaria;data_cadastro
+1;Brenda Alves;438.150.926-98;alvesfrancisco@example.org;553189083863;Salvador;BA;Nordeste;M;1957-10-19;68;60 ou mais;2023-08-12
+2;Lara Abreu;265.917.803-86;;4115594078;Rio de Janeiro;RJ;Sudeste;M;1998-11-21;27;25 a 34;2024-08-26
+3;Marcos Vinicius Barros;845.910.623-33;;02113164752;Niterói;RJ;Sudeste;M;1980-07-11;46;45 a 59;2023-12-11
+4;Dr. Gustavo Henrique Rios;412.958.637-82;pedro-lucas50@example.org;5505156413953;Campinas;SP;Sudeste;F;1998-02-09;28;25 a 34;2024-01-23
+5;Sara Gonçalves;724.169.835-55;ofonseca@example.org;3171012269;São Paulo;SP;Sudeste;F;1956-03-29;70;60 ou mais;2023-10-24
+6;Matheus Garcia;974.805.231-14;da-rochaluara@example.org;05104828148;São Paulo;SP;Sudeste;M;1964-08-04;62;60 ou mais;2024-11-17
+7;Fernanda Cassiano;520.483.761-26;rhavi03@example.net;552117182278;Niterói;RJ;Sudeste;M;1991-06-22;35;35 a 44;2024-10-17
+8;João Moura;963.451.287-91;cmoreira@example.org;555131509839;Fortaleza;CE;Nordeste;M;1952-11-17;73;60 ou mais;2023-03-09
+9;André Barbosa;031.926.785-77;valentinacardoso@example.net;05009737631;Rio de Janeiro;RJ;Sudeste;M;2007-09-03;19;18 a 24;2023-09-10
+10;Pedro Fogaça;697.850.431-93;henrique33@example.org;6172624731;Natal;RN;Nordeste;F;1969-09-04;57;45 a 59;2023-04-04
+11;Beatriz Aragão;801.675.342-62;isadoraaraujo@example.org;4106474687;São Luís;MA;Nordeste;M;1984-07-09;42;35 a 44;2024-04-24
+12;Gabriel da Rocha;308.527.461-80;danilomoraes@example.org;5506119136193;Florianópolis;SC;Sul;M;1973-12-09;52;45 a 59;2023-06-11
+13;Ana Cecília Pinto;165.298.734-73;ana-claramarques@example.com;551107991183;Londrina;PR;Sul;F;2007-04-29;19;18 a 24;2023-06-15
+14;Julia Cardoso;513.268.794-64;riosana-clara@example.net;555124118244;Joinville;SC;Sul;M;1960-01-14;66;60 ou mais;2023-11-11
+15;Giovanna Silva;534.782.091-88;caio05@example.org;557127868011;Rio de Janeiro;RJ;Sudeste;F;1997-10-16;28;25 a 34;2024-07-16
+16;Srta. Ísis Andrade;582.310.794-32;otto31@example.com;8469232260;Ribeirão Preto;SP;Sudeste;M;1968-01-18;58;45 a 59;2024-11-18
+17;Lucas Gabriel Viana;634.150.879-48;murilomarques@example.com;04133036541;Salvador;BA;Nordeste;F;2002-10-12;23;18 a 24;2023-01-08
+18;Luiz Fernando Ramos;865.092.143-42;caldeiraluara@example.com;05169816934;São Paulo;SP;Sudeste;M;1974-12-26;51;45 a 59;2023-05-16
+19;Pedro Henrique Abreu;893.270.651-40;silveiraana-clara@example.net;04165648236;Natal;RN;Nordeste;F;1967-01-31;59;45 a 59;2023-12-29
+20;Maria Helena Rocha;246.809.751-30;maria-flor77@example.net;551187214895;Curitiba;PR;Sul;F;1959-10-21;66;60 ou mais;2024-07-03
+21;Isaac Rocha;438.105.679-57;oleao@example.net;5507167632016;Londrina;PR;Sul;F;1999-05-17;27;25 a 34;2023-01-16
+22;Felipe Sampaio;870.419.365-20;luisa98@example.com;8172774348;São Paulo;SP;Sudeste;F;1985-12-24;40;35 a 44;2023-01-03
+23;Isabella da Mota;714.825.930-41;kevinda-conceicao@example.com;5502131665876;Vitória;ES;Sudeste;M;1999-11-11;26;25 a 34;2023-10-31
+24;Gustavo Leão;609.382.417-96;mariahcamara@example.com;02170656272;Rio de Janeiro;RJ;Sudeste;F;1992-10-10;33;25 a 34;2023-03-24
+25;Yasmin Alves;601.537.982-03;gabrielly53@example.com;06156464170;Cuiabá;MT;Centro-Oeste;F;1972-02-02;54;45 a 59;2024-03-05
+26;Dra. Ana Júlia Ferreira;310.678.452-08;josemelo@example.net;556193745299;Recife;PE;Nordeste;M;1971-06-01;55;45 a 59;2024-11-18
+27;Dra. Bruna Vasconcelos;241.809.375-14;pastorryan@example.org;03191905865;Salvador;BA;Nordeste;F;2000-07-05;26;25 a 34;2024-06-02
+28;Thiago Ramos;506.738.912-59;luaracavalcanti@example.net;4149877694;Niterói;RJ;Sudeste;M;1998-09-26;28;25 a 34;2024-10-31
+29;Sr. Caio da Mota;739.468.201-31;luiz-otavio73@example.com;557154948083;Florianópolis;SC;Sul;F;1959-08-09;67;60 ou mais;2024-09-11
+30;Isaque Silveira;673.589.402-29;pedro-miguel63@example.com;08005788568;Rio de Janeiro;RJ;Sudeste;F;1954-07-23;72;60 ou mais;2023-10-11
+31;Dr. Rafael da Mata;493.051.267-07;pedrosousa@example.com;558498941343;São Paulo;SP;Sudeste;F;1988-05-15;38;35 a 44;2024-07-12
+32;Sr. Kevin Albuquerque;824.067.935-83;acaldeira@example.net;01177752047;São Paulo;SP;Sudeste;M;1953-07-31;73;60 ou mais;2023-09-13
+33;Benício Guerra;710.864.293-03;novaislara@example.net;03009386774;Recife;PE;Nordeste;F;1971-03-29;55;45 a 59;2023-07-01
+34;Mariane das Neves;901.675.238-21;rhavicavalcanti@example.net;551120679740;Campo Grande;MS;Centro-Oeste;M;1972-04-06;54;45 a 59;2024-12-19
+35;João Pedro Santos;471.582.630-53;;7132421024;Campinas;SP;Sudeste;M;1991-04-19;35;35 a 44;2023-08-22
+36;Laura Macedo;174.532.690-16;lopesayla@example.net;556101399049;Rio de Janeiro;RJ;Sudeste;M;1995-09-14;31;25 a 34;2024-07-03
+37;Erick Melo;874.193.506-39;julia55@example.net;555125674680;Belo Horizonte;MG;Sudeste;F;1973-10-25;52;45 a 59;2023-12-20
+38;Aurora Dias;451.639.027-25;maragao@example.net;2197703482;Natal;RN;Nordeste;M;1953-12-25;72;60 ou mais;2024-12-04
+39;Pedro Lucas Sampaio;710.548.639-20;oborges@example.org;06112748467;Natal;RN;Nordeste;M;1979-08-16;47;45 a 59;2023-05-08
+40;Isabelly Marques;826.145.703-62;yfernandes@example.net;558104499727;Natal;RN;Nordeste;F;1999-09-27;27;25 a 34;2024-11-11
+41;Rafaela Ferreira;586.321.497-09;julianaaparecida@example.com;07166270289;Belém;PA;Norte;M;1950-01-14;76;60 ou mais;2024-03-16
+42;Sr. Pedro Lucas Brito;870.513.694-66;camila96@example.net;552158657809;Brasília;DF;Centro-Oeste;F;1992-06-14;34;25 a 34;2023-10-18
+43;Isaac Pires;431.805.697-00;aparecidaaylla@example.org;02155623869;Florianópolis;SC;Sul;F;1967-11-13;58;45 a 59;2024-05-01
+44;Emilly Cavalcante;216.458.390-60;maria-eduardaporto@example.com;05140748217;Caxias do Sul;RS;Sul;M;1984-06-13;42;35 a 44;2023-06-01
+45;Dr. Otávio Sales;479.135.086-39;ana-carolina40@example.net;6140909743;Salvador;BA;Nordeste;F;1969-08-19;57;45 a 59;2024-12-13
+46;Maria Câmara;342.506.718-44;joao14@example.com;8423285884;Florianópolis;SC;Sul;M;1997-08-26;29;25 a 34;2024-03-29
+47;José Miguel Mendes;451.307.926-61;fernando60@example.com;6117549651;Caxias do Sul;RS;Sul;M;1964-04-12;62;60 ou mais;2023-09-11
+48;Isabel Melo;085.419.327-88;icamargo@example.org;5505147113826;Goiânia;GO;Centro-Oeste;M;1956-12-13;69;60 ou mais;2023-12-10
+49;Maria Eduarda Rios;862.350.971-40;benicio53@example.com;03135158506;Belo Horizonte;MG;Sudeste;F;1969-03-12;57;45 a 59;2023-12-05
+50;Gabriel Campos;713.564.098-57;joseviana@example.net;5508418393352;Joinville;SC;Sul;M;1951-10-03;74;60 ou mais;2023-12-27
+51;Agatha da Mota;294.610.738-87;renan95@example.org;5505140268117;Belo Horizonte;MG;Sudeste;F;1998-12-30;27;25 a 34;2023-10-07
+52;Maria Cecília Moraes;917.486.025-94;bramos@example.org;08166177115;Curitiba;PR;Sul;F;1991-12-07;34;25 a 34;2024-06-30
+53;Clara Azevedo;245.387.916-28;vieiraian@example.net;8136736576;São Paulo;SP;Sudeste;F;1966-04-21;60;60 ou mais;2023-12-02
+54;Aylla Dias;654.213.079-99;lopesgael@example.net;3128098851;Rio de Janeiro;RJ;Sudeste;M;1987-10-27;38;35 a 44;2024-04-26
+55;Maria Rios;604.725.893-00;maria-luisacamara@example.org;08485149368;São Paulo;SP;Sudeste;F;1952-10-13;73;60 ou mais;2023-01-21
+56;Amanda Pereira;402.756.918-02;joao-pedronunes@example.net;7112018366;Caxias do Sul;RS;Sul;M;1972-12-27;53;45 a 59;2024-09-13
+57;Manuela Castro;549.687.032-10;carlos-eduardorocha@example.org;558176797643;Belém;PA;Norte;M;1977-12-27;48;45 a 59;2023-07-23
+58;Bruna Ferreira;614.597.328-55;camaraisabela@example.net;5508103432445;São Paulo;SP;Sudeste;F;2003-11-13;22;18 a 24;2024-08-02
+59;André Monteiro;628.341.705-17;lopesarthur-miguel@example.com;551159696641;Brasília;DF;Centro-Oeste;M;1987-09-08;39;35 a 44;2024-10-12
+60;Alícia Duarte;275.036.189-30;goncalvesana-luiza@example.net;08135218188;Campo Grande;MS;Centro-Oeste;M;1974-03-26;52;45 a 59;2024-08-29
+61;Luiz Fernando Ferreira;231.796.450-16;cavalcantimarina@example.com;03009799552;Niterói;RJ;Sudeste;M;1991-09-10;35;35 a 44;2024-05-21
+62;Ana Lívia Melo;748.902.516-85;dandrade@example.com;01111998679;Cuiabá;MT;Centro-Oeste;M;2003-06-26;23;18 a 24;2024-06-13
+63;Ana Cecília Machado;935.486.107-57;fernandesenzo-gabriel@example.net;5505103778892;Belém;PA;Norte;M;1992-09-17;34;25 a 34;2023-01-18
+64;Dr. João Miguel Gomes;650.982.713-12;qda-paz@example.net;05002519254;São Paulo;SP;Sudeste;M;1999-08-28;27;25 a 34;2024-07-17
+65;Maria Júlia Cardoso;914.732.860-69;xmoraes@example.org;2142357332;Belo Horizonte;MG;Sudeste;F;1978-04-23;48;45 a 59;2024-12-07
+66;Breno da Rocha;180.524.963-06;luancirino@example.net;09002706537;Ribeirão Preto;SP;Sudeste;M;2003-07-17;23;18 a 24;2023-07-18
+67;Larissa Sá;738.291.654-55;svargas@example.com;2186239240;Belo Horizonte;MG;Sudeste;M;1999-08-24;27;25 a 34;2023-05-10
+68;Rafaela Freitas;819.207.645-85;oborges@example.com;08406068536;Salvador;BA;Nordeste;M;1989-07-08;37;35 a 44;2023-02-22
+69;Marcelo Câmara;051.682.794-49;maria-julia27@example.com;08000104328;Niterói;RJ;Sudeste;F;1963-08-12;63;60 ou mais;2023-11-08
+70;Dra. Vitória Lima;143.205.976-99;camargomelina@example.net;6108932460;São Paulo;SP;Sudeste;M;1970-04-01;56;45 a 59;2024-03-29
+71;Maria da Costa;962.580.743-83;cmelo@example.net;5154051531;Belo Horizonte;MG;Sudeste;F;1958-11-26;67;60 ou mais;2023-09-28
+72;Lívia Carvalho;058.671.324-71;joao-gabrielazevedo@example.net;05104303054;Recife;PE;Nordeste;M;1992-02-28;34;25 a 34;2024-12-24
+73;Maria Laura Nogueira;740.651.289-94;yago15@example.com;7176527758;Belo Horizonte;MG;Sudeste;F;2006-01-28;20;18 a 24;2024-07-11
+74;Bryan Siqueira;619.487.250-02;duarteana-carolina@example.com;04196275705;Rio de Janeiro;RJ;Sudeste;M;2003-05-21;23;18 a 24;2024-04-24
+75;Maya da Mota;016.248.935-89;cardosodavi-luiz@example.org;2156909275;Fortaleza;CE;Nordeste;F;2003-08-27;23;18 a 24;2023-11-27
+76;Dr. Breno Oliveira;285.397.104-04;melinamoreira@example.com;8414473947;Caxias do Sul;RS;Sul;M;1951-11-11;74;60 ou mais;2023-06-29
+77;Davi Carvalho;172.530.869-02;novaesvitoria@example.com;03122583132;Florianópolis;SC;Sul;F;1994-02-11;32;25 a 34;2024-02-23
+78;Thales Alves;589.341.067-00;usilva@example.com;5166912517;Belo Horizonte;MG;Sudeste;F;1985-12-05;40;35 a 44;2023-11-19
+79;Stella Ferreira;289.613.047-04;lucas25@example.net;552158414384;Niterói;RJ;Sudeste;M;1998-09-05;28;25 a 34;2023-07-12
+80;Kevin Pimenta;812.469.573-37;alvesenrico@example.org;05004396907;Florianópolis;SC;Sul;F;1999-04-10;27;25 a 34;2024-03-24
+81;Ísis da Rocha;473.658.210-35;castrolunna@example.com;08173592555;Campo Grande;MS;Centro-Oeste;M;1964-03-17;62;60 ou mais;2024-07-19
+82;Caroline Teixeira;581.273.096-21;joao-miguelbrito@example.org;02169632595;Curitiba;PR;Sul;M;1995-08-27;31;25 a 34;2024-05-09
+83;Emanuel Monteiro;879.230.416-87;pedropacheco@example.com;5507104797480;Florianópolis;SC;Sul;F;1962-04-01;64;60 ou mais;2024-02-29
+84;Pedro Carvalho;456.203.879-92;alicia16@example.net;04184991216;Belo Horizonte;MG;Sudeste;M;2002-08-28;24;18 a 24;2024-04-02
+85;Dr. Luiz Otávio Sá;236.405.781-71;dmoreira@example.org;05008259526;Joinville;SC;Sul;F;1966-12-04;59;45 a 59;2023-08-28
+86;Letícia Pastor;587.942.301-88;;07116940974;Cuiabá;MT;Centro-Oeste;M;1984-03-15;42;35 a 44;2024-10-29
+87;Heloísa Silveira;072.456.398-92;;5505191307562;Santos;SP;Sudeste;M;1959-01-02;67;60 ou mais;2023-01-16
+88;Gabrielly Jesus;870.514.623-26;ymoura@example.com;5505178585497;Natal;RN;Nordeste;F;1985-08-29;41;35 a 44;2024-11-21
+89;Josué da Mota;843.261.795-46;yan41@example.net;7166524041;Cuiabá;MT;Centro-Oeste;F;1998-07-16;28;25 a 34;2023-08-29
+90;Dr. José Miguel Souza;738.642.509-00;ryanaragao@example.net;5133016571;Salvador;BA;Nordeste;M;1959-01-07;67;60 ou mais;2023-11-03
+91;Cecilia Abreu;826.537.149-73;dante19@example.org;6102620672;Campo Grande;MS;Centro-Oeste;F;1986-12-20;39;35 a 44;2023-03-22
+92;Sra. Ana Carolina Albuquerque;415.239.708-04;matheus15@example.org;05142054932;Caxias do Sul;RS;Sul;M;2007-03-25;19;18 a 24;2024-11-13
+93;Maria Luiza Lima;851.390.746-48;theo04@example.com;554174549904;São Paulo;SP;Sudeste;M;2002-09-18;24;18 a 24;2024-03-10
+94;Maria Cecília Sales;301.927.654-34;portoana-carolina@example.com;08003327279;Fortaleza;CE;Nordeste;M;1971-04-13;55;45 a 59;2024-08-11
+95;Dr. Yan Melo;839.540.721-14;nuneshenry-gabriel@example.org;8183982258;Belo Horizonte;MG;Sudeste;F;2000-10-09;25;25 a 34;2024-05-23
+96;Bruna Rodrigues;371.490.568-57;dnunes@example.net;06140640391;Goiânia;GO;Centro-Oeste;F;2007-02-11;19;18 a 24;2024-11-25
+97;Otávio Ferreira;180.736.294-96;laurafreitas@example.com;04166182512;São Luís;MA;Nordeste;F;2007-12-27;18;18 a 24;2024-03-27
+98;Maria Júlia Moura;230.679.841-96;pda-conceicao@example.com;08424310690;São Paulo;SP;Sudeste;F;1968-01-06;58;45 a 59;2024-01-10
+99;Gustavo Azevedo;107.458.926-20;omacedo@example.net;551102843959;Florianópolis;SC;Sul;M;1976-06-24;50;45 a 59;2024-04-24
+100;Luna da Costa;423.785.096-00;fnovais@example.org;08468566246;Belém;PA;Norte;M;2000-01-01;26;25 a 34;2023-01-15
+101;Vitor Gabriel Melo;394.651.807-93;hnovais@example.org;5134351751;Niterói;RJ;Sudeste;M;2007-04-15;19;18 a 24;2024-04-27
+102;Esther Aragão;460.871.935-10;ana-julia03@example.org;557173936385;São Paulo;SP;Sudeste;M;2007-01-02;19;18 a 24;2023-11-06
+103;Mateus Martins;854.267.310-71;uteixeira@example.org;3156093204;Salvador;BA;Nordeste;F;1958-09-20;68;60 ou mais;2023-05-19
+104;Maria Vitória da Rocha;235.184.679-64;mariana77@example.org;1122872808;Vitória;ES;Sudeste;M;1963-11-12;62;60 ou mais;2024-05-16
+105;Breno Rios;096.157.823-86;cunhamirella@example.com;3109977008;Caxias do Sul;RS;Sul;M;1971-03-08;55;45 a 59;2024-07-11
+106;Maria Sophia Albuquerque;084.729.365-38;mourakaique@example.org;5507198454615;Campo Grande;MS;Centro-Oeste;F;1958-03-23;68;60 ou mais;2024-09-03
+107;Natália Nunes;394.506.712-06;enovaes@example.org;5502121765918;São Paulo;SP;Sudeste;F;1999-09-21;27;25 a 34;2023-08-27
+108;Ian Cunha;974.062.531-25;costelajoao-pedro@example.net;6114293968;Belo Horizonte;MG;Sudeste;M;1961-08-30;65;60 ou mais;2023-04-23
+109;Dr. Davi Miguel Vieira;185.063.974-48;uvasconcelos@example.org;558177358662;Recife;PE;Nordeste;F;1951-06-02;75;60 ou mais;2023-05-10
+110;Maria Helena Barros;943.506.281-42;heloisadias@example.com;555110475412;Natal;RN;Nordeste;M;1959-10-14;66;60 ou mais;2024-09-21
+111;Francisco Lopes;786.095.234-38;helena04@example.com;5118398262;São Paulo;SP;Sudeste;F;1952-10-17;73;60 ou mais;2024-02-16
+112;João Felipe da Rosa;472.013.859-41;eviana@example.com;556137993712;Curitiba;PR;Sul;F;1963-04-23;63;60 ou mais;2024-10-10
+113;André Gonçalves;569.328.147-73;maria-luizadias@example.org;6154793564;Porto Alegre;RS;Sul;M;2004-04-25;22;18 a 24;2024-11-01
+114;Maria Clara Camargo;932.540.876-74;sda-rocha@example.org;8172434266;Salvador;BA;Nordeste;M;1987-02-15;39;35 a 44;2024-02-13
+115;Pietro Peixoto;768.402.539-29;lucas-gabriel90@example.net;7156101438;Curitiba;PR;Sul;F;1992-07-19;34;25 a 34;2023-04-06
+116;Dra. Hellena Machado;567.894.130-57;scaldeira@example.com;552112545738;Curitiba;PR;Sul;F;1979-07-29;47;45 a 59;2024-11-12
+117;Marcela Melo;178.206.543-17;fernandeshenrique@example.net;5504138282586;Belém;PA;Norte;F;1981-07-19;45;45 a 59;2023-08-06
+118;Isabel Guerra;296.304.178-04;tabreu@example.org;5508441918255;Santos;SP;Sudeste;F;2001-07-04;25;25 a 34;2024-07-28
+119;Raul Camargo;475.936.820-56;clarice79@example.org;03199125134;São Luís;MA;Nordeste;M;1977-09-20;49;45 a 59;2023-07-05
+120;Fernando Freitas;286.341.750-90;iporto@example.net;5505182742257;Cuiabá;MT;Centro-Oeste;M;1969-04-20;57;45 a 59;2023-12-16
+121;Ana Júlia Fogaça;072.134.568-90;csantos@example.com;5504119034043;Ribeirão Preto;SP;Sudeste;F;1963-12-17;62;60 ou mais;2023-02-20
+122;Laura Cavalcante;791.402.635-25;nnogueira@example.com;555134074517;Recife;PE;Nordeste;F;1995-12-19;30;25 a 34;2023-04-24
+123;Isaac Costela;956.147.802-11;sophia49@example.net;5504154494812;Belo Horizonte;MG;Sudeste;F;2003-10-08;22;18 a 24;2023-08-05
+124;Ana Liz da Mota;293.158.647-19;kcasa-grande@example.net;558166711684;São Luís;MA;Nordeste;F;1984-02-10;42;35 a 44;2024-11-15
+125;Sra. Mirella Mendonça;501.932.847-23;lizcunha@example.com;558154589297;Brasília;DF;Centro-Oeste;M;1956-12-26;69;60 ou mais;2024-08-10
+126;Sr. Augusto Brito;701.693.485-39;joaorezende@example.com;5503141541520;Vitória;ES;Sudeste;M;2005-06-15;21;18 a 24;2024-01-06
+127;Lorena Silveira;361.508.794-10;raelmoreira@example.net;03100516271;São Paulo;SP;Sudeste;F;1980-06-17;46;45 a 59;2023-06-22
+128;Matheus Borges;195.268.307-68;mouraantony@example.net;5504175326973;São Paulo;SP;Sudeste;F;2007-11-27;18;18 a 24;2023-05-30
+129;Carlos Eduardo Carvalho;165.329.480-98;alicevasconcelos@example.net;5504143898364;Niterói;RJ;Sudeste;M;2006-05-03;20;18 a 24;2024-07-31
+130;Ana Júlia Viana;376.019.824-40;anna-liz26@example.net;8458271091;São Luís;MA;Nordeste;M;1978-12-30;47;45 a 59;2023-03-11
+131;João Cunha;096.427.315-25;portostella@example.net;08002414183;Florianópolis;SC;Sul;F;1990-07-18;36;35 a 44;2023-03-20
+132;Vitor Gabriel Duarte;614.538.092-60;dcamargo@example.net;05000421020;Salvador;BA;Nordeste;F;1999-09-24;27;25 a 34;2024-08-08
+133;Theo Ferreira;894.126.530-42;fariasliz@example.com;5114917785;Salvador;BA;Nordeste;F;1980-10-23;45;45 a 59;2023-06-26
+134;Theo Nunes;259.704.836-56;albuquerquesamuel@example.org;07156220863;São Paulo;SP;Sudeste;M;1983-06-14;43;35 a 44;2023-12-13
+135;Sr. Oliver Silveira;541.820.639-70;guerradavi-miguel@example.com;01145187053;Recife;PE;Nordeste;M;1984-09-05;42;35 a 44;2024-11-03
+136;Kevin Sousa;937.248.160-22;anthony-gabrieljesus@example.org;553185050641;Belém;PA;Norte;M;1977-10-31;48;45 a 59;2023-11-14
+137;Vinícius da Costa;670.152.834-17;xsampaio@example.com;552191826199;Joinville;SC;Sul;F;1997-03-23;29;25 a 34;2024-03-09
+138;Pedro Henrique Ribeiro;234.968.517-91;ravi-lucca13@example.org;08001212775;Florianópolis;SC;Sul;F;1993-08-17;33;25 a 34;2023-05-21
+139;Bárbara Nascimento;537.286.094-47;bruno35@example.org;553135680442;Santos;SP;Sudeste;F;1980-03-19;46;45 a 59;2023-06-07
+140;Nathan Machado;893.076.142-96;vasconcelospedro-miguel@example.org;5508165199410;Ribeirão Preto;SP;Sudeste;M;1953-12-02;72;60 ou mais;2023-09-01
+141;Gael Henrique Ramos;721.680.493-78;luanasilveira@example.com;1106625324;Londrina;PR;Sul;F;1992-01-29;34;25 a 34;2024-08-07
+142;Pietro Cassiano;034.867.592-56;hadassa26@example.org;5138065787;Londrina;PR;Sul;F;1967-12-01;58;45 a 59;2023-02-23
+143;Dr. Mathias da Mata;205.418.967-76;ravi-lucca21@example.org;554148039652;Salvador;BA;Nordeste;M;1961-03-09;65;60 ou mais;2023-10-07
+144;Isaac Pastor;590.862.147-11;tnogueira@example.org;08401039308;Londrina;PR;Sul;M;1990-06-22;36;35 a 44;2024-02-29
+145;Agatha Farias;932.751.608-77;joao-miguelvasconcelos@example.org;5151569154;São Paulo;SP;Sudeste;F;1980-01-30;46;45 a 59;2024-04-28
+146;Sr. Emanuel Siqueira;675.184.203-17;udas-neves@example.net;02122096902;Fortaleza;CE;Nordeste;M;1951-09-15;75;60 ou mais;2023-06-03
+147;Luiza Pimenta;317.820.695-77;felipesantos@example.net;07170433154;Joinville;SC;Sul;F;1960-12-06;65;60 ou mais;2024-10-16
+148;Alexandre Aragão;679.135.482-82;mendesrael@example.org;04110405411;Brasília;DF;Centro-Oeste;F;2006-09-11;20;18 a 24;2023-10-26
+149;Sr. Marcos Vinicius Castro;189.245.360-60;krezende@example.net;02120153368;Curitiba;PR;Sul;F;1956-01-27;70;60 ou mais;2024-04-26
+150;Dra. Ágatha da Luz;493.067.852-83;andre61@example.com;03007310324;São Paulo;SP;Sudeste;F;2006-05-13;20;18 a 24;2023-12-07
+151;Renan Camargo;467.352.091-25;estergarcia@example.com;5506170477434;Santos;SP;Sudeste;F;1992-12-06;33;25 a 34;2023-03-06
+152;Ana Liz Cassiano;195.643.820-33;amoreira@example.net;07193741608;Fortaleza;CE;Nordeste;M;1978-04-25;48;45 a 59;2024-07-10
+153;Stella Oliveira;921.637.408-03;bryanlima@example.org;02132945116;Florianópolis;SC;Sul;M;1979-10-12;46;45 a 59;2024-03-23
+154;Maria Laura Novaes;547.608.391-00;juannunes@example.net;08001191485;Campo Grande;MS;Centro-Oeste;M;1994-08-20;32;25 a 34;2024-06-15
+155;Julia Gomes;790.123.654-06;goncalvesbianca@example.net;554107450544;Niterói;RJ;Sudeste;M;1976-05-10;50;45 a 59;2024-11-07
+156;Samuel Sampaio;132.758.694-00;correialuisa@example.org;8178508214;Belo Horizonte;MG;Sudeste;M;1953-10-19;72;60 ou mais;2024-03-21
+157;Dra. Maria Luiza Carvalho;802.169.543-98;fonsecamiguel@example.com;3178610357;Niterói;RJ;Sudeste;F;1964-05-09;62;60 ou mais;2024-11-25
+158;Melissa Cavalcanti;785.216.093-02;karagao@example.net;551133346800;Brasília;DF;Centro-Oeste;F;2000-11-21;25;25 a 34;2024-11-26
+159;Caroline Ramos;203.946.517-07;maria-clara43@example.com;03189691085;Londrina;PR;Sul;M;1985-09-16;41;35 a 44;2023-09-13
+160;Larissa da Rosa;179.265.483-91;kaiquemoreira@example.org;5508196520744;Belém;PA;Norte;M;1973-05-09;53;45 a 59;2024-09-18
+161;Maria Luiza Gomes;035.761.824-62;luigi82@example.com;554172482513;Belo Horizonte;MG;Sudeste;F;1989-12-07;36;35 a 44;2023-11-24
+162;Sr. Leandro Leão;594.723.016-06;melomathias@example.net;557168460223;Recife;PE;Nordeste;F;2007-03-19;19;18 a 24;2024-06-04
+163;Dr. Raul Casa Grande;521.387.960-86;machadoyan@example.org;5504192712966;Rio de Janeiro;RJ;Sudeste;M;2001-05-05;25;25 a 34;2024-07-18
+164;Mariane Mendes;608.412.753-35;rochaanthony@example.net;555135421689;Santos;SP;Sudeste;M;1997-02-28;29;25 a 34;2024-08-11
+165;Enzo Azevedo;048.357.219-50;mariana53@example.org;7103323098;São Paulo;SP;Sudeste;F;1999-06-18;27;25 a 34;2023-05-13
+166;Davi Fonseca;064.875.923-74;rezendeasafe@example.org;556167618472;Curitiba;PR;Sul;M;1964-07-13;62;60 ou mais;2023-08-19
+167;Anthony da Rosa;614.798.302-40;ian17@example.org;05003483564;Uberlândia;MG;Sudeste;M;1999-06-02;27;25 a 34;2024-09-21
+168;Asafe Novaes;739.210.468-31;oliveiramarina@example.org;553181143744;Joinville;SC;Sul;M;2004-04-16;22;18 a 24;2024-07-31
+169;Ana Julia Brito;204.956.378-74;;554100225579;São Paulo;SP;Sudeste;M;1968-11-29;57;45 a 59;2023-02-01
+170;Caleb Freitas;521.369.874-37;zrezende@example.org;556120216979;Florianópolis;SC;Sul;M;1986-06-07;40;35 a 44;2024-12-06
+171;Maysa Cirino;965.401.387-84;cmacedo@example.org;557150899358;São Paulo;SP;Sudeste;M;1980-12-26;45;45 a 59;2024-06-11
+172;Aylla Lopes;375.869.120-68;ramoslevi@example.net;07172175354;Joinville;SC;Sul;M;1984-06-18;42;35 a 44;2023-06-13
+173;Thiago Câmara;869.710.352-59;monteiromaite@example.com;557170166088;Goiânia;GO;Centro-Oeste;M;1996-03-06;30;25 a 34;2023-11-12
+174;Caleb Vieira;943.567.210-80;mariafarias@example.net;09009757113;Florianópolis;SC;Sul;M;1954-07-15;72;60 ou mais;2024-10-31
+175;Luigi Fogaça;485.706.139-20;qcaldeira@example.net;5508131637351;Recife;PE;Nordeste;M;1982-10-25;43;35 a 44;2024-02-15
+176;Ana Clara Porto;917.354.860-00;novaesluana@example.net;08182922169;São Paulo;SP;Sudeste;M;1999-05-01;27;25 a 34;2024-09-30
+177;Luna Montenegro;693.278.410-69;juliapereira@example.net;3148583339;Recife;PE;Nordeste;F;1982-10-20;43;35 a 44;2024-06-05
+178;Sra. Manuella Rocha;295.708.341-88;;6146081062;Vitória;ES;Sudeste;M;1996-08-04;30;25 a 34;2023-05-24
+179;Benjamin Costa;429.581.067-30;vitoriaandrade@example.com;04119838638;Belo Horizonte;MG;Sudeste;M;2003-04-08;23;18 a 24;2024-06-05
+180;Sra. Ana Julia Garcia;695.407.281-85;emillysa@example.net;7193347212;Joinville;SC;Sul;M;1987-05-16;39;35 a 44;2024-12-05
+181;Théo Campos;609.247.183-31;fariasmaria-flor@example.net;5502102590947;Salvador;BA;Nordeste;F;1970-06-01;56;45 a 59;2023-06-24
+182;Maria Alice Barbosa;583.140.672-53;ferreirapedro-miguel@example.org;07155439878;Florianópolis;SC;Sul;F;1967-02-12;59;45 a 59;2024-03-04
+183;Alexia Camargo;573.946.108-10;hvieira@example.com;556184085887;Santos;SP;Sudeste;F;1955-08-03;71;60 ou mais;2024-07-28
+184;Ana Clara da Rocha;351.074.629-52;paulorodrigues@example.com;555138612075;Belo Horizonte;MG;Sudeste;M;1997-10-30;28;25 a 34;2024-11-23
+185;Caio Barbosa;024.796.138-87;omachado@example.com;02150618091;São Luís;MA;Nordeste;M;1972-02-12;54;45 a 59;2023-08-19
+186;Dra. Ana Clara Sampaio;159.286.074-58;qgoncalves@example.org;07128326842;Belém;PA;Norte;M;1978-06-11;48;45 a 59;2023-10-08
+187;Marcelo Albuquerque;892.065.374-74;otto53@example.com;3122239431;Belo Horizonte;MG;Sudeste;M;1963-02-21;63;60 ou mais;2023-12-21
+188;Benjamim Sá;871.250.643-53;wfarias@example.org;554114913577;Manaus;AM;Norte;M;2000-06-03;26;25 a 34;2024-08-23
+189;Dr. Eduardo Nunes;958.310.246-60;xda-mota@example.org;07177754781;Rio de Janeiro;RJ;Sudeste;M;1979-08-20;47;45 a 59;2023-01-06
+190;Bruno da Mota;283.950.476-65;lvargas@example.org;5505184887256;Belém;PA;Norte;F;1992-11-01;33;25 a 34;2023-10-22
+191;João Vitor Carvalho;781.324.056-17;oliviacarvalho@example.com;5503129927503;Belo Horizonte;MG;Sudeste;F;1953-05-07;73;60 ou mais;2023-06-30
+192;Isabel Azevedo;453.081.297-97;caparecida@example.net;06118449892;Manaus;AM;Norte;F;1975-12-21;50;45 a 59;2024-09-09
+193;Maria Flor Fonseca;914.387.652-82;evieira@example.net;5501182723184;Campinas;SP;Sudeste;M;1962-01-15;64;60 ou mais;2023-04-26
+194;Dom Cirino;251.873.940-88;erocha@example.com;5508492603029;Belo Horizonte;MG;Sudeste;F;1976-06-20;50;45 a 59;2024-10-16
+195;Elisa Carvalho;802.917.543-41;silveiraalice@example.org;551179772369;Campo Grande;MS;Centro-Oeste;M;1992-11-01;33;25 a 34;2023-01-07
+196;Fernando Pinto;842.567.390-92;gabrielagomes@example.org;555103886291;Niterói;RJ;Sudeste;F;2001-05-25;25;25 a 34;2024-01-04
+197;Renan Pimenta;901.837.624-87;cfreitas@example.net;5163765991;Fortaleza;CE;Nordeste;F;1977-11-25;48;45 a 59;2023-10-30
+198;Catarina da Cunha;731.245.890-41;santosanthony-gabriel@example.net;4118063565;Uberlândia;MG;Sudeste;M;1983-07-09;43;35 a 44;2024-04-27
+199;Eduardo Lima;948.673.251-55;nsa@example.com;8187258874;São Luís;MA;Nordeste;M;1957-05-06;69;60 ou mais;2024-01-06
+200;Luiz Felipe Vasconcelos;621.573.908-12;vviana@example.net;08000260127;São Paulo;SP;Sudeste;F;1998-02-23;28;25 a 34;2024-06-16

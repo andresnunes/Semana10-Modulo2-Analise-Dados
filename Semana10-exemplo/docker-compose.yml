@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: semana10_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${PGUSER:-postgres}
+      POSTGRES_PASSWORD: ${PGPASSWORD:-postgres}
+      POSTGRES_DB: ${PGDATABASE:-vendas_dw}
+    ports:
+      - "${PGPORT:-5434}:5432"
+    volumes:
+      - semana10_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${PGUSER:-postgres} -d ${PGDATABASE:-vendas_dw}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  semana10_postgres_data:

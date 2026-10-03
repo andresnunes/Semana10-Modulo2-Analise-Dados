@@ -1,0 +1,12 @@
+﻿id_produto;produto;categoria;marca;preco_unitario;qtd_pedidos
+P01;Notebook Inspiron 15;Informática;Dell;3899,9;3
+P02;Mouse sem fio;Informática;Logitech;89,9;4
+P03;Teclado Mecânico;Informática;Redragon;349,9;3
+P04;Monitor 24 polegadas;Informática;LG;899,0;3
+P05;Smartphone Galaxy A55;Eletrônicos;Samsung;2199,0;4
+P06;Fone Bluetooth;Eletrônicos;JBL;199,9;4
+P07;Smart TV 50 polegadas;Eletrônicos;LG;2799,0;3
+P08;Cadeira Gamer;Móveis;ThunderX3;1299,0;3
+P09;Mesa de Escritório;Móveis;Madesa;749,9;2
+P10;Luminária de Mesa;Móveis;Taschibra;119,9;0
+P11;Produto não cadastrado;Não informado;Não informado;;1

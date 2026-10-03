@@ -1,0 +1,15 @@
+﻿tabela;etapa;linhas_afetadas
+vendas;cliente: espaços e maiúsculas padronizados;63
+vendas;categoria: espaços e maiúsculas padronizados;38
+vendas;uf: convertida para maiúsculas;25
+vendas;linhas duplicadas removidas;5
+vendas;desconto_pct vazio preenchido com 0;31
+consultas;paciente: espaços e maiúsculas padronizados;42
+consultas;tipo_consulta: espaços e maiúsculas padronizados;83
+consultas;linhas duplicadas removidas;4
+consultas;horario no formato 'HHhMM' corrigido;35
+consultas;consultas sem medição (Faltou/Cancelada), peso e altura ficam vazios;43
+produtos;linhas duplicadas removidas;0
+pedidos;linhas duplicadas removidas;0
+pedidos;pedidos com produto inexistente (P11);1
+produtos;produtos sem nenhuma venda (P10);1
